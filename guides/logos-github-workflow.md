@@ -1,5 +1,5 @@
 ---
-title: "Integrating Logos Bible Software with a GitHub Markdown Repo and an AI Assistant"
+title: "Logos + GitHub Guide"
 date: 2026-10-11
 topic: workflow
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Free Resources for Exegesis and Theology"
+title: "Free Resources"
 date: 2026-10-11
 topic: workflow
 ---
