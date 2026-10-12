@@ -27,6 +27,11 @@ A checklist for setting up the [Logos + GitHub workflow](logos-github-workflow.m
 - [ ] Convert one Markdown study with `tools/md_to_logos_html.py` and paste it into a test note to confirm formatting.
 - [ ] Set up the export path (`tools/note_save_server.py`) and test a round trip.
 
+### Free library (optional)
+- [ ] Decide on a Faithlife account: a dedicated one on an assistant's own inbox, or your personal email. Approve the sign-up yourself; store the password in a password manager.
+- [ ] Claim the current free books and set a monthly reminder (see [Building a free Logos library](free-resources.md#building-a-free-logos-library)).
+- [ ] Bookmark the $0 store search and the free-book alert options.
+
 ### AI features
 - [ ] Check which AI features your Logos subscription includes. Logos's AI tools (such as the Study Assistant and AI-assisted search) and their usage limits or credits depend on your plan and change over time; see Logos's current pricing and help pages rather than relying on this guide.
 - [ ] Set the Study Assistant's scope to **Your books** when you want answers from your library.

@@ -40,7 +40,7 @@ Ask these one at a time, wait for my answer, and offer choices where useful:
 5. Tone and length preferences, and anything I dislike in AI answers.
 
 FREE-RESOURCE MODE
-If I say I don't have Logos, use guides/free-resources.md instead of a Logos library: ask which tradition list there to prioritize, use its free tiers for Scripture, primary sources, and scholarship, quote with links, and ask me to verify each quote.
+If I say I don't have Logos, use guides/free-resources.md instead of a Logos library: ask which tradition list there to prioritize, use its free tiers for Scripture, primary sources, and scholarship, quote with links, and ask me to verify each quote. Also offer to help me build a free Logos library (see "Building a free Logos library" in that guide): ask whether to use a dedicated account on your own inbox (only if you actually have one) or my personal email, never sign up or claim anything without my approval, and never ask for or store my password.
 
 C. SOURCES TO CONNECT OR IMPORT
 Ask which existing material I want to bring in: AI chat history (Grok, ChatGPT, Claude, Copilot), my X posts, email through connected apps, Logos notes, documents, lecture transcripts.

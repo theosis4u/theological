@@ -49,6 +49,48 @@ Use these in place of the Logos library in the [method template](ai-theology-met
 | [Free book of the month](https://www.logos.com/free-book-of-the-month) | A rotating free title; it requires a Faithlife account. |
 | [Logos web app](https://app.logos.com/) and [Faithlife](https://www.faithlife.com/) | Web access after signing in; Faithlife also offers other apps. Free features vary by account. |
 
+## Building a free Logos library
+
+You can build a useful Logos library at no cost by claiming free books regularly. Checked 2026-10-11; offers and URLs change.
+
+### 1. Choose an account
+
+- **(a) A dedicated assistant account.** If your AI assistant platform can give the assistant its own email inbox (Grok Bot can, for example), have it claim one and use it for a separate free Faithlife account the assistant can operate. This keeps your personal or paid Logos account separate from anything the assistant does.
+- **(b) Your own personal email.** Simpler, and books you claim land in your own library.
+
+Either way: **you approve every sign-up**, and passwords go in a password manager, never in a chat, a prompt, or the repo.
+
+### 2. Free books each month
+
+Logos's help page ["How do I get this month's free Logos book?"](https://support.logos.com/hc/en-us/articles/360031310291-How-Do-I-Get-This-Month-s-Free-Logos-Book) lists several monthly offers. The pages below loaded on the check date; offers may require signing in to a free Faithlife account.
+
+| Offer | Link | Notes |
+|---|---|---|
+| Logos free book of the month | [logos.com/free-book](https://www.logos.com/free-book) | The help page says it refreshes partway through the month, so about two books a month |
+| Verbum (Catholic) free book | [logos.com/another-free-book](https://www.logos.com/another-free-book) | Also reachable from [verbum.com/free-book-of-the-month](https://verbum.com/free-book-of-the-month) |
+| Subscriber free book | [logos.com/free-book/subscriber](https://www.logos.com/free-book/subscriber) | For Logos subscription holders only |
+| Free ebook and audiobook | [logos.com/free-ebook-and-audiobook](https://www.logos.com/free-ebook-and-audiobook) | The older links logos.com/free-ebook and /free-audiobook currently redirect to the monthly sale page |
+
+Lexham Press titles (Faithlife's own imprint) often appear among these freebies, but I found no separate Lexham free-book page that loads, so none is linked. Claiming each month adds up to a sizable library over a few years. Set a **monthly reminder** (for example the 1st and 16th), or ask an assistant with calendar access to remind you; it should never claim or sign up without your approval.
+
+### 3. Free previews of books you don't own
+
+Users report that the Logos web app and `ref.ly` links **may show a limited preview** of a passage in a book you don't own, sometimes without signing in. On the check date, a public link such as `https://ref.ly/Jn3.16` redirected to the Logos web app (`app.logos.com/books/...`) without requiring sign-in; how much text is shown depends on the book and your account. Treat previews as a way to check a quote's context, quote briefly, and cite the source; don't copy previews in bulk.
+
+### 4. Getting alerted to free books
+
+- **Email:** Logos's help page says you can sign up for free-book notifications at the bottom of the [free book page](https://www.logos.com/free-book).
+- **Community group:** the [Free Faithlife Books](https://faithlife.com/free-books) group on Faithlife is a user-run group that posts free books and 100%-off deals from Logos, Verbum, Faithlife Ebooks, and Lexham Press. Following it gives notifications. It's unofficial, so check each offer on the store page.
+- **Deals pages:** the [monthly sale](https://www.logos.com/monthly-sale) and [Verbum's monthly page](https://verbum.com/monthly-sale) list the current free book with that month's discounts.
+
+### 5. Searching the store for $0 resources
+
+On the check date, this Logos store search returned items currently priced at $0.00 that you don't already own:
+
+[`https://www.logos.com/search?query=price%3A0.00&limit=60&ownership=unowned`](https://www.logos.com/search?query=price%3A0.00&limit=60&ownership=unowned)
+
+The query `price:0.00` filters by price, and `ownership=unowned` hides what you already have (the filter only works when signed in). The results included study resources such as the Faithlife Study Bible, Lexham Bible Dictionary, Lexham English Bible, the abridged Brown-Driver-Briggs lexicon, and Codex Sinaiticus, along with fiction, videos, and short devotionals. Prices change and some $0 prices may depend on your account, so check the price on the product page before claiming. The same query works on the Faithlife Ebooks store: [`https://ebooks.faithlife.com/search?query=price%3A0.00`](https://ebooks.faithlife.com/search?query=price%3A0.00).
+
 ## 2. By tradition
 
 Each list matches a [tradition pack](../traditions/). Descriptions are of what a site offers, not an endorsement of its positions.
