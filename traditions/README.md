@@ -1,5 +1,6 @@
 ---
 title: "Traditions and Worldviews"
+permalink: /traditions/
 ---
 
 # Traditions and Worldviews
