@@ -119,6 +119,8 @@ Then, for each row:
 6. **Save the source of truth** (section 6).
 7. **Publish to Logos.** Convert with the script or the 4.3 prompt, or paste from Word, into a new note. Check the note title in the editor before pasting, because the notes list can lag. Headings will show as bold text, tables must become lists, and indented quotes need the indent style, not block quotes.
 
+For a complete example of this flow for a group study, see the [John 3:16–21 group study handout](../examples/john-3-16-group-study.md).
+
 ## 6. Keeping the repo without git
 
 You can keep the same folder structure from the [starter kit](../starter-kit/) without installing git:

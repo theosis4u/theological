@@ -15,7 +15,7 @@ A public toolkit for studying Scripture with **Logos Bible Software**, a **GitHu
 | [starter-kit/](starter-kit/) | Skeleton for your own **private** study repo |
 | [traditions/](traditions/) | Starter packs for eight traditions, with text for the method's "your tradition first" slot |
 | [prompts/](prompts/) | One prompt per request type, each with an example |
-| [examples/](examples/) | A worked passage study (John 1:1–5) and its generated Logos-note HTML |
+| [examples/](examples/) | Worked examples: a passage study (John 1:1–5) and a small-group handout (John 3:16–21), each with generated Logos-note HTML |
 | [tools/](tools/) | Python scripts: Markdown→Logos HTML, chat PDF importer, index builder, note save server, notes DB reader |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | How to add a tradition pack; style rules |
 | [LICENSE](LICENSE) | MIT for code, CC BY 4.0 for docs |
@@ -38,7 +38,7 @@ A public toolkit for studying Scripture with **Logos Bible Software**, a **GitHu
 1. Read the [workflow guide](guides/logos-github-workflow.md) and work through the [setup checklist](guides/setup-checklist.md).
 2. Create your private study repo from the [starter kit](starter-kit/) (below).
 3. Fill in `PROFILE.md` and `METHOD.md` using the [method template](guides/ai-theology-method-template.md) and your [tradition pack](traditions/).
-4. Try a [prompt](prompts/) and compare the result with the [worked example](examples/john-1-1-5-study.md).
+4. Try a [prompt](prompts/) and compare the result with the worked examples: [passage study](examples/john-1-1-5-study.md) and [group study handout](examples/john-3-16-group-study.md).
 
 ## Using the starter kit
 
