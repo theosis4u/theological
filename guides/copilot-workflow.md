@@ -10,6 +10,8 @@ This guide adapts the [Logos + GitHub workflow](logos-github-workflow.md) for so
 
 > **About capabilities:** Copilot features, names, and licensing change often and differ between personal and work accounts and between tenants. The descriptions below summarize Microsoft's and GitHub's public documentation as of late 2026, with links. Check the linked pages and your organization's settings before relying on any feature.
 
+Recommended first step: add this repo's files to a Copilot Notebook (or attach them) and run the onboarding prompt in [START-HERE.md](../START-HERE.md).
+
 ## 1. What Copilot can and can't do here
 
 **Likely available, depending on your plan and tenant:**

@@ -10,6 +10,8 @@ You probably already have years of theological material scattered across AI chat
 
 > **About export paths:** export features change. The steps below summarize each provider's public help pages as of late 2026, with links where available. Check the current page before you start; work and school accounts often have different rules or none.
 
+Haven't set up yet? Run the onboarding prompt in [START-HERE.md](../START-HERE.md) first; it asks which of these sources you want to import.
+
 **General cautions for every source**
 
 - **Read-only on the source.** Export or copy; never delete, edit, or rename originals while collecting.

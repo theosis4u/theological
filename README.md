@@ -3,10 +3,15 @@ Theological Writings Produced With Grok
 
 A public toolkit for studying Scripture with **Logos Bible Software**, a **GitHub Markdown repository**, and an **AI assistant**: keep your study work in plain text you control, share it as Logos notes, cite sources with links to the exact location, and give your assistant a clear, fair working method. Everything here is generic and can be adapted to any Christian tradition; no tradition is presented as the house view.
 
+## Step 0: Start here
+
+**New here? Read [START-HERE.md](START-HERE.md).** Give this repo to your AI assistant with the onboarding prompt; it will summarize the toolkit, interview you one question at a time, and draft your private `PROFILE.md` and `METHOD.md`.
+
 ## Map
 
 | Folder / file | What it's for |
 |---|---|
+| [START-HERE.md](START-HERE.md) | Step 0: give the repo to your assistant and run the onboarding prompt |
 | [guides/logos-github-workflow.md](guides/logos-github-workflow.md) | The main how-to: architecture, importing AI chats, writing and exporting Logos notes, citations, desktop data, Study Assistant, translation comparison |
 | [guides/ai-theology-method-template.md](guides/ai-theology-method-template.md) | Fill-in working method for your AI assistant (request types, source tiers, verification, fairness, honesty, citation rules) |
 | [guides/copilot-workflow.md](guides/copilot-workflow.md) | The same workflow using only Microsoft Copilot (and optionally GitHub Copilot) plus Logos, by copy and paste |
@@ -37,6 +42,7 @@ A public toolkit for studying Scripture with **Logos Bible Software**, a **GitHu
 
 ## Quick start
 
+0. Run the onboarding in [START-HERE.md](START-HERE.md).
 1. Read the [workflow guide](guides/logos-github-workflow.md) and work through the [setup checklist](guides/setup-checklist.md).
 2. Create your private study repo from the [starter kit](starter-kit/) (below).
 3. Fill in `PROFILE.md` and `METHOD.md` using the [method template](guides/ai-theology-method-template.md) and your [tradition pack](traditions/).

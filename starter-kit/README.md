@@ -4,6 +4,8 @@ A ready-made skeleton for a **private** Bible study repository that works with L
 
 ## How to use it
 
+Recommended first: run the onboarding prompt in [START-HERE.md](../START-HERE.md); your assistant will draft `PROFILE.md` and `METHOD.md` for you.
+
 1. Create a new **private** repository on GitHub (for example `my-study-repo`).
 2. Copy the contents of this `starter-kit/` folder into it (see the root README for copy commands).
 3. Copy the `tools/` folder from this repo alongside it if you want the scripts.
