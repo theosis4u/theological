@@ -86,6 +86,8 @@ def convert(md, title):
         m = re.match(r'(#{1,6})\s+(.*)', lines[0])
         if m and len(lines) == 1:
             lvl = min(len(m.group(1)), 3)
+            if lvl == 1 and len(out) == 1 and m.group(2).strip() == title.strip():
+                continue  # skip an H1 that repeats the note title
             if out[-1] != SP and len(out) > 1:
                 out.append(SP)
             out.append(f'<h{lvl}>{inline(m.group(2))}</h{lvl}>')
