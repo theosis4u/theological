@@ -1,5 +1,6 @@
 ---
 title: "World Religions and Worldviews"
+permalink: /traditions/world-religions/
 ---
 
 # World Religions and Worldviews
