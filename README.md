@@ -25,7 +25,8 @@ This project was started by an Eastern Orthodox Christian, but it is built to be
 
 - **Plug in your own tradition or worldview** ([traditions and worldviews](traditions/README.md): Buddhist, Christian, Hindu, Muslim, Jewish, secular and more, branch by branch) and preferences, then set your primary sources yourself or ask the AI to find them.
 - **Build comparisons and counter-arguments** from the other traditions' references in this project, quoted from their own sources.
-- **The goal** is to dig deeper into your own belief or tradition while engaging challenges from others honestly, with a **check for logical fallacies on every argument, your own side's included**. Steelman, don't strawman.
+- **The goal** is to dig deeper into your own belief or tradition while engaging challenges from others honestly, with a **check for logical fallacies on every argument, your own side's included**. Steelman, don't strawman. See [Engaging other traditions fairly](guides/engaging-other-traditions.md) and the [dialogue and challenge prompt](prompts/dialogue-and-challenge.md).
+- **You choose the stance.** By default the AI assumes your own tradition is your committed position and argues from it while representing others accurately and fairly. You can accept that, or choose a neutral comparative (academic) mode or an exploring (questioning) mode; see the [stance setting](START-HERE.md#stance-setting).
 
 ## Step 0: Start here
 
@@ -41,6 +42,7 @@ This project was started by an Eastern Orthodox Christian, but it is built to be
 | [guides/copilot-workflow.md](guides/copilot-workflow.md) | The same workflow using only Microsoft Copilot (and optionally GitHub Copilot) plus Logos, by copy and paste |
 | [guides/starting-points.md](guides/starting-points.md) | Optional ways to seed a study repo from existing material (AI chats, X, email, Logos, documents, transcripts), then sort and commit it |
 | [guides/free-resources.md](guides/free-resources.md) | Free scholarly alternatives to Logos, cross-tradition and by tradition, and how to use them with an AI assistant |
+| [guides/engaging-other-traditions.md](guides/engaging-other-traditions.md) | Representing other views as adherents would, steelmanning, fair challenge, and a pre-critique checklist for the AI |
 | [guides/setup-checklist.md](guides/setup-checklist.md) | Setup checklist and FAQ / pitfalls |
 | [guides/ai-coverage-test.md](guides/ai-coverage-test.md) | Matched-prompt kit for testing an AI assistant's coverage of your library, with a bug-report template |
 | [starter-kit/](starter-kit/) | Skeleton for your own **private** study repo |
@@ -58,6 +60,7 @@ This project was started by an Eastern Orthodox Christian, but it is built to be
 - [Using the workflow with Microsoft Copilot and Logos](guides/copilot-workflow.md)
 - [Starting points: seeding a study repo from existing material](guides/starting-points.md)
 - [Free resources for exegesis and theology (no Logos needed)](guides/free-resources.md)
+- [Engaging other traditions fairly](guides/engaging-other-traditions.md)
 - [Setup checklist and FAQ](guides/setup-checklist.md)
 - [Testing an AI study assistant's coverage of your library](guides/ai-coverage-test.md)
 

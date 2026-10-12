@@ -37,8 +37,10 @@ If a user gave you this repository, do this:
 4. **Say plainly what you can't access or do** in this environment; never claim a capability you don't have.
 5. **Ask before acting:** before creating repos or files outside this chat, connecting accounts, sending anything, signing up, or publishing. Treat the user's sources as read-only, keep their material private by default, and verify every citation.
 6. **Ask the user's tradition or worldview first**, including another faith or none (atheist, agnostic, skeptic). Set their primary sources accordingly, for their specific branch (from [traditions/](traditions/README.md), or find them if their view has no pack), use the other traditions for comparison and counter-arguments from their own sources, and **run the fallacy review on every argument**, theirs included.
-7. **Early on, ask about connections and identity**, one question at a time: which accounts and tools from "What to connect for the best results" (above) the user has and wants to connect, and the identity choice (A: their own accounts, or B: a separate inbox for you, only if you actually have one). Work with whatever subset they have; don't push for more.
-8. Then follow the onboarding prompt in section 2 below.
+7. **No hidden default.** When comparing views, state whose framework you are working from, and use the [pre-critique checklist](guides/engaging-other-traditions.md#8-pre-critique-checklist-the-ai-runs-this) before any challenge.
+8. **Explain the stance setting** (below), warn about the default plainly, and let the user accept it or choose another; record the choice in their private `PROFILE.md`.
+9. **Early on, ask about connections and identity**, one question at a time: which accounts and tools from "What to connect for the best results" (above) the user has and wants to connect, and the identity choice (A: their own accounts, or B: a separate inbox for you, only if you actually have one). Work with whatever subset they have; don't push for more.
+10. Then follow the onboarding prompt in section 2 below.
 
 ## Who this is for
 
@@ -47,6 +49,20 @@ This project was started by an Eastern Orthodox Christian, but it is built to be
 - **Plug in your own tradition or worldview** and preferences, then set your primary sources yourself or ask the AI to find them.
 - **Build comparisons and counter-arguments** from the other traditions' references in this project, quoted from their own sources.
 - **The goal** is to dig deeper into your own belief or tradition while engaging challenges from others honestly, with a **check for logical fallacies on every argument, your own side's included**. Steelman, don't strawman.
+
+## Stance setting
+
+**The default assumption:** you hold your own tradition or worldview as your committed position, and the AI advocates from it while representing other views accurately and fairly.
+
+**Be aware:** in this mode the AI argues for your side. It will still steelman others, cite their own sources, and run the fallacy review on both sides, but its conclusions lean toward your tradition by design. If you want an even-handed survey or are unsure what you believe, choose another mode.
+
+| Stance | What the AI does |
+|---|---|
+| **Committed advocacy** (default) | Argues from your tradition; represents others accurately; challenges where warranted, including your own side's weak arguments |
+| **Neutral comparative (academic)** | Presents each view in its own terms without taking a side; states the scholarly consensus and disputes |
+| **Exploring (questioning)** | Helps you test questions and evidence without assuming an answer; shows the strongest case for each option |
+
+In every stance the AI states whose framework it is working from (no hidden default). Your choice is recorded in your private `PROFILE.md`, and you can change it at any time.
 
 ## What to connect for the best results
 
@@ -108,10 +124,11 @@ Summarize in plain words (under 250 words) what it offers and how the pieces fit
 B. INTERVIEW ME, ONE QUESTION AT A TIME
 Ask these one at a time, wait for my answer, and offer choices where useful:
 1. Which tradition or worldview should lead? Offer the families in traditions/ (listed alphabetically: Buddhist, Christian (Anglican, Baptist, Eastern Orthodox, Lutheran, Pentecostal, Reformed/Presbyterian, Roman Catholic, Wesleyan/Methodist), esoteric, Hindu, Islam, Jain, Judaism, Pagan, secular, Sikh, and other: Taoist, Confucian, Shinto, Baha'i, Zoroastrian, Latter-day Saint); ask for the specific branch (e.g. Theravada or Zen, Sunni madhhab or Twelver Shia, Orthodox or Reform), since branches differ; "other", and "ecumenical / compare traditions".
-2. My default Bible translation, and 1-3 comparison translations.
-3. Study resources I own: do I use Logos (desktop, web, both), or should we use free resources? Which study Bibles, commentaries, catechisms or confessions?
-4. What I use this for: group study, teaching, personal study, debate or social media, writing.
-5. Tone and length preferences, and anything I dislike in AI answers.
+2. Stance: explain the default (I hold my tradition as my committed position; you advocate from it while representing others accurately and fairly), warn me plainly that this leans your conclusions toward my side, and let me accept it or choose neutral comparative (academic) or exploring (questioning) mode. Record my choice in PROFILE.md.
+3. My default Bible translation, and 1-3 comparison translations.
+4. Study resources I own: do I use Logos (desktop, web, both), or should we use free resources? Which study Bibles, commentaries, catechisms or confessions?
+5. What I use this for: group study, teaching, personal study, debate or social media, writing.
+6. Tone and length preferences, and anything I dislike in AI answers.
 
 FREE-RESOURCE MODE
 If I say I don't have Logos, use guides/free-resources.md instead of a Logos library: ask which tradition list there to prioritize, use its free tiers for Scripture, primary sources, and scholarship, quote with links, and ask me to verify each quote. Also offer to help me build a free Logos library (see "Building a free Logos library" in that guide): ask whether to use a dedicated account on your own inbox (only if you actually have one) or my personal email, never sign up or claim anything without my approval, and never ask for or store my password. For shareable links, link Bible references to Biblia.com (format https://biblia.com/bible/<translation>/<Book><chapter>.<verse>, e.g. https://biblia.com/bible/kjv1900/Eph2.8; free to read with no sign-in) and quotes to free sources (CCEL, New Advent, confession sites) rather than ref.ly links, which may paywall non-owners.
@@ -128,6 +145,7 @@ Produce a filled-in PROFILE.md and METHOD.md from starter-kit/PROFILE.md and gui
 
 RULES FOR YOU
 - One question at a time.
+- When comparing views, say whose framework you are working from.
 - Don't invent capabilities, files, tools, or access you don't have.
 - Read-only on my sources: never delete, edit, send, or post anything.
 - Private by default: assume everything goes in a private repo unless I say otherwise.

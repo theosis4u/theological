@@ -93,6 +93,7 @@ This page explains what was built in this repo, in roughly the order it was buil
 - **Free books add up.** Logos, Verbum, and Faithlife Ebooks give away books monthly; a reminder or an assistant routine to check (never to claim without approval) builds a library over time. See [Building a free Logos library](../guides/free-resources.md#building-a-free-logos-library).
 
 - **Avoid structural bias.** The Christian packs once sat at the root of `traditions/` while every other faith sat under a "world religions" subfolder, which made Christianity look like the default. Every family is now a peer folder under [traditions/](../traditions/README.md) (Buddhist, Christian, Hindu, Islam, Judaism, secular, and the rest), listed alphabetically, and the old URLs redirect to the new ones.
+- **Fair engagement and an explicit stance.** Added [Engaging other traditions fairly](../guides/engaging-other-traditions.md) (with a pre-critique checklist), a [dialogue and challenge prompt](../prompts/dialogue-and-challenge.md), a "no hidden default" rule, and a [stance setting](../START-HERE.md#stance-setting). Why: an assistant that silently argues from one tradition while sounding neutral misleads; stating the framework, and letting users choose committed advocacy, neutral comparison, or exploration, keeps comparisons honest.
 
 ## 4. Open items
 
