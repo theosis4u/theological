@@ -70,6 +70,10 @@ In every stance the AI states whose framework it is working from (no hidden defa
 
 You are encouraged to improve this shared repo rather than maintain your own fork. Keep **personal settings** (tradition, stance, accounts, notes) in your private study repo from the [starter kit](starter-kit/). Send **generic improvements** (pack fixes, sources, prompts, guides) upstream as pull requests; see [CONTRIBUTING](CONTRIBUTING.md#contributing-back-instead-of-forking). This is a one-person project with limited time and AI budget, so every improvement sent back helps everyone, while forks drift out of date.
 
+## The website version
+
+Everything here is also a website at [theosis4u.github.io/theological](https://theosis4u.github.io/theological/), where scripts can run: Bible references get NET pop-ups, and pages can opt in to pop-ups for other scriptures (for example the [Quran demo](examples/quran-popup-demo.md)). See [Pop-ups for other scriptures](guides/logos-github-workflow.md#55-pop-ups-for-other-scriptures).
+
 ## What to connect for the best results
 
 You can start with just an AI assistant. Each extra connection gives it more to work with. Connect only what you're comfortable with; the assistant should work with whatever subset you have.

@@ -1,0 +1,10 @@
+<!-- Sefaria Linker v3 (opt-in: set sefaria_linker: true in a page's front matter).
+     Finds references to Jewish texts (e.g. "Genesis 1:1", "Berakhot 2a", "Mishnah Avot 1:1") and links them to Sefaria,
+     with click pop-ups. Docs: https://developers.sefaria.org/docs/linker-v3
+     Note: on pages that also load Reftagger, both may claim Bible references; use one or the other per page. -->
+<script src="https://www.sefaria.org/linker.v3.js" charset="utf-8"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    sefaria.link({ mode: "popup-click", contentLang: "bilingual", excludeFromLinking: "code, pre" });
+  });
+</script>

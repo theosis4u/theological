@@ -84,6 +84,10 @@ Changes to a pack should be reviewed by people who belong to that tradition or b
 3. **Set the pop-up translation:** edit `bibleVersion` in `_includes/reftagger.html` (e.g. `"NET"`, `"KJV"`, `"ESV"`, `"LEB"`). Keep `convertHyperlinks: true` with `hyperlinkTestList: ["biblia.com"]` if your text uses Biblia links, and `noSearchTagNames: ["code", "pre"]` so headings are tagged. Test one pop-up in a browser.
 4. **Before each publish:** run a privacy grep over changed files (your name, family, friends, church, email addresses, handles, places), then wait for the Pages build and open a page to check it.
 
+## Pop-up scripts
+
+To add pop-ups for another text source, follow the recipe in [Pop-ups for other scriptures](guides/logos-github-workflow.md#55-pop-ups-for-other-scriptures): one opt-in include per source, a CORS-enabled API with no secret key, translator attribution, and a demo page tested in a real browser.
+
 ## Code
 
 Scripts go in `tools/`, use the Python standard library where possible, contain no personal paths, and are documented in `tools/README.md`. Say how you tested them.

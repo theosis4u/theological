@@ -10,3 +10,8 @@ Regenerate the HTML:
 ```bash
 python3 tools/md_to_logos_html.py examples/john-1-1-5-study.md --title "John 1:1-5: The Word in the Beginning" > examples/john-1-1-5-study.logos.html
 ```
+
+## Website demos
+
+- [Quran pop-up demo](quran-popup-demo.md) (`quran_popups: true`)
+- [Sefaria Linker demo](sefaria-linker-demo.md) (`sefaria_linker: true`)

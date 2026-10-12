@@ -203,6 +203,50 @@ To do the same on your own public repo (for example, one made from the starter k
 
 GitHub Pages for a **private** repo requires a paid GitHub plan, and even then the published site is public unless your organization's plan supports private Pages. Keep personal study notes out of any repo you publish.
 
+
+### 5.5 Pop-ups for other scriptures
+
+#### The repo is also a website
+
+Everything in this repo is also published as a website with GitHub Pages, at [theosis4u.github.io/theological](https://theosis4u.github.io/theological/). github.com strips scripts from Markdown, but the Pages site can run JavaScript. So the site can add hover pop-ups or links for any text source that has a public API (one that allows cross-site requests, CORS) or a ready-made embed script.
+
+#### The model: NET Bible pop-ups with Reftagger
+
+1. `_includes/reftagger.html` holds Faithlife's Reftagger settings and loads its script (see [5.4](#54-verse-pop-ups-on-a-public-site)).
+2. `_includes/head.html` overrides the theme's head and includes it on every page. A page can turn it off with `reftagger: false` in its front matter.
+3. The script finds references like John 3:16 in the page text and adds pop-ups.
+
+Other sources work the same way: one include file per source, switched on per page in front matter.
+
+| Front matter | Include | What it does |
+|---|---|---|
+| (on by default; `reftagger: false` turns it off) | `_includes/reftagger.html` | Bible pop-ups (NET) |
+| `quran_popups: true` | `_includes/quran-popups.html` | Quran pop-ups (Arabic + English) from Al Quran Cloud; see the [demo](../examples/quran-popup-demo.md) |
+| `sefaria_linker: true` | `_includes/sefaria-linker.html` | Jewish texts linked to Sefaria with click pop-ups; see the [demo](../examples/sefaria-linker-demo.md) |
+
+#### Tested APIs (checked 2026-10-12)
+
+"CORS" below means the API answered a request carrying a website `Origin` header with an `Access-Control-Allow-Origin` header, so a browser page can call it directly. Text copyright and translation copyright differ: ancient source texts are usually free, but modern translations often are not.
+
+| Source | Endpoint and example | CORS | Key | Terms and copyright | Ready-made tagger |
+|---|---|---|---|---|---|
+| **Quran: Al Quran Cloud** | `https://api.alquran.cloud/v1/ayah/2:255/en.pickthall`; ranges: `/v1/surah/1/editions/quran-uthmani,en.pickthall?offset=0&limit=7` | Yes (`*`) | None | Arabic text free to reproduce; translations belong to their rights-holders, so attribute the translator. Pickthall (1930) is public domain in the US; Saheeh International (`en.sahih`) is under copyright | None found; this repo's `quran-popups.html` uses it |
+| **Quran: Quran.com API v4** | `https://api.quran.com/api/v4/verses/by_key/2:255?translations=20` | Yes (`*`) when tested | None today, but **deprecated** | The Quran Foundation's migration guide moves users to `apis.quran.foundation` with OAuth2 client credentials and a server-side secret, which a static site can't keep. Avoid for new work | None |
+| **Sefaria** (Jewish texts) | `https://www.sefaria.org/api/v3/texts/Genesis.1.1` (or the older `/api/texts/Genesis.1.1`) | Yes (`*`) | None | Each text version carries its own license (e.g. CC-BY, CC-BY-SA, public domain, or copyrighted); check the `license` field | **Yes:** [Linker v3](https://developers.sefaria.org/docs/linker-v3) (`linker.v3.js`; `sefaria.link()`) |
+| **SuttaCentral** (Buddhist suttas) | `https://suttacentral.net/api/bilarasuttas/mn1/sujato` (segmented Pali and English); `https://suttacentral.net/api/suttas/mn1/sujato` | Yes (echoes your origin) | None | Bhikkhu Sujato's translations are dedicated to the public domain (CC0); other translators' terms vary. Unofficial for third-party use: be gentle with requests | None found |
+| **Bhagavad Gita: bhagavadgita.io** | `https://bhagavadgita.io/api/v1/...` | Reported | **OAuth2** client ID and secret (or a RapidAPI key for the open-source API) | Free, but a secret can't be kept on a static site | None |
+| **Bhagavad Gita: vedicscriptures.github.io** | `https://vedicscriptures.github.io/slok/2/47/` (Sanskrit, transliteration, many translations and commentaries) | Yes (`*`) | None | Unofficial community data on GitHub Pages; some translations are modern and may be copyrighted. Use for pop-ups with attribution, and check before republishing | None |
+| **Sikh: BaniDB** | `https://api.banidb.com/v2/shabads/1` (shabad by ID); search: `/v2/search/{query}?source=G` | Yes (echoes your origin) | None | Gurbani text is freely shared; translations (e.g. Sant Singh Khalsa, Manmohan Singh) carry their own rights; check BaniDB's terms for attribution | None found |
+| **Bible: Reftagger** | built in (see 5.4) | n/a (script) | None | NET text free for non-commercial use; NET notes are not covered | Yes (in use) |
+
+#### Recipe for a new source
+
+1. Test the API with an `Origin` header: `curl -s -D - -o /dev/null -H "Origin: https://example.org" "<endpoint>"` and look for `access-control-allow-origin`. No key should be needed in the browser; never put a secret in a public page.
+2. Copy `_includes/quran-popups.html` as a starting point: change the reference pattern (the `RE` line), the link target, and the API URL and parsing.
+3. Add one line to `_includes/head.html`, for example {% raw %}`{%- if page.gita_popups -%}{%- include gita-popups.html -%}{%- endif -%}`{% endraw %}.
+4. Add `gita_popups: true` to a demo page, push, wait for the Pages build, and test hover pop-ups in a real browser.
+5. Attribute each translation in the pop-up and link to the source site.
+
 ## 6. Local desktop data
 
 The desktop app keeps user data in a folder like:
