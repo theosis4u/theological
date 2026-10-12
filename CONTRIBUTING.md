@@ -1,3 +1,7 @@
+---
+title: Contributing
+---
+
 # Contributing
 
 Contributions are welcome, especially new tradition packs and corrections to existing ones.
