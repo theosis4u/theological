@@ -11,13 +11,21 @@
 >
 > 3. **Answer its questions**, one at a time.
 >
-> **It will ask you:** which tradition to favor (or compare several), your preferred translations, which study resources you own (Logos or free sites), what you use it for, and which existing material to import (old AI chats, posts, email, notes).
+> **It will ask you:** which tradition or worldview to favor (any faith or none, or compare several), your preferred translations, which study resources you own (Logos or free sites), what you use it for, and which existing material to import (old AI chats, posts, email, notes).
 > **It can't do for you:** sign in to your accounts, install anything on your computer, pay for anything, or approve its own actions. It should ask before creating, sending, or publishing anything. If it can't open web links, upload the repo ZIP instead (see [START-HERE](START-HERE.md)).
 >
 > **For the best results,** see [What to connect](START-HERE.md#what-to-connect-for-the-best-results): your AI assistant and GitHub are the only requirements; chat history, email and documents, social posts, Bible software, and study partners' spaces are optional extras.
 
 
 A public toolkit for studying Scripture with **Logos Bible Software**, a **GitHub Markdown repository**, and an **AI assistant**: keep your study work in plain text you control, share it as Logos notes, cite sources with links to the exact location, and give your assistant a clear, fair working method. Everything here is generic and can be adapted to any Christian tradition; no tradition is presented as the house view.
+
+## Who this is for
+
+This project was started by an Eastern Orthodox Christian, but it is built to be flexible for anyone: Christians of any tradition, people of other faiths, and people of no faith, including atheists and skeptics.
+
+- **Plug in your own tradition or worldview** and preferences, then set your primary sources yourself or ask the AI to find them.
+- **Build comparisons and counter-arguments** from the other traditions' references in this project, quoted from their own sources.
+- **The goal** is to dig deeper into your own belief or tradition while engaging challenges from others honestly, with a **check for logical fallacies on every argument, your own side's included**. Steelman, don't strawman.
 
 ## Step 0: Start here
 

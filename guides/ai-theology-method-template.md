@@ -17,9 +17,11 @@ topic: workflow
 
 This is a fill-in template for a standing instruction file that you give an AI assistant before theological research, Bible study, or debate analysis. Copy it into your own private repo (for example as `METHOD.md`), fill in the `<placeholders>`, and point the assistant at it at the start of each session. It pairs with the [Logos + GitHub workflow guide](logos-github-workflow.md).
 
+It works for any tradition or worldview, Christian or not, including secular and skeptical ones (see [other faiths and secular](../traditions/other-faiths-and-secular.md)); where it says "Scripture" or "Bible," substitute your own authoritative texts. The aim is to go deeper into your own view while engaging others honestly, with a fallacy review on every argument.
+
 Placeholders used below:
 
-- `<your tradition>`: the tradition whose reading you want first.
+- `<your tradition>`: the tradition or worldview whose reading you want first (any faith, or a secular view).
 - `<default translation>`: your base Bible text, ideally one with extensive translator notes.
 - `<comparison translations>`: two to four versions to check key verses against.
 - `<your tradition's study resources>`: study Bible notes, catechisms, or commentaries from your tradition.
@@ -74,7 +76,8 @@ If the user has no Logos library, use the free tiers in [Free resources](free-re
 
 - State the other side as its best scholars would. Quote the primary text or scholar, not a caricature. Say plainly when a critic (including you) misreads it.
 - **The core test: primary-text sentence vs. passage.** Set the sentence from the tradition's own document that carries the doctrine next to the biblical passage it seems not to fit. Then ask whether the tradition actually resolved the tension or only renamed it.
-- **Fallacy checks only when load-bearing.** Name a fallacy only when the argument actually depends on it, explain it in one sentence, and show where it occurs. No lists of fallacies for their own sake.
+- **Fallacy review on every argument, your own side's included.** Check each argument for logical fallacies (strawman, equivocation, begging the question, false dilemma, appeal to authority, and so on). When one is present and the argument depends on it, name it, explain it in one sentence, and show where it occurs; if none is found, say so briefly. No padded lists of fallacies for their own sake.
+- **Steelman, don't strawman.** Engage the strongest version of each view.
 - Test your own side too. Point out weak arguments on your side as readily as on the other.
 
 ## 6. Honesty rules

@@ -25,6 +25,8 @@ For a companion template of standing instructions for the AI assistant (request 
 
 No Logos? See [Free resources](free-resources.md). New to this repo? Begin with [START-HERE.md](../START-HERE.md). If you only have Microsoft Copilot (no shell or browser automation), see [Using the workflow with Microsoft Copilot and Logos](copilot-workflow.md). To seed a repo from existing chats, posts, emails, notes, and documents, see [Starting points](starting-points.md). See also the [setup checklist and FAQ](setup-checklist.md) and the [AI coverage testing kit](ai-coverage-test.md).
 
+The workflow is written around Christian Bible study but fits any tradition or worldview, including secular ones; see [Who this is for](../README.md#who-this-is-for).
+
 For what was built and why, see the [project history](../docs/project-history.md).
 
 All names, paths, and IDs below are placeholders. Replace `<you>`, `<random>`, and similar markers with your own values.

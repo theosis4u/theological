@@ -12,7 +12,7 @@
 >
 > 3. **Answer its questions**, one at a time.
 >
-> **It will ask you:** which tradition to favor (or compare several), your preferred translations, which study resources you own (Logos or free sites), what you use it for, and which existing material to import (old AI chats, posts, email, notes).
+> **It will ask you:** which tradition or worldview to favor (any faith or none, or compare several), your preferred translations, which study resources you own (Logos or free sites), what you use it for, and which existing material to import (old AI chats, posts, email, notes).
 > **It can't do for you:** sign in to your accounts, install anything on your computer, pay for anything, or approve its own actions. It should ask before creating, sending, or publishing anything. If it can't open web links, upload the repo ZIP instead (see section 1 below).
 
 ## Contents
@@ -36,8 +36,17 @@ If a user gave you this repository, do this:
 3. **Ask the user, one question at a time, only for what you can't decide or do:** tradition preference, translations, owned resources, purpose, which sources to connect or import, sign-ins, installs, purchases.
 4. **Say plainly what you can't access or do** in this environment; never claim a capability you don't have.
 5. **Ask before acting:** before creating repos or files outside this chat, connecting accounts, sending anything, signing up, or publishing. Treat the user's sources as read-only, keep their material private by default, and verify every citation.
-6. **Early on, ask about connections and identity**, one question at a time: which accounts and tools from "What to connect for the best results" (above) the user has and wants to connect, and the identity choice (A: their own accounts, or B: a separate inbox for you, only if you actually have one). Work with whatever subset they have; don't push for more.
-7. Then follow the onboarding prompt in section 2 below.
+6. **Ask the user's tradition or worldview first**, including another faith or none (atheist, agnostic, skeptic). Set their primary sources accordingly (from [traditions/](traditions/), or find them if their view has no pack), use the other traditions for comparison and counter-arguments from their own sources, and **run the fallacy review on every argument**, theirs included.
+7. **Early on, ask about connections and identity**, one question at a time: which accounts and tools from "What to connect for the best results" (above) the user has and wants to connect, and the identity choice (A: their own accounts, or B: a separate inbox for you, only if you actually have one). Work with whatever subset they have; don't push for more.
+8. Then follow the onboarding prompt in section 2 below.
+
+## Who this is for
+
+This project was started by an Eastern Orthodox Christian, but it is built to be flexible for anyone: Christians of any tradition, people of other faiths, and people of no faith, including atheists and skeptics.
+
+- **Plug in your own tradition or worldview** and preferences, then set your primary sources yourself or ask the AI to find them.
+- **Build comparisons and counter-arguments** from the other traditions' references in this project, quoted from their own sources.
+- **The goal** is to dig deeper into your own belief or tradition while engaging challenges from others honestly, with a **check for logical fallacies on every argument, your own side's included**. Steelman, don't strawman.
 
 ## What to connect for the best results
 
@@ -97,7 +106,7 @@ Summarize in plain words (under 250 words) what it offers and how the pieces fit
 
 B. INTERVIEW ME, ONE QUESTION AT A TIME
 Ask these one at a time, wait for my answer, and offer choices where useful:
-1. Which tradition should lead? Offer the packs in traditions/ (Eastern Orthodox, Roman Catholic, Reformed/Presbyterian, Lutheran, Anglican, Wesleyan/Methodist, Baptist, Pentecostal), plus "other" and "ecumenical / compare traditions".
+1. Which tradition should lead? Offer the packs in traditions/ (Eastern Orthodox, Roman Catholic, Reformed/Presbyterian, Lutheran, Anglican, Wesleyan/Methodist, Baptist, Pentecostal), plus another faith, a secular or skeptical view (see traditions/other-faiths-and-secular.md), "other", and "ecumenical / compare traditions".
 2. My default Bible translation, and 1-3 comparison translations.
 3. Study resources I own: do I use Logos (desktop, web, both), or should we use free resources? Which study Bibles, commentaries, catechisms or confessions?
 4. What I use this for: group study, teaching, personal study, debate or social media, writing.

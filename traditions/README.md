@@ -16,5 +16,6 @@ These packs describe each tradition as its own members would, without polemic. N
 | Wesleyan / Methodist | [wesleyan-methodist.md](wesleyan-methodist.md) |
 | Baptist | [baptist.md](baptist.md) |
 | Pentecostal | [pentecostal.md](pentecostal.md) |
+| Other faiths and secular worldviews (Jewish, Muslim, other religions, atheist/agnostic/skeptic), and how to build your own pack | [other-faiths-and-secular.md](other-faiths-and-secular.md) |
 
 To add a tradition, see [CONTRIBUTING.md](../CONTRIBUTING.md).
