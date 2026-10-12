@@ -5,20 +5,13 @@ topic: workflow
 ---
 
 # Using the Workflow with Microsoft Copilot and Logos
+{: .no_toc}
 
 ## Contents
+{: .no_toc}
 
-Start with [about this guide](#about-this-guide), or jump to a section:
-
-1. [What Copilot can and can't do here](#1-what-copilot-can-and-cant-do-here)
-2. [Workplace cautions (read first)](#2-workplace-cautions-read-first)
-3. [Store your method and profile](#3-store-your-method-and-profile)
-4. [Ready-to-paste prompts](#4-ready-to-paste-prompts)
-5. [The adapted workflow, step by step](#5-the-adapted-workflow-step-by-step)
-6. [Keeping the repo without git](#6-keeping-the-repo-without-git)
-7. [Optional: the Python tools](#7-optional-the-python-tools)
-8. [GitHub Copilot in VS Code](#8-github-copilot-in-vs-code)
-9. [Quick reference](#9-quick-reference)
+* Contents
+{:toc}
 
 ---
 

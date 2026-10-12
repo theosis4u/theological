@@ -5,20 +5,13 @@ topic: workflow
 ---
 
 # Integrating Logos Bible Software with a GitHub Markdown Repo and an AI Assistant
+{: .no_toc}
 
 ## Contents
+{: .no_toc}
 
-Start with [about this guide](#about-this-guide), or jump to a section:
-
-1. [Architecture](#1-architecture)
-2. [Importing old AI chats into Markdown](#2-importing-old-ai-chats-into-markdown)
-3. [Writing Logos notes from Markdown](#3-writing-logos-notes-from-markdown)
-4. [Exporting Logos notes back to Markdown](#4-exporting-logos-notes-back-to-markdown)
-5. [Citations: inline links instead of anchors](#5-citations-inline-links-instead-of-anchors)
-6. [Local desktop data](#6-local-desktop-data)
-7. [The Logos Study Assistant](#7-the-logos-study-assistant)
-8. [Comparing translations](#8-comparing-translations)
-9. [Tips and gotchas](#9-tips-and-gotchas)
+* Contents
+{:toc}
 
 ---
 

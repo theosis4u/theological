@@ -7,17 +7,13 @@ status: example
 ---
 
 # John 1:1-5: The Word in the Beginning
+{: .no_toc}
 
 ## Contents
+{: .no_toc}
 
-Start with [about this example](#about-this-example), or jump to a section:
-
-1. [The text](#1-the-text)
-2. [Translation differences](#2-translation-differences)
-3. [Context](#3-context)
-4. [Reading from the sources](#4-reading-from-the-sources)
-5. [Other readings](#5-other-readings)
-6. [Questions for discussion](#6-questions-for-discussion)
+* Contents
+{:toc}
 
 ---
 

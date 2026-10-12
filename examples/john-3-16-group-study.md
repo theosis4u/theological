@@ -7,16 +7,13 @@ status: example
 ---
 
 # John 3:16-21: Group Study Handout
+{: .no_toc}
 
 ## Contents
+{: .no_toc}
 
-Start with [about this example](#about-this-example), or jump to a section:
-
-1. [Scenario](#1-scenario)
-2. [Input: the prompt](#2-input-the-prompt)
-3. [Workflow in Logos](#3-workflow-in-logos)
-4. [Sample output: the handout](#4-sample-output-the-handout)
-5. [What the AI got right, and what you must verify](#5-what-the-ai-got-right-and-what-you-must-verify)
+* Contents
+{:toc}
 
 ---
 

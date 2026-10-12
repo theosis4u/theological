@@ -5,18 +5,13 @@ topic: workflow
 ---
 
 # Starting Points: Seeding a Study Repo from Existing Material
+{: .no_toc}
 
 ## Contents
+{: .no_toc}
 
-Start with [about this guide](#about-this-guide), or jump to a section:
-
-1. [AI chat history](#1-ai-chat-history)
-2. [X (Twitter) posts and threads](#2-x-twitter-posts-and-threads)
-3. [Email threads](#3-email-threads)
-4. [Logos notes, highlights, and sermon or class notes](#4-logos-notes-highlights-and-sermon-or-class-notes)
-5. [Documents: Word, Google Docs, OneNote](#5-documents-word-google-docs-onenote)
-6. [YouTube and lecture transcripts](#6-youtube-and-lecture-transcripts)
-7. [The common pipeline](#7-the-common-pipeline)
+* Contents
+{:toc}
 
 ---
 

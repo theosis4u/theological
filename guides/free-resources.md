@@ -5,17 +5,13 @@ topic: workflow
 ---
 
 # Free Resources for Exegesis and Theology
+{: .no_toc}
 
 ## Contents
+{: .no_toc}
 
-Start with [about this guide](#about-this-guide), or jump to a section:
-
-1. [Cross-tradition core](#1-cross-tradition-core)
-2. [Building a free Logos library](#building-a-free-logos-library)
-3. [By tradition](#2-by-tradition)
-4. [Confessions & catechisms quick reference](#confessions--catechisms-quick-reference)
-5. [Using them with an AI assistant](#3-using-them-with-an-ai-assistant)
-6. [Dropped during checking](#dropped-during-checking)
+* Contents
+{:toc}
 
 ---
 
