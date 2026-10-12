@@ -42,15 +42,17 @@ Early Friends held that the same Spirit who inspired Scripture speaks directly t
 
 George Fox, Margaret Fell, Robert Barclay, William Penn, Isaac Penington, John Woolman, Elias Hicks, Rufus Jones, Thomas Kelly, Howard Brinton; scholars Douglas Gwyn, Rosemary Moore, Ben Pink Dandelion.
 
-## Study Bibles and Logos resources
-
-No Quaker study Bible is widely known. Barclay's *Apology* and Fox's *Journal* may be available _(verify in Logos)_; free texts below are reliable.
-
-## Free resources
+## Free online sources
 
 - [Quaker faith & practice (Britain Yearly Meeting)](https://qfp.quaker.org.uk/); [Quakers in Britain](https://www.quaker.org.uk/).
 - [Friends General Conference](https://www.fgcquaker.org/) (blocks some automated checks; loads in a browser).
 - [CCEL: George Fox](https://www.ccel.org/ccel/fox_g), [CCEL: Robert Barclay](https://www.ccel.org/ccel/barclay), [CCEL: Journal of John Woolman](https://www.ccel.org/ccel/woolman/journal.html).
+
+## Paid or subscription resources (optional)
+
+Use these only if you own them; the free sources above are enough to start. They add study-Bible notes, commentaries, and searchable, linkable libraries (for example in Logos, Accordance, or Olive Tree). Titles marked _(verify in Logos)_ may be in only some packages.
+
+No Quaker study Bible is widely known. Barclay's *Apology* and Fox's *Journal* may be available _(verify in Logos)_; free texts below are reliable.
 
 ## Translation preferences
 

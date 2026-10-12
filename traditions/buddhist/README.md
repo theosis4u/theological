@@ -67,6 +67,14 @@ Buddhists take refuge in the Three Jewels: the Buddha (the awakened teacher, Sid
 - **Free sources:** [84000](https://84000.co/) (translations of the Kangyur and Tengyur), [Rigpa Wiki](https://www.rigpawiki.org/) (reference, Nyingma-leaning).
 - **Slot text:** *Lead with the Tibetan Buddhist reading of the named school (Nyingma, Kagyu, Sakya, or Gelug). Cite the Kangyur/Tengyur text or the school's masters, and note where tantric teachings are restricted to initiates rather than describing them in detail.*
 
+## Paid or subscription resources (optional)
+
+Optional: use only if you own them. The free sources in each section above come first; these add fuller translations, commentary, or reference works.
+
+- Wisdom Publications' *Teachings of the Buddha* series (for example Bhikkhu Bodhi's translations of the *Majjhima*, *Samyutta*, and *Anguttara Nikayas*).
+- Shambhala and Snow Lion editions of Mahayana and Vajrayana texts and teachers.
+- Journal access (JSTOR, ATLA Religion Database) for Buddhist studies scholarship.
+
 ## Primary vs comparison sources
 
 - **Primary:** your branch's canon and its recognized teachers.

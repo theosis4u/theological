@@ -33,14 +33,16 @@ Scripture is the sole standard of doctrine, read with a heart-centred, Christ-ce
 
 Jan Hus, Jan Amos Comenius, Count Zinzendorf, August Gottlieb Spangenberg; modern Craig Atwood.
 
-## Study Bibles and Logos resources
-
-No widely known Moravian study Bible. Zinzendorf's writings are mostly not in Logos; check free sources.
-
-## Free resources
+## Free online sources
 
 - [Moravian Church in America](https://www.moravian.org/); [The Ground of the Unity](https://www.moravian.org/the-moravian-church/the-ground-of-the-unity/).
 - [Moravian Archives](https://www.moravianchurcharchives.org/).
+
+## Paid or subscription resources (optional)
+
+Use these only if you own them; the free sources above are enough to start. They add study-Bible notes, commentaries, and searchable, linkable libraries (for example in Logos, Accordance, or Olive Tree). Titles marked _(verify in Logos)_ may be in only some packages.
+
+No widely known Moravian study Bible. Zinzendorf's writings are mostly not in Logos; check free sources.
 
 ## Translation preferences
 

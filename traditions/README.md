@@ -47,7 +47,7 @@ Listed alphabetically.
 
 ## How to build your own pack
 
-Copy any pack and keep the same sections: overview in adherents' own terms; branches at a glance; one section per branch with distinctive beliefs, key texts and authorities, free sources, and slot text; primary vs. comparison sources; points of dialogue. Put it in its own folder under `traditions/`, or in an existing family folder, and add it to the table above. See [CONTRIBUTING](../CONTRIBUTING.md).
+Copy any pack and keep the same sections: overview in adherents' own terms; branches at a glance; one section per branch with distinctive beliefs, key texts and authorities, free online sources first, then paid or subscription resources (optional), and slot text; primary vs. comparison sources; points of dialogue. Put it in its own folder under `traditions/`, or in an existing family folder, and add it to the table above. See [CONTRIBUTING](../CONTRIBUTING.md).
 
 ## Ground rules
 

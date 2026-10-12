@@ -67,6 +67,15 @@ Many Hindus call their tradition Sanatana Dharma, the "eternal order." It is a f
 - **Vishishtadvaita (Ramanuja):** souls and world are real and form the "body" of God (Vishnu/Narayana); liberation through devotion and surrender (prapatti). Slot text: *Lead with Ramanuja's Vishishtadvaita, citing his Sri Bhashya and Gita commentary.*
 - **Dvaita (Madhva):** God, souls, and matter are eternally distinct; souls depend wholly on God's grace. Free: [Dvaita.org](https://www.dvaita.org/). Slot text: *Lead with Madhva's Dvaita, citing his commentaries and the five eternal differences.*
 
+## Paid or subscription resources (optional)
+
+Optional: use only if you own them. The free sources in each section above come first; these add fuller translations, commentary, or reference works.
+
+- Patrick Olivelle (trans.), *Upanisads* (Oxford World's Classics).
+- Radhakrishnan and Moore, *A Sourcebook in Indian Philosophy* (Princeton University Press; also free to borrow, see above).
+- Gita Press (Gorakhpur) editions of the Gita and Puranas, inexpensive in print.
+- Journal access (JSTOR, ATLA Religion Database) for Hindu studies.
+
 ## Primary vs comparison sources
 
 - **Primary:** your sampradaya's scriptures and acharyas.

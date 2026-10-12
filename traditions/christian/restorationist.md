@@ -43,14 +43,16 @@ The New Testament is the pattern for the church; human creeds are not tests of f
 
 Barton W. Stone, Thomas and Alexander Campbell, Walter Scott, David Lipscomb; scholars Leroy Garrett, Richard Hughes, Douglas Foster, Everett Ferguson (*The Church of Christ*).
 
-## Study Bibles and Logos resources
-
-Everett Ferguson, *The Church of Christ: A Biblical Ecclesiology for Today* _(verify in Logos)_; the *College Press NIV Commentary* series _(verify in Logos)_.
-
-## Free resources
+## Free online sources
 
 - [History of the Restoration Movement](https://www.therestorationmovement.com/) (founding documents and biographies).
 - [Christian Church (Disciples of Christ)](https://www.disciples.org/).
+
+## Paid or subscription resources (optional)
+
+Use these only if you own them; the free sources above are enough to start. They add study-Bible notes, commentaries, and searchable, linkable libraries (for example in Logos, Accordance, or Olive Tree). Titles marked _(verify in Logos)_ may be in only some packages.
+
+Everett Ferguson, *The Church of Christ: A Biblical Ecclesiology for Today* _(verify in Logos)_; the *College Press NIV Commentary* series _(verify in Logos)_.
 
 ## Translation preferences
 

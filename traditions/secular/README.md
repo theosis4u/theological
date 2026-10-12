@@ -59,6 +59,13 @@ Secular worldviews do not ground their outlook in religious revelation. The labe
 - **Free sources:** [Skeptical Inquirer](https://skepticalinquirer.org/).
 - **Slot text:** *Lead with a skeptical, evidence-first reading. Separate what the text says, what historians and scientists can establish, and what traditions claim, and apply the same standard to every side.*
 
+## Paid or subscription resources (optional)
+
+Optional: use only if you own them. The free sources in each section above come first; these add fuller translations, commentary, or reference works.
+
+- Stephen Bullivant and Michael Ruse (eds.), *The Oxford Handbook of Atheism* (Oxford University Press, 2013).
+- Journal access (JSTOR, PhilPapers' linked journals) for philosophy of religion; the *Stanford Encyclopedia of Philosophy* is free.
+
 ## Primary vs comparison sources
 
 - **Primary:** peer-reviewed philosophy (SEP, IEP), historical-critical scholarship, and science, citing named scholars rather than "scholars say."

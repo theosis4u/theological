@@ -57,6 +57,14 @@ Modern Paganism is a family of religions inspired by pre-Christian traditions, o
 - **Free sources:** [Order of Bards, Ovates and Druids](https://druidry.org/).
 - **Slot text:** *Lead with the Druid reading of the named order, distinguishing what is known about ancient druids from revival and modern practice.*
 
+## Paid or subscription resources (optional)
+
+Optional: use only if you own them. The free sources in each section above come first; these add fuller translations, commentary, or reference works.
+
+- Ronald Hutton, *The Triumph of the Moon* (Oxford University Press, 1999), a history of modern Pagan witchcraft.
+- Llewellyn and other Pagan publishers' practice books (quality varies; check each author's tradition).
+- Journal access for Pagan studies (for example *The Pomegranate*, Equinox).
+
 ## Primary vs comparison sources
 
 - **Primary:** your tradition's sources and recognized elders or organizations.

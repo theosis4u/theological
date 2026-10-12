@@ -9,15 +9,18 @@
 ## Key theologians
 - John Bunyan, Benjamin Keach, John Gill, Andrew Fuller, Charles Spurgeon, E. Y. Mullins, A. H. Strong, Carl F. H. Henry, Millard Erickson, Timothy George, Thomas Schreiner.
 
-## Study Bibles and Logos resources
+## Free online sources
+See [Free resources: by tradition](../../guides/free-resources.md#baptist) for free online sources for this tradition, and the cross-tradition core in section 1 of that page.
+
+## Paid or subscription resources (optional)
+
+Use these only if you own them; the free sources above are enough to start. They add study-Bible notes, commentaries, and searchable, linkable libraries (for example in Logos, Accordance, or Olive Tree). Titles marked _(verify in Logos)_ may be in only some packages.
+
 - *CSB Study Bible* (Holman) _(verify in Logos)_.
 - *ESV Study Bible* and *Reformation Study Bible* (Reformed Baptists).
 - Gill's *Exposition of the Bible* and Spurgeon's sermons and *Treasury of David* (public domain).
 - Erickson, *Christian Theology* _(verify in Logos)_.
 - *New American Commentary* series _(verify in Logos)_.
-
-## Free resources
-See [Free resources: by tradition](../../guides/free-resources.md#baptist) for free online sources for this tradition, and the cross-tradition core in section 1 of that page.
 
 ## Translation preferences
 KJV, NKJV, ESV, NASB, CSB, and NIV, depending on church and stream.

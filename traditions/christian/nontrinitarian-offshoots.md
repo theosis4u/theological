@@ -74,6 +74,13 @@ This page describes, without settling the dispute. Use each group's own sources 
 - **Free sources:** [Christian Science](https://www.christianscience.com/); [Science and Health](https://www.christianscience.com/the-christian-science-pastor/science-and-health).
 - **Slot text:** *Lead with the Christian Science reading, citing Science and Health by page and line and the Bible, and note where other Christians disagree, from their own sources.*
 
+## Paid or subscription resources (optional)
+
+Optional: use only if you own them. The free sources in each section above come first; these add fuller translations, commentary, or reference works.
+
+- Each group publishes its own scriptures and literature free online (see the links above); printed editions are sold by the groups themselves.
+- Academic: the *Oxford Handbook of Mormonism* (Oxford University Press, 2015) and similar handbooks; journal access (JSTOR, ATLA Religion Database) for scholarship.
+
 ## Primary vs. comparison sources
 
 Quote each group from its own publications. For responses, use the Christian packs ([index](README.md)) quoted from their own standards. Avoid polemical "counter-cult" summaries as evidence of what a group teaches.

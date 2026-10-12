@@ -40,7 +40,9 @@ If a user gave you this repository, do this:
 7. **No hidden default.** When comparing views, state whose framework you are working from, and use the [pre-critique checklist](guides/engaging-other-traditions.md#8-pre-critique-checklist-the-ai-runs-this) before any challenge.
 8. **Explain the stance setting** (below), warn about the default plainly, and let the user accept it or choose another; record the choice in their private `PROFILE.md`.
 9. **Early on, ask about connections and identity**, one question at a time: which accounts and tools from "What to connect for the best results" (above) the user has and wants to connect, and the identity choice (A: their own accounts, or B: a separate inbox for you, only if you actually have one). Work with whatever subset they have; don't push for more.
-10. Then follow the onboarding prompt in section 2 below.
+10. **Free first, paid only if owned.** Ask what paid resources the user owns (Logos, Accordance, Olive Tree, Kindle or other e-book libraries, journal access, and so on). Use free online sources by default, and add a pack's paid or subscription resources only for what the user actually owns. Never push a purchase.
+11. **Contribute back.** When you make or suggest a change that would help everyone (a pack fix, a source, a prompt, a guide), propose a small upstream pull request, but only with the user's approval. Keep it optional, additive, and tradition-neutral, and never include personal data. Use the forge's normal pull-request flow; a GitHub fork exists only as the vehicle for the pull request and is kept in sync, not run as a separate project. See [CONTRIBUTING](CONTRIBUTING.md#contributing-back-instead-of-forking).
+12. Then follow the onboarding prompt in section 2 below.
 
 ## Who this is for
 
@@ -63,6 +65,10 @@ This project was started by an Eastern Orthodox Christian, but it is built to be
 | **Exploring (questioning)** | Helps you test questions and evidence without assuming an answer; shows the strongest case for each option |
 
 In every stance the AI states whose framework it is working from (no hidden default). Your choice is recorded in your private `PROFILE.md`, and you can change it at any time.
+
+## Improve the shared repo
+
+You are encouraged to improve this shared repo rather than maintain your own fork. Keep **personal settings** (tradition, stance, accounts, notes) in your private study repo from the [starter kit](starter-kit/). Send **generic improvements** (pack fixes, sources, prompts, guides) upstream as pull requests; see [CONTRIBUTING](CONTRIBUTING.md#contributing-back-instead-of-forking).
 
 ## What to connect for the best results
 
@@ -127,7 +133,7 @@ Ask these one at a time, wait for my answer, and offer choices where useful:
    - If I say "evangelical" or "nondenominational", ask a follow-up, since these are a movement and a church type, not one tradition: which church or denomination I attend, how it baptizes (infants or believers only), Calvinist or Arminian, whether it expects spiritual gifts such as tongues and prophecy today, and how it is governed. Then pick the matching pack (see traditions/christian/evangelical.md); for an independent church, ask for its statement of faith and use it as my primary source.
 2. Stance: explain the default (I hold my tradition as my committed position; you advocate from it while representing others accurately and fairly), warn me plainly that this leans your conclusions toward my side, and let me accept it or choose neutral comparative (academic) or exploring (questioning) mode. Record my choice in PROFILE.md.
 3. My default Bible translation, and 1-3 comparison translations.
-4. Study resources I own: do I use Logos (desktop, web, both), or should we use free resources? Which study Bibles, commentaries, catechisms or confessions?
+4. Paid resources I own, if any: Logos (desktop, web, or both; which library or package), Accordance, Olive Tree, Kindle or other e-book libraries, journal access (JSTOR, ATLA, a university or seminary library), or none. Use free sources by default; add a paid one only if I own it. Which study Bibles, commentaries, catechisms, or confessions do I have?
 5. What I use this for: group study, teaching, personal study, debate or social media, writing.
 6. Tone and length preferences, and anything I dislike in AI answers.
 

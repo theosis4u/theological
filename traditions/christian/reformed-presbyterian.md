@@ -10,15 +10,18 @@
 - Reformation and after: John Calvin, Heinrich Bullinger, Zacharias Ursinus, Francis Turretin, John Owen, Jonathan Edwards.
 - Modern: Charles Hodge, B. B. Warfield, Herman Bavinck, Geerhardus Vos, Louis Berkhof, John Murray, R. C. Sproul, Michael Horton, Richard Muller.
 
-## Study Bibles and Logos resources
+## Free online sources
+See [Free resources: by tradition](../../guides/free-resources.md#reformed--presbyterian) for free online sources for this tradition, and the cross-tradition core in section 1 of that page.
+
+## Paid or subscription resources (optional)
+
+Use these only if you own them; the free sources above are enough to start. They add study-Bible notes, commentaries, and searchable, linkable libraries (for example in Logos, Accordance, or Olive Tree). Titles marked _(verify in Logos)_ may be in only some packages.
+
 - *Reformation Study Bible* (Ligonier).
 - *ESV Study Bible* (Crossway), widely used though not exclusively Reformed.
 - Calvin's *Institutes* and *Commentaries*.
 - Bavinck, *Reformed Dogmatics* _(verify in Logos)_.
 - Historical creeds and confessions collections (e.g. Schaff, *The Creeds of Christendom*).
-
-## Free resources
-See [Free resources: by tradition](../../guides/free-resources.md#reformed--presbyterian) for free online sources for this tradition, and the cross-tradition core in section 1 of that page.
 
 ## Translation preferences
 ESV and NASB are common; NKJV and KJV in some churches; CSB in others. Attention to the original languages is expected.

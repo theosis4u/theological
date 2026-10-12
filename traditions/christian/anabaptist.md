@@ -43,16 +43,18 @@ Scripture, especially the New Testament and the Sermon on the Mount, read in com
 
 Conrad Grebel, Michael Sattler, Balthasar Hubmaier, Pilgram Marpeck, Menno Simons, Dirk Philips; modern Harold Bender ("The Anabaptist Vision"), John Howard Yoder, C. Arnold Snyder, Donald Kraybill (on the Amish).
 
-## Study Bibles and Logos resources
-
-The *Believers Church Bible Commentary* series _(verify in Logos)_. *The Complete Writings of Menno Simons* _(verify in Logos)_.
-
-## Free resources
+## Free online sources
 
 - [Mennonite Church USA: What we believe](https://www.mennoniteusa.org/who-are-mennonites/what-we-believe/); [Mennonite Church Canada](https://www.mennonitechurch.ca/).
 - [Church of the Brethren](https://www.brethren.org/); [Hutterites](https://www.hutterites.org/beliefs/).
 - [Schaff, *Creeds of Christendom*, Vol. III (CCEL)](https://www.ccel.org/ccel/schaff/creeds3.iv.v.html).
 - GAMEO (Global Anabaptist Mennonite Encyclopedia Online, gameo.org) and Mennonite World Conference (mwc-cmm.org) block automated checks; check them in a browser.
+
+## Paid or subscription resources (optional)
+
+Use these only if you own them; the free sources above are enough to start. They add study-Bible notes, commentaries, and searchable, linkable libraries (for example in Logos, Accordance, or Olive Tree). Titles marked _(verify in Logos)_ may be in only some packages.
+
+The *Believers Church Bible Commentary* series _(verify in Logos)_. *The Complete Writings of Menno Simons* _(verify in Logos)_.
 
 ## Translation preferences
 

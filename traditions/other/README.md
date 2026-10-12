@@ -49,6 +49,13 @@ Brief entries for traditions not covered by a full pack. Each can be expanded in
 - **Free sources:** [sacred-texts.com: Zoroastrianism](https://sacred-texts.com/zor/index.htm) (older translations of the Avesta). Avesta.org did not load when checked.
 - **Slot text:** *Lead with the Zoroastrian reading, citing the Gathas by Yasna and stanza, and noting differences between Iranian and Parsi communities where relevant.*
 
+## Paid or subscription resources (optional)
+
+Optional: use only if you own them. The free sources in each section above come first; these add fuller translations, commentary, or reference works.
+
+- D. C. Lau (trans.), *The Analects* and *Tao Te Ching* (Penguin Classics).
+- Journal access (JSTOR, ATLA Religion Database) for East Asian, Baha'i, and Zoroastrian studies.
+
 ## Latter-day Saints
 
 Moved to [Nontrinitarian and restorationist offshoots](../christian/nontrinitarian-offshoots.md#latter-day-saints), in the Christian family folder, where its disputed status is explained.

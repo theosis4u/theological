@@ -61,6 +61,10 @@ Placeholders used below:
 6. **Voices to verify** (popular apologists, video lectures, social-media posts, articles). Use their arguments, but check every historical claim against sources, and say whether it reflects your tradition's consensus, a minority view within it, or a personal opinion.
 7. **AI research tools** (including in-app study assistants). Treat answers as leads. Open the cited resource and quote it, not the summary.
 
+### Free first, paid only if owned
+
+Use free online sources by default. Add paid or subscription resources (`<paid resources the user owns, e.g. Logos library, Accordance, Olive Tree, e-book libraries, journal access>`) only if the user owns them, and say what each adds (study-Bible notes, commentaries, searchable libraries). Every tradition pack lists **Free online sources** first, then **Paid or subscription resources (optional)**.
+
 ### Free-resource mode (no Logos)
 
 If the user has no Logos library, use the free tiers in [Free resources](free-resources.md) instead. First ask which tradition list to prioritize (from that page's section 2). Then use, in order: Scripture from free texts (NET Bible with notes, eBible.org public-domain texts, STEP Bible for original languages); primary sources from CCEL, New Advent, or the tradition's own sites; open-access scholarship (Tyndale Bulletin, BiblicalStudies.org.uk). Quote with a link to the exact page, never quote modern copyrighted translations beyond a few verses, and ask the user to verify each quote against the link.

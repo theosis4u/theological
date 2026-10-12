@@ -43,13 +43,15 @@ German **Pietism** (Philipp Jakob Spener's *Pia Desideria*, 1675; August Hermann
 
 Molinos, Guyon, Fénelon, Bossuet (opponent), Pierre Poiret (editor); for Pietism, Spener, Francke, Johann Arndt (*True Christianity*); scholars Bernard McGinn (history of Christian mysticism).
 
-## Study Bibles and Logos resources
-
-Guyon and Fénelon are in some Logos classic collections _(verify in Logos)_.
-
-## Free resources
+## Free online sources
 
 - [CCEL: Miguel de Molinos](https://www.ccel.org/ccel/molinos), [CCEL: Madame Guyon](https://www.ccel.org/ccel/guyon) (including [*A Short and Easy Method of Prayer*](https://www.ccel.org/ccel/guyon/prayer.html)), [CCEL: Fénelon](https://www.ccel.org/ccel/fenelon) (including [*Spiritual Progress*](https://www.ccel.org/ccel/fenelon/progress.html)).
+
+## Paid or subscription resources (optional)
+
+Use these only if you own them; the free sources above are enough to start. They add study-Bible notes, commentaries, and searchable, linkable libraries (for example in Logos, Accordance, or Olive Tree). Titles marked _(verify in Logos)_ may be in only some packages.
+
+Guyon and Fénelon are in some Logos classic collections _(verify in Logos)_.
 
 ## Translation preferences
 

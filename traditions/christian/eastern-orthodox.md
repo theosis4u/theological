@@ -10,14 +10,17 @@
 - Fathers: Athanasius, Basil the Great, Gregory of Nazianzus, Gregory of Nyssa, John Chrysostom, Cyril of Alexandria, Maximus the Confessor, John of Damascus, Symeon the New Theologian, Gregory Palamas.
 - Modern: Georges Florovsky, Vladimir Lossky, John Meyendorff, Alexander Schmemann, Dumitru Stăniloae, Kallistos Ware, John Behr.
 
-## Study Bibles and Logos resources
+## Free online sources
+See [Free resources: by tradition](../../guides/free-resources.md#eastern-orthodox) for free online sources for this tradition, and the cross-tradition core in section 1 of that page.
+
+## Paid or subscription resources (optional)
+
+Use these only if you own them; the free sources above are enough to start. They add study-Bible notes, commentaries, and searchable, linkable libraries (for example in Logos, Accordance, or Olive Tree). Titles marked _(verify in Logos)_ may be in only some packages.
+
 - *The Orthodox Study Bible* (Thomas Nelson). In Logos, the notes may be sold without the Bible text _(verify in Logos)_.
 - *Ancient Christian Commentary on Scripture* (IVP), patristic excerpts by passage.
 - Schaff's *Nicene and Post-Nicene Fathers* and *Ante-Nicene Fathers* series.
 - Orthodox-specific collections and liturgical texts _(verify in Logos)_.
-
-## Free resources
-See [Free resources: by tradition](../../guides/free-resources.md#eastern-orthodox) for free online sources for this tradition, and the cross-tradition core in section 1 of that page.
 
 ## Translation preferences
 LXX for the Old Testament where it differs from the Hebrew; NKJV is common in English (it underlies the Orthodox Study Bible's New Testament); the Eastern Orthodox Bible and other parish translations are also used. Note LXX vs. Masoretic differences explicitly.

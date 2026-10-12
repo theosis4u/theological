@@ -11,16 +11,19 @@
 - Fathers and Doctors: Irenaeus, Augustine, Jerome, Ambrose, Gregory the Great, Anselm, Bernard, Thomas Aquinas, Bonaventure, Teresa of Ávila, John of the Cross.
 - Modern: John Henry Newman, Henri de Lubac, Yves Congar, Joseph Ratzinger (Benedict XVI), Hans Urs von Balthasar, Scott Hahn, Brant Pitre.
 
-## Study Bibles and Logos resources
+## Free online sources
+See [Free resources: by tradition](../../guides/free-resources.md#roman-catholic) for free online sources for this tradition, and the cross-tradition core in section 1 of that page.
+
+## Paid or subscription resources (optional)
+
+Use these only if you own them; the free sources above are enough to start. They add study-Bible notes, commentaries, and searchable, linkable libraries (for example in Logos, Accordance, or Olive Tree). Titles marked _(verify in Logos)_ may be in only some packages.
+
 - Logos's Catholic line is branded **Verbum**.
 - *Ignatius Catholic Study Bible* (Ignatius Press).
 - *Catechism of the Catholic Church*.
 - *Catholic Commentary on Sacred Scripture* (Baker Academic) _(verify in Logos)_.
 - Aquinas's *Summa Theologiae* and *Catena Aurea*.
 - *The Navarre Bible* _(verify in Logos)_.
-
-## Free resources
-See [Free resources: by tradition](../../guides/free-resources.md#roman-catholic) for free online sources for this tradition, and the cross-tradition core in section 1 of that page.
 
 ## Translation preferences
 NABRE (used in the U.S. lectionary in revised form), RSV-2CE, NRSV Catholic Edition / NRSVue, Douay-Rheims for traditional wording, and the Jerusalem / New Jerusalem Bible. Include the deuterocanonical books.

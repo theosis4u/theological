@@ -44,14 +44,16 @@ Adventists see themselves as Protestant Christians. Most Protestant bodies today
 
 Ellen G. White, Uriah Smith, J. N. Andrews; modern Richard Rice, George Knight, Fernando Canale, Jon Paulien.
 
-## Study Bibles and Logos resources
-
-*Andrews Study Bible*; the *Seventh-day Adventist Bible Commentary* _(verify in Logos)_.
-
-## Free resources
+## Free online sources
 
 - [EGW Writings](https://egwwritings.org/) (complete published books of Ellen G. White); [Ellen G. White Estate](https://www.ellenwhite.org/).
 - The Fundamental Beliefs at adventist.org (check in a browser).
+
+## Paid or subscription resources (optional)
+
+Use these only if you own them; the free sources above are enough to start. They add study-Bible notes, commentaries, and searchable, linkable libraries (for example in Logos, Accordance, or Olive Tree). Titles marked _(verify in Logos)_ may be in only some packages.
+
+*Andrews Study Bible*; the *Seventh-day Adventist Bible Commentary* _(verify in Logos)_.
 
 ## Translation preferences
 

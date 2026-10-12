@@ -9,14 +9,17 @@
 ## Key theologians
 - John Wesley, Charles Wesley (hymns), John Fletcher, Adam Clarke, Richard Watson, William Burt Pope, H. Orton Wiley, Thomas Oden, Albert Outler, Randy Maddox, Kenneth Collins.
 
-## Study Bibles and Logos resources
+## Free online sources
+See [Free resources: by tradition](../../guides/free-resources.md#wesleyan--methodist) for free online sources for this tradition, and the cross-tradition core in section 1 of that page.
+
+## Paid or subscription resources (optional)
+
+Use these only if you own them; the free sources above are enough to start. They add study-Bible notes, commentaries, and searchable, linkable libraries (for example in Logos, Accordance, or Olive Tree). Titles marked _(verify in Logos)_ may be in only some packages.
+
 - Wesley, *Explanatory Notes upon the Old and New Testament* (public domain).
 - *The Works of John Wesley* _(verify in Logos for edition)_.
 - Adam Clarke's *Commentary* (public domain).
 - *Wesley Study Bible* _(verify in Logos)_.
-
-## Free resources
-See [Free resources: by tradition](../../guides/free-resources.md#wesleyan--methodist) for free online sources for this tradition, and the cross-tradition core in section 1 of that page.
 
 ## Translation preferences
 NRSV / NRSVue and CEB in mainline settings; NIV, NKJV, and KJV in holiness and evangelical Wesleyan bodies.

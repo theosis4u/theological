@@ -38,6 +38,13 @@ Sikhs follow the teachings of the ten Gurus, beginning with Guru Nanak (1469–1
 
 Both movements began in the 19th century as reform movements and accept a continuing line of living Gurus, which mainstream Sikh bodies reject as contrary to the Guru Granth Sahib's status. The Sant Nirankari movement in particular has been in conflict with mainstream Sikh institutions. Slot text: *Lead with the named movement's own teaching and sources, and note that mainstream Sikh bodies dispute its status.*
 
+## Paid or subscription resources (optional)
+
+Optional: use only if you own them. The free sources in each section above come first; these add fuller translations, commentary, or reference works.
+
+- Pashaura Singh and Louis E. Fenech (eds.), *The Oxford Handbook of Sikh Studies* (Oxford University Press, 2014).
+- Journal access (JSTOR, ATLA Religion Database) for Sikh studies.
+
 ## Primary vs comparison sources
 
 - **Primary:** Guru Granth Sahib and the Rehat Maryada.

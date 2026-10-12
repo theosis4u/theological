@@ -8,14 +8,17 @@
 - Reformation and orthodoxy: Martin Luther, Philip Melanchthon, Martin Chemnitz, Johann Gerhard.
 - Modern: C. F. W. Walther, Francis Pieper, Hermann Sasse, Dietrich Bonhoeffer, Robert Kolb, Oswald Bayer.
 
-## Study Bibles and Logos resources
+## Free online sources
+See [Free resources: by tradition](../../guides/free-resources.md#lutheran) for free online sources for this tradition, and the cross-tradition core in section 1 of that page.
+
+## Paid or subscription resources (optional)
+
+Use these only if you own them; the free sources above are enough to start. They add study-Bible notes, commentaries, and searchable, linkable libraries (for example in Logos, Accordance, or Olive Tree). Titles marked _(verify in Logos)_ may be in only some packages.
+
 - *The Lutheran Study Bible* (Concordia Publishing House) _(verify in Logos)_.
 - *The Book of Concord* (Kolb/Wengert edition, or the Concordia reader's edition) _(verify in Logos)_.
 - *Luther's Works* (American Edition).
 - *Concordia Commentary* series _(verify in Logos)_.
-
-## Free resources
-See [Free resources: by tradition](../../guides/free-resources.md#lutheran) for free online sources for this tradition, and the cross-tradition core in section 1 of that page.
 
 ## Translation preferences
 ESV is common (it underlies The Lutheran Study Bible); NIV, NRSV, and KJV in various church bodies.

@@ -21,7 +21,8 @@ Contributions are welcome, especially new tradition packs and corrections to exi
 2. Keep the same sections, in order:
    - **Authoritative standards** (confessions, catechisms, councils, or statements, and how they are cited)
    - **Key Fathers / theologians** (historic and modern)
-   - **Study Bibles and Logos resources** (titles only)
+   - **Free online sources** (verified to load; note sites that block automated checks)
+   - **Paid or subscription resources (optional)** (real products only, briefly saying what they add, e.g. Logos libraries, specific commercial commentaries, journal access)
    - **Translation preferences**
    - **Slot text: "your tradition first"** (one indented paragraph for section 4 of the method template)
 3. Add a row to the table in [`traditions/README.md`](traditions/README.md) (and the family index, e.g. `traditions/christian/README.md`).
@@ -45,9 +46,36 @@ Contributions are welcome, especially new tradition packs and corrections to exi
 - **Long pages** keep the auto table of contents (`{: .no_toc}` on the title and Contents heading, then `* Contents` and `{:toc}`).
 - Read more in the [project history](docs/project-history.md).
 
+## Contributing back instead of forking
+
+You are encouraged to improve this shared repo rather than maintain a separate fork.
+
+### What goes where
+
+- **Your private study repo** (from the [starter kit](starter-kit/)): personal settings such as your tradition, stance, accounts, notes, and anything with personal data.
+- **Upstream here, as pull requests:** generic improvements such as pack fixes, new sources, prompts, guides, and tools.
+
+### The pull-request flow
+
+1. Make a small, focused change on a branch. On GitHub, a fork is only the vehicle for the pull request: keep it in sync with this repo and don't run it as a separate project.
+2. Run the privacy grep and the link check, and keep tables of contents.
+3. Open a pull request that says what changed, why, and how you checked sources.
+4. AI assistants may draft such changes, but propose them to the user first and open a pull request only with the user's approval.
+
+### Optional and additive conventions
+
+- **Add, don't overwrite:** add a new pack or section rather than rewriting another tradition's view.
+- **Opt-in settings:** new behaviours (stances, modes, tools) are options the user chooses, not new defaults.
+- **Tradition-neutral:** no "house view"; describe each view as its adherents would.
+- **No personal data**, ever.
+
+### Review by adherents
+
+Changes to a pack should be reviewed by people who belong to that tradition or branch where possible. Say in the pull request whether you are an adherent or an outside summarizer.
+
 ## Forking and publishing your own site
 
-1. **Fork** this repo on GitHub (or use the [starter kit](starter-kit/) for a private study repo). Keep personal notes in a private repo; publish only what you choose.
+1. **Fork** this repo on GitHub only if you need your own site (otherwise contribute upstream, above; for private study, use the [starter kit](starter-kit/)). Keep personal notes in a private repo; publish only what you choose.
 2. **Enable Pages:** **Settings > Pages**, source "Deploy from a branch", branch `main`, folder `/ (root)`. The site appears at `https://<user>.github.io/<repo>/`. Change `title` and `header_pages` in `_config.yml`.
 3. **Set the pop-up translation:** edit `bibleVersion` in `_includes/reftagger.html` (e.g. `"NET"`, `"KJV"`, `"ESV"`, `"LEB"`). Keep `convertHyperlinks: true` with `hyperlinkTestList: ["biblia.com"]` if your text uses Biblia links, and `noSearchTagNames: ["code", "pre"]` so headings are tagged. Test one pop-up in a browser.
 4. **Before each publish:** run a privacy grep over changed files (your name, family, friends, church, email addresses, handles, places), then wait for the Pages build and open a page to check it.

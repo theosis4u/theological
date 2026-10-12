@@ -257,6 +257,14 @@ Hermetic or Christian Kabbalah adapts Jewish Kabbalah (e.g. the Tree of Life) in
 - **Free sources:** [sacred-texts.com: Gnosticism](https://sacred-texts.com/gno/index.htm) (older translations).
 - **Slot text:** *Lead with the modern Gnostic reading, citing Nag Hammadi texts by codex and tractate, and distinguishing ancient texts from modern interpretation.*
 
+## Paid or subscription resources (optional)
+
+Optional: use only if you own them. The free sources in each section above come first; these add fuller translations, commentary, or reference works.
+
+- Wouter J. Hanegraaff (ed.), *Dictionary of Gnosis and Western Esotericism* (Brill, 2005).
+- Llewellyn's edition of Regardie's *The Golden Dawn*; Weiser editions of Crowley, Fortune, and Case.
+- Journal access (for example *Aries*, Brill) for academic study of Western esotericism.
+
 ## Primary vs comparison sources
 
 - **Primary:** your tradition's founding texts and recognized order or society.

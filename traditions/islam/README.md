@@ -60,6 +60,14 @@ Muslims believe in one God (Allah), the prophethood of Muhammad as the final pro
 
 The Ahmadiyya movement, founded by Mirza Ghulam Ahmad in 19th-century India, regards itself as Muslim. Most Sunni and Shia authorities do not accept it as Islamic because of its views on prophethood after Muhammad, and in some countries Ahmadis are legally barred from calling themselves Muslim. The movement has two branches (Ahmadiyya Muslim Community and the Lahore Ahmadiyya Movement), which differ on Ghulam Ahmad's status. Free: [Al Islam (Ahmadiyya Muslim Community)](https://www.alislam.org/). Slot text: *Lead with the Ahmadiyya reading of the named branch, citing its own sources, and note that most other Muslims dispute its status.*
 
+## Paid or subscription resources (optional)
+
+Optional: use only if you own them. The free sources in each section above come first; these add fuller translations, commentary, or reference works.
+
+- Seyyed Hossein Nasr (ed.), *The Study Quran* (HarperOne, 2015), with commentary drawing on classical tafsir.
+- *Encyclopaedia of Islam* (Brill; subscription, often through libraries).
+- Journal access (JSTOR, ATLA Religion Database) for Islamic studies.
+
 ## Primary vs comparison sources
 
 - **Primary:** the Qur'an with your branch's hadith, law school, and scholars.

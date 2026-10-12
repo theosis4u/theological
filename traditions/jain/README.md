@@ -43,6 +43,14 @@ Jains follow the teachings of the 24 Tirthankaras ("ford-makers"), the last bein
 - **Free sources:** [Jain eLibrary](https://www.jainelibrary.org/).
 - **Slot text:** *Lead with the Svetambara reading of the named sub-group (Murtipujaka, Sthanakvasi, or Terapanthi), citing the Agamas, and note where Digambara teaching differs.*
 
+## Paid or subscription resources (optional)
+
+Optional: use only if you own them. The free sources in each section above come first; these add fuller translations, commentary, or reference works.
+
+- Padmanabh S. Jaini, *The Jaina Path of Purification* (University of California Press; Motilal Banarsidass).
+- Paul Dundas, *The Jains* (Routledge).
+- Journal access (JSTOR) for Jain studies.
+
 ## Primary vs comparison sources
 
 - **Primary:** your branch's canon and acharyas.

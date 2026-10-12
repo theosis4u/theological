@@ -56,6 +56,14 @@ Judaism is the covenant faith and way of life of the Jewish people, grounded in 
 - **Free sources:** [Reconstructing Judaism](https://www.reconstructingjudaism.org/).
 - **Slot text:** *Lead with the Reconstructionist reading, citing Kaplan and the movement's sources, and note how it reinterprets traditional concepts.*
 
+## Paid or subscription resources (optional)
+
+Optional: use only if you own them. The free sources in each section above come first; these add fuller translations, commentary, or reference works.
+
+- *The Koren Talmud Bavli* (Steinsaltz commentary) and the *JPS Tanakh* and *JPS Torah Commentary* (Jewish Publication Society).
+- ArtScroll editions (Schottenstein Talmud, Stone Chumash) for Orthodox readers.
+- Sefaria (free) covers much of this; paid editions add translation notes and commentary.
+
 ## Primary vs comparison sources
 
 - **Primary:** Tanakh and rabbinic literature as read by your movement and its authorities.

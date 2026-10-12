@@ -34,17 +34,19 @@ Most hold Scripture as the sole final authority (often "inerrant" or "infallible
 
 There is no shared canon. Ask which teachers the church and user follow. Writers often read in these churches include John Stott, Wayne Grudem (*Systematic Theology*), J. I. Packer, Tim Keller, Chuck Smith (Calvary Chapel), John Wimber (Vineyard), and popular preachers; note each writer's own tradition.
 
-## Study Bibles and Logos resources
-
-- ESV Study Bible, NIV Study Bible, CSB Study Bible _(verify in Logos)_.
-- Grudem, *Systematic Theology* _(verify in Logos)_.
-- The church's own statement of faith, saved as a document in your repo.
-
-## Free resources
+## Free online sources
 
 - The church's website ("What we believe").
 - [NAE Statement of Faith](https://www.nae.org/statement-of-faith/); [Lausanne Covenant](https://www.lausanne.org/content/covenant/lausanne-covenant).
 - See the [cross-tradition core](../../guides/free-resources.md) for free texts and scholarship.
+
+## Paid or subscription resources (optional)
+
+Use these only if you own them; the free sources above are enough to start. They add study-Bible notes, commentaries, and searchable, linkable libraries (for example in Logos, Accordance, or Olive Tree). Titles marked _(verify in Logos)_ may be in only some packages.
+
+- ESV Study Bible, NIV Study Bible, CSB Study Bible _(verify in Logos)_.
+- Grudem, *Systematic Theology* _(verify in Logos)_.
+- The church's own statement of faith, saved as a document in your repo.
 
 ## Translation preferences
 
