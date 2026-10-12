@@ -77,7 +77,7 @@ This is a one-person project, maintained with limited time and a limited weekly 
 
 - **Issue templates:** fix a pack (tradition and branch, what's wrong, and a source), add a source, add a prompt, or report a bug.
 - **Pull-request template:** a checklist for no personal data, full references, edition named, the own-sources rule, and additive changes.
-- **Checks:** an internal link and anchor check (`tools/check_links.py`) and a generic privacy check that flags email addresses, phone numbers, and street addresses (`tools/check_privacy.py`). Run both locally before opening a pull request; a GitHub Actions workflow to run them automatically on every pull request and push is planned.
+- **Checks:** an internal link and anchor check (`tools/check_links.py`) and a generic privacy check that flags email addresses, phone numbers, and street addresses (`tools/check_privacy.py`). Run both locally before opening a pull request; a GitHub Actions workflow to run them automatically on every pull request and push is active.
 
 ### A private word list for your own pushes
 
