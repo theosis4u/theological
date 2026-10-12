@@ -1,0 +1,38 @@
+name: Add a source
+description: Suggest a free or paid resource for a pack or the free-resources guide.
+title: "[Source] "
+labels: ["source"]
+body:
+  - type: input
+    id: tradition
+    attributes:
+      label: Tradition and branch (or "cross-tradition")
+    validations:
+      required: true
+  - type: input
+    id: resource
+    attributes:
+      label: Resource name and link
+    validations:
+      required: true
+  - type: dropdown
+    id: tier
+    attributes:
+      label: Free or paid
+      options: ["Free online", "Paid or subscription (optional)"]
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What it offers
+      description: Texts, translations (name the edition), commentary, API, and so on. Did the link load when you checked?
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy
+      options:
+        - label: This issue contains no personal data.
+          required: true

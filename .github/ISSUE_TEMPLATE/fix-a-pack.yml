@@ -1,0 +1,43 @@
+name: Fix a pack
+description: Report something inaccurate or missing in a tradition pack.
+title: "[Pack fix] "
+labels: ["pack fix"]
+body:
+  - type: input
+    id: tradition
+    attributes:
+      label: Tradition and branch
+      description: Name the specific branch, not just the family (e.g. "Christian / Lutheran (LCMS)", "Islam / Twelver Shia", "Buddhist / Zen").
+    validations:
+      required: true
+  - type: input
+    id: file
+    attributes:
+      label: Pack file
+      placeholder: traditions/christian/lutheran.md
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What's wrong or missing
+      description: Quote the current text and say what it should say.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: The tradition's own primary source or a recognized authority, with an exact reference (document, section, page) and a link if free.
+    validations:
+      required: true
+  - type: dropdown
+    id: adherent
+    attributes:
+      label: Are you an adherent of this branch?
+      options: ["Yes", "No, outside summarizer", "Prefer not to say"]
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy
+      options:
+        - label: This issue contains no personal data (names, emails, churches, places).
+          required: true

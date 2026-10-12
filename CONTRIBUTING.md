@@ -73,9 +73,15 @@ This is a one-person project, maintained with limited time and a limited weekly 
 - **Tradition-neutral:** no "house view"; describe each view as its adherents would.
 - **No personal data**, ever.
 
+### Issues, pull requests, and automatic checks
+
+- **Issue templates:** fix a pack (tradition and branch, what's wrong, and a source), add a source, add a prompt, or report a bug.
+- **Pull-request template:** a checklist for no personal data, full references, edition named, the own-sources rule, and additive changes.
+- **Checks:** an internal link and anchor check (`tools/check_links.py`) and a generic privacy check that flags email addresses, phone numbers, and street addresses (`tools/check_privacy.py`). Run both locally before opening a pull request; a GitHub Actions workflow to run them automatically on every pull request and push is planned.
+
 ### Review by adherents
 
-Changes to a pack should be reviewed by people who belong to that tradition or branch where possible. Say in the pull request whether you are an adherent or an outside summarizer.
+Changes to a pack should be reviewed by people who belong to that tradition or branch where possible. Packs awaiting such review carry the **needs adherent review** label; each pack family has an open tracking issue inviting review. Say in the pull request whether you are an adherent or an outside summarizer.
 
 ## Forking and publishing your own site
 

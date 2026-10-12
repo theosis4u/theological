@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Contributing guide
+    url: https://theosis4u.github.io/theological/CONTRIBUTING.html
+    about: How to contribute back instead of forking, and the conventions for packs.
