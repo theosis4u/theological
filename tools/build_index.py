@@ -2,7 +2,7 @@
 """Build INDEX.md for a study repo from the front matter of its Markdown files.
 
 Groups files by `topic` (or by top-level folder when there is no topic), newest first.
-Skips README.md, INDEX.md, PROFILE.md, METHOD.md and hidden folders.
+Skips README.md, INDEX.md, PROFILE.md, METHOD.md, files starting with "_", and hidden folders.
 
 Usage: build_index.py [repo_dir] [-o INDEX.md] [--title "Index"]
 """
@@ -33,7 +33,7 @@ def main():
     for root, dirs, files in os.walk(a.repo):
         dirs[:] = sorted(d for d in dirs if not d.startswith('.'))
         for fn in files:
-            if not fn.endswith('.md') or fn in SKIP:
+            if not fn.endswith('.md') or fn in SKIP or fn.startswith('_'):
                 continue
             p = os.path.join(root, fn); rel = os.path.relpath(p, a.repo).replace(os.sep, '/')
             m = front(p)
