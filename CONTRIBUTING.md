@@ -79,6 +79,10 @@ This is a one-person project, maintained with limited time and a limited weekly 
 - **Pull-request template:** a checklist for no personal data, full references, edition named, the own-sources rule, and additive changes.
 - **Checks:** an internal link and anchor check (`tools/check_links.py`) and a generic privacy check that flags email addresses, phone numbers, and street addresses (`tools/check_privacy.py`). Run both locally before opening a pull request; a GitHub Actions workflow to run them automatically on every pull request and push is planned.
 
+### A private word list for your own pushes
+
+The public checks catch generic patterns, not your own name or town. Keep a **private** list of words that must never appear publicly (your name variants, family, friends, church, town, email domains, handles) **outside the public repo**, for example in your private study repo, with a small allowlist for known false positives. Then add a local `pre-push` git hook in your public clone that greps the outgoing diff, changed files, and commit messages against the list and blocks the push on a match. Never commit the list itself, and don't bypass the hook with `--no-verify`; fix the text instead.
+
 ### Review by adherents
 
 Changes to a pack should be reviewed by people who belong to that tradition or branch where possible. Packs awaiting such review carry the **needs adherent review** label; each pack family has an open tracking issue inviting review. Say in the pull request whether you are an adherent or an outside summarizer.
