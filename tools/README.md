@@ -9,6 +9,7 @@ Small, dependency-light Python 3 scripts for a Markdown + Logos study workflow. 
 | `build_index.py` | Builds `INDEX.md` from the front matter of every `.md` file | stdlib |
 | `note_save_server.py` | Local page to paste a copied Logos note body into and save it as HTML | stdlib |
 | `logos_notes_reader.py` | Read-only schema lister / exporter for a **copy** of the Logos notes SQLite DB | stdlib |
+| `classify_topics.py` | Keyword-based topic suggester; writes a CSV for review | stdlib (PyYAML optional) |
 
 ## md_to_logos_html.py
 
@@ -63,3 +64,14 @@ Note bodies may be stored in an internal rich-text format rather than HTML; insp
 ## Tested
 
 All five scripts were run on synthetic inputs (a generated chat PDF, a toy SQLite DB, local POSTs to the save server, and a sample repo). They have not been tested against every chat site's print layout or every Logos version.
+
+## classify_topics.py
+
+Keyword-based topic suggester for sorting imported material (see [starting points](../guides/starting-points.md)). Reads a JSON map (or YAML with PyYAML), scores title matches ×3 and body matches ×1, and writes a CSV for review. It never moves or edits files.
+
+```bash
+python3 tools/classify_topics.py --example-map > topics.json
+python3 tools/classify_topics.py imports/ --map topics.json -o suggestions.csv [--min-score 2] [--ext .md,.txt]
+```
+
+Tested on sample files with the JSON map (the YAML path requires PyYAML and was not tested).

@@ -11,6 +11,8 @@ A ready-made skeleton for a **private** Bible study repository that works with L
 5. Give your AI assistant `PROFILE.md` and `METHOD.md` at the start of each session, or point it at the repo.
 6. Save every study as `YYYY-MM-DD-short-slug.md` in a topic folder, using the front matter in `_front-matter-example.md`, and rebuild `INDEX.md` with `python3 tools/build_index.py . -o INDEX.md`.
 
+Optional: seed it from material you already have (AI chats, posts, emails, Logos notes, documents) using [Starting points](../guides/starting-points.md).
+
 ## Folders
 
 | Folder | For |

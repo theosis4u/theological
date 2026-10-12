@@ -121,6 +121,8 @@ Then, for each row:
 
 For a complete example of this flow for a group study, see the [John 3:16–21 group study handout](../examples/john-3-16-group-study.md).
 
+To bring in older material (chats, posts, emails, documents), see [Starting points](starting-points.md); its cleanup prompts work in Copilot too.
+
 ## 6. Keeping the repo without git
 
 You can keep the same folder structure from the [starter kit](../starter-kit/) without installing git:
