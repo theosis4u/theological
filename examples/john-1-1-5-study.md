@@ -23,6 +23,8 @@ This is a worked example of a passage study in the format described in the [meth
 
 ## 1. The text
 
+*Compare + NET notes:* [John 1:1–5 on Bible Gateway (NET, NRSVue, NKJV, KJV)](https://www.biblegateway.com/passage/?search=John%201:1-5&version=NET;NRSVUE;NKJV;KJV)
+
 **[John 1:1](https://biblia.com/bible/kjv1900/John1.1)** (KJV): "In the beginning was the Word, and the Word was with God, and the Word was God."
 
 **[John 1:2](https://biblia.com/bible/kjv1900/John1.2)** (KJV): "The same was in the beginning with God."

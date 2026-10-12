@@ -63,6 +63,8 @@ Follow METHOD.md.
 
 ### The text
 
+*Compare + NET notes:* [John 3:14–21 on Bible Gateway (NET, NRSVue, NKJV, KJV)](https://www.biblegateway.com/passage/?search=John%203:14-21&version=NET;NRSVUE;NKJV;KJV)
+
 **[John 3:14–15](https://biblia.com/bible/kjv1900/John3.14-15)** (KJV): "And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up: That whosoever believeth in him should not perish, but have eternal life."
 
 **[John 3:16](https://biblia.com/bible/kjv1900/John3.16)** (KJV): "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
