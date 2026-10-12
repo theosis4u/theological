@@ -9,6 +9,7 @@ Questions to answer: <paste the questions>
 Follow METHOD.md.
 - Reprint each question in bold, then answer it in short paragraphs with sources named inline.
 - Quote verses inline. Put long quotes from library resources in indented blocks with their citation and ref.ly link (I will paste these from Logos; leave a <ref.ly link from your Logos copy> placeholder where needed).
+- Link Bible references to Biblia.com (https://biblia.com/bible/<translation>/<Book><ch>.<v>) for group members without Logos; keep ref.ly for library quotes and add a free source link (CCEL, New Advent, confession sites) where one exists.
 - No tables in the final note (Logos notes cannot hold them); use lists.
 - Write Markdown with a front-matter title; I will convert it with tools/md_to_logos_html.py.
 ```

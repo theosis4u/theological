@@ -110,6 +110,7 @@ Then, for each row:
 - [ ] Check Bible verses against the actual translation.
 - [ ] Confirm confession or catechism section numbers.
 - [ ] Delete anything you cannot find, or mark it "unverified".
+- [ ] If you will share it, link Bible references to Biblia.com (e.g. `https://biblia.com/bible/kjv1900/John3.16`, free, no sign-in) and add a free source link next to library quotes where one exists, since `ref.ly` links may show non-owners only a preview or a purchase prompt.
 
 ## 5. The adapted workflow, step by step
 

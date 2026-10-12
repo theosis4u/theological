@@ -145,6 +145,14 @@ Anchors have drawbacks for this workflow:
 
 Inline `ref.ly` citations sit next to the quote, survive a copy of the note body, and work as normal links in Markdown on GitHub. That makes the repo self-contained: you can find and verify a source from the Markdown alone without opening Logos to look up an anchor.
 
+### 5.3 Free, shareable links
+
+`ref.ly` links open the passage in Logos for people who own the book. For everyone else they open the Logos web app, which may show only a preview or a sign-in or purchase prompt. In anything you share with people who may lack Logos:
+
+- Link Bible references to [Biblia.com](https://biblia.com/), Faithlife's free online reader, which opens verses with no sign-in. The format is `https://biblia.com/bible/<translation>/<Book><chapter>.<verse>`, for example `https://biblia.com/bible/kjv1900/Eph2.8` or a range like `https://biblia.com/bible/esv/John3.16-21`. Book names can be abbreviated (`Eph`, `1Cor`, `Ps`). Translations that opened without sign-in in a check on 2026-10-11 include `kjv1900`, `leb`, `asv`, `esv`, `nkjv`, `nasb95`, `niv`, and `nrsvue`. The NET did not (`net` returned "not found"); use [netbible.org](https://netbible.org/) for it.
+- Keep the `ref.ly` link on library quotes, and add a free source link where one exists (CCEL, New Advent, the confession sites in [Free resources](free-resources.md)).
+- `tools/md_to_logos_html.py --biblia kjv1900` turns plain references like `John 3:16` into Biblia links during conversion.
+
 ## 6. Local desktop data
 
 The desktop app keeps user data in a folder like:

@@ -21,6 +21,7 @@ A checklist for setting up the [Logos + GitHub workflow](logos-github-workflow.m
 - [ ] Turn on **Hyperlink copied citations**, so each citation carries a `https://ref.ly/...` link.
 - [ ] Choose a **citation style** (for example APA, Chicago, or SBL) and use it consistently.
 - [ ] Test once: copy a sentence from a study Bible, paste into a note, and confirm the citation line and link appear.
+- [ ] For anything you share with people who may not have Logos, open one `ref.ly` link while signed out to see what they will see (it may show only a preview or a purchase/sign-in prompt), and use Biblia.com links for Bible references (e.g. `https://biblia.com/bible/kjv1900/John3.16`, free, no sign-in). Add a free source link (CCEL, New Advent, confession sites) next to library quotes where one exists.
 
 ### Notes
 - [ ] Create a notebook for each class or study series.

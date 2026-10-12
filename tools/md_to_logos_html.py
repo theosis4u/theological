@@ -11,7 +11,21 @@ Usage: md_to_logos_html.py study.md [--title "My Study Note"] > out.html
 """
 import argparse, html, re, sys
 
+BOOKS = (r'(?:[123] ?)?(?:Gen(?:esis)?|Exod(?:us)?|Lev(?:iticus)?|Num(?:bers)?|Deut(?:eronomy)?|Josh(?:ua)?|Judg(?:es)?|Ruth|Sam(?:uel)?|Kings|Chron(?:icles)?|Ezra|Neh(?:emiah)?|Esth(?:er)?|Job|Ps(?:alms?)?|Prov(?:erbs)?|Eccl(?:esiastes)?|Song(?: of (?:Songs|Solomon))?|Isa(?:iah)?|Jer(?:emiah)?|Lam(?:entations)?|Ezek(?:iel)?|Dan(?:iel)?|Hos(?:ea)?|Joel|Amos|Obad(?:iah)?|Jonah|Mic(?:ah)?|Nah(?:um)?|Hab(?:akkuk)?|Zeph(?:aniah)?|Hag(?:gai)?|Zech(?:ariah)?|Mal(?:achi)?|Matt(?:hew)?|Mark|Luke|John|Acts|Rom(?:ans)?|Cor(?:inthians)?|Gal(?:atians)?|Eph(?:esians)?|Phil(?:ippians)?|Col(?:ossians)?|Thess(?:alonians)?|Tim(?:othy)?|Titus|Philem(?:on)?|Heb(?:rews)?|Jas|James|Pet(?:er)?|Jude|Rev(?:elation)?)')
+REF = re.compile(r'(?<![\w\[/])(' + BOOKS + r')\.? (\d+):(\d+)(?:[-\u2013](\d+))?(?![\w\]])')
+BIBLIA = None
+
+def biblia(t):
+    # Link plain Bible references (not already inside link text) to Biblia.com.
+    def f(m):
+        book = m.group(1).replace(' ', '')
+        tail = f"{m.group(2)}.{m.group(3)}" + (f"-{m.group(4)}" if m.group(4) else '')
+        return f'[{m.group(0)}](https://biblia.com/bible/{BIBLIA}/{book}{tail})'
+    parts = re.split(r'(\[[^\]]*\]\([^)]*\)|`[^`]*`)', t)
+    return ''.join(p if i % 2 else REF.sub(f, p) for i, p in enumerate(parts))
+
 def inline(t):
+    if BIBLIA: t = biblia(t)
     t = html.escape(t, quote=False)
     t = re.sub(r'\*\*(.+?)\*\*|__(.+?)__', lambda m: f'<strong>{m.group(1) or m.group(2)}</strong>', t)
     t = re.sub(r'(?<![\w*])\*(?!\s)(.+?)(?<!\s)\*(?!\w)|(?<!\w)_(?!\s)(.+?)(?<!\s)_(?!\w)',
@@ -111,7 +125,9 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('file'); ap.add_argument('--title')
     ap.add_argument('--indent-style', choices=['blockquote', 'ql-indent'], default='ql-indent')
+    ap.add_argument('--biblia', metavar='VERSION', help='link plain Bible references to Biblia.com in this translation, e.g. kjv1900')
     a = ap.parse_args()
+    global BIBLIA; BIBLIA = a.biblia
     global INDENT; INDENT = a.indent_style
     meta, body = parse_front(open(a.file, encoding='utf-8').read())
     title = a.title or meta.get('title') or 'Untitled'

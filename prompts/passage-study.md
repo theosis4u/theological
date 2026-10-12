@@ -12,6 +12,7 @@ Follow METHOD.md.
 4. Give <your tradition>'s reading, citing <your tradition's study resources> and early writers by work and section.
 5. Give other major readings fairly, from their own sources.
 6. End with 3–5 open questions for discussion.
+Link each Bible reference to Biblia.com (https://biblia.com/bible/<translation>/<Book><ch>.<v>) so readers without Logos can open it; for library quotes keep the ref.ly link and add a free source link where one exists.
 Mark any quote not checked against the source as "unverified".
 ```
 

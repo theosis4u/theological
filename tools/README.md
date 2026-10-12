@@ -15,6 +15,8 @@ Small, dependency-light Python 3 scripts for a Markdown + Logos study workflow. 
 
 ```bash
 python3 tools/md_to_logos_html.py study.md > note.html
+# also link plain Bible references (John 3:16, Eph 2:8-10) to Biblia.com for readers without Logos:
+python3 tools/md_to_logos_html.py study.md --biblia kjv1900 > note.html
 python3 tools/md_to_logos_html.py study.md --title "John 1:1-5" > note.html
 ```
 

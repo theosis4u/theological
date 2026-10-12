@@ -52,15 +52,15 @@ Follow METHOD.md.
 
 ### The text
 
-**John 3:14–15** (KJV): "And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up: That whosoever believeth in him should not perish, but have eternal life."
+**[John 3:14–15](https://biblia.com/bible/kjv1900/John3.14-15)** (KJV): "And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up: That whosoever believeth in him should not perish, but have eternal life."
 
-**John 3:16** (KJV): "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
+**[John 3:16](https://biblia.com/bible/kjv1900/John3.16)** (KJV): "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
 
-**John 3:17** (KJV): "For God sent not his Son into the world to condemn the world; but that the world through him might be saved."
+**[John 3:17](https://biblia.com/bible/kjv1900/John3.17)** (KJV): "For God sent not his Son into the world to condemn the world; but that the world through him might be saved."
 
-**John 3:18** (KJV): "He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God."
+**[John 3:18](https://biblia.com/bible/kjv1900/John3.18)** (KJV): "He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God."
 
-**John 3:19–21** (KJV): "And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil. For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved. But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God."
+**[John 3:19–21](https://biblia.com/bible/kjv1900/John3.19-21)** (KJV): "And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil. For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved. But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God."
 
 ### Translation differences in 3:16
 
