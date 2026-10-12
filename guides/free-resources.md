@@ -81,7 +81,14 @@ The NET is unusual: its text is free to quote for non-commercial use, and its 60
 
 ## Building a free Logos library
 
-You can build a useful Logos library at no cost by claiming free books regularly. Checked 2026-10-11; offers and URLs change.
+> **Recommended: create a free Logos account and claim the free books every month.**
+> - **What you get:** Logos gives away scholarly titles every month (commentaries, monographs, reference works, often from academic imprints) that are rarely free anywhere else. See [logos.com/free-book](https://www.logos.com/free-book) (logos.com/free-book-of-the-month redirects there).
+> - **They stay yours:** claiming is a $0.00 order added to your account, so the book stays in your library.
+> - **The account is free:** the free version of Logos (often called Logos Basic; see [logos.com/free-edition](https://www.logos.com/free-edition)) includes 25+ resources and runs on desktop, in the web app at [app.logos.com](https://app.logos.com/), and on mobile.
+> - **Don't miss a month:** sign up for the free-book email at the bottom of the free-book page (per Logos's [help page](https://support.logos.com/hc/en-us/articles/360031310291-How-Do-I-Get-This-Month-s-Free-Logos-Book)), or have your AI assistant set a monthly reminder; it should claim only with your approval.
+> - **For non-Christian users:** most titles are Christian, but many are useful for anyone studying the Bible, the ancient Near East, Second Temple Judaism, biblical languages, or the history of religion. If those aren't your interests, you can skip this.
+
+You can build a useful Logos library at no cost by claiming free books regularly. Checked 2026-10-12; offers and URLs change.
 
 ### 1. Choose an account
 
@@ -195,6 +202,25 @@ Each list matches a [tradition pack](../traditions/). Descriptions are of what a
 
 ### Pentecostal
 - [Assemblies of God position papers](https://ag.org/Beliefs/Position-Papers): official AG statements on doctrine and practice (e.g. baptism in the Holy Spirit, divine healing).
+
+### Other faiths and worldviews
+
+Each pack lists its own verified free online sources, branch by branch. Start there:
+
+| Family | Free sources in the pack | Examples of what you'll find |
+|---|---|---|
+| Buddhist | [buddhist/](../traditions/buddhist/README.md) | SuttaCentral (Pali Canon with translations) and branch sites |
+| Esoteric and occult | [esoteric/](../traditions/esoteric/README.md) | sacred-texts.com, the Hermetic Library, official order sites |
+| Hindu | [hindu/](../traditions/hindu/README.md) | Scripture and Vedanta texts by school; the Indian philosophy sourcebook (above) |
+| Islam | [islam/](../traditions/islam/README.md) | Quran.com and hadith collections, by madhhab and branch |
+| Jain | [jain/](../traditions/jain/README.md) | Digambara and Svetambara text collections |
+| Judaism | [judaism/](../traditions/judaism/README.md) | Sefaria (Tanakh, Talmud, commentaries) and movement sites |
+| Pagan and Neopagan | [pagan/](../traditions/pagan/README.md) | Reconstructionist source texts and community sites |
+| Secular | [secular/](../traditions/secular/README.md) | Stanford Encyclopedia of Philosophy, humanist and skeptic organizations |
+| Sikh | [sikh/](../traditions/sikh/README.md) | SikhiToTheMax, SearchGurbani, SriGranth.org |
+| Other traditions | [other/](../traditions/other/README.md) | Chinese Text Project, Baha'i Reference Library, Shinto and Zoroastrian texts |
+
+Christian packs not listed above (Adventist, Anabaptist, Moravian, Quaker, Restorationist, and others) also have their own free sources in [traditions/christian/](../traditions/christian/README.md). For pop-ups from these sources on a website, see [Pop-ups for other scriptures](logos-github-workflow.md#55-pop-ups-for-other-scriptures).
 
 ## Confessions & catechisms quick reference
 

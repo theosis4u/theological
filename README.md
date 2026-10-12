@@ -28,6 +28,8 @@ This project was started by an Eastern Orthodox Christian, but it is built to be
 - **The goal** is to dig deeper into your own belief or tradition while engaging challenges from others honestly, with a **check for logical fallacies on every argument, your own side's included**. Steelman, don't strawman. See [Engaging other traditions fairly](guides/engaging-other-traditions.md) and the [dialogue and challenge prompt](prompts/dialogue-and-challenge.md).
 - **You choose the stance.** By default the AI assumes your own tradition is your committed position and argues from it while representing others accurately and fairly. You can accept that, or choose a neutral comparative (academic) mode or an exploring (questioning) mode; see the [stance setting](START-HERE.md#stance-setting).
 
+> **Tip: free scholarly books every month.** Create a free Logos account and claim the monthly free books at [logos.com/free-book](https://www.logos.com/free-book); they stay in your library once claimed and work in the web and mobile apps. Most useful for Bible and ancient Near East study. See [Building a free Logos library](guides/free-resources.md#building-a-free-logos-library).
+
 ## Step 0: Start here
 
 **New here? Read [START-HERE.md](START-HERE.md).** Give this repo to your AI assistant with the onboarding prompt; it will summarize the toolkit, interview you one question at a time, and draft your private `PROFILE.md` and `METHOD.md`.
