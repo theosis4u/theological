@@ -9,6 +9,7 @@ A public toolkit for studying Scripture with **Logos Bible Software**, a **GitHu
 |---|---|
 | [guides/logos-github-workflow.md](guides/logos-github-workflow.md) | The main how-to: architecture, importing AI chats, writing and exporting Logos notes, citations, desktop data, Study Assistant, translation comparison |
 | [guides/ai-theology-method-template.md](guides/ai-theology-method-template.md) | Fill-in working method for your AI assistant (request types, source tiers, verification, fairness, honesty, citation rules) |
+| [guides/copilot-workflow.md](guides/copilot-workflow.md) | The same workflow using only Microsoft Copilot (and optionally GitHub Copilot) plus Logos, by copy and paste |
 | [guides/setup-checklist.md](guides/setup-checklist.md) | Setup checklist and FAQ / pitfalls |
 | [guides/ai-coverage-test.md](guides/ai-coverage-test.md) | Matched-prompt kit for testing an AI assistant's coverage of your library, with a bug-report template |
 | [starter-kit/](starter-kit/) | Skeleton for your own **private** study repo |
@@ -23,6 +24,7 @@ A public toolkit for studying Scripture with **Logos Bible Software**, a **GitHu
 
 - [Integrating Logos Bible Software with a GitHub Markdown repo and an AI assistant](guides/logos-github-workflow.md)
 - [A working method and template for AI-assisted theological study](guides/ai-theology-method-template.md)
+- [Using the workflow with Microsoft Copilot and Logos](guides/copilot-workflow.md)
 - [Setup checklist and FAQ](guides/setup-checklist.md)
 - [Testing an AI study assistant's coverage of your library](guides/ai-coverage-test.md)
 
