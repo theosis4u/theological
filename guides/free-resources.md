@@ -60,6 +60,8 @@ Each list matches a [tradition pack](../traditions/). Descriptions are of what a
 - [Brenton Septuagint](https://ebible.org/details.php?id=grcbrent) and [LXX Greek text](https://ebible.org/find/details.php?id=grcLXX) on eBible.org: the Old Testament as traditionally read in the Orthodox Church.
 - [St. Vladimir's Orthodox Theological Seminary](https://www.svots.edu/): seminary news, lectures, and publications (some free).
 - [Ancient Faith Ministries](https://www.ancientfaith.com/): free [podcasts](https://www.ancientfaith.com/podcasts) and talks by Orthodox clergy and scholars.
+- [The Confession of Dositheus](https://www.crivoice.org/creeddositheus.html) (CRI/Voice): the English text of the 1672 Synod of Jerusalem's confession.
+- [*The Acts and Decrees of the Synod of Jerusalem* (1672)](https://archive.org/details/actsanddecreess00lucagoog) (Internet Archive): a scanned public-domain English translation (London, 1899, via a later reprint), with Greek, of the synod's acts.
 - Fathers: CCEL's ANF/NPNF (above).
 
 ### Roman Catholic
@@ -72,10 +74,16 @@ Each list matches a [tradition pack](../traditions/). Descriptions are of what a
 - [CCEL: *Creeds of Christendom*, vol. 3](https://www.ccel.org/ccel/schaff/creeds3): historic Protestant confessions in the original languages and English.
 - [Monergism](https://www.monergism.com/): a large index of Reformed articles, sermons, and free e-books.
 - [Reformed.org](https://reformed.org/): Reformed confessions, catechisms, and classic texts.
+- [The Westminster Standard](https://thewestminsterstandard.org/): Reformed confessions and catechisms with proof texts, including the [Westminster Confession](https://thewestminsterstandard.org/the-westminster-confession/) and the [Canons of Dort](https://thewestminsterstandard.org/canons-of-dort/); the Larger Catechism, Belgic Confession, and Heidelberg Catechism are reached from the home page.
+- [Christian Reformed Church: Confessions](https://www.crcna.org/welcome/beliefs/confessions): modern-English texts of the [Belgic Confession](https://www.crcna.org/welcome/beliefs/confessions/belgic-confession), [Heidelberg Catechism](https://www.crcna.org/welcome/beliefs/confessions/heidelberg-catechism), and [Canons of Dort](https://www.crcna.org/welcome/beliefs/confessions/canons-dort).
+- [Westminster Seminary California: Belgic Confession](https://www.wscal.edu/belgic-confession): the Belgic Confession text.
+- [A Puritan's Mind: Westminster Standards](https://www.apuritansmind.com/westminster-standards/): the Westminster Standards with related Puritan materials.
+- [Confessional Collective: A. A. Hodge on the Westminster Confession](https://www.confessionalcollective.com/confessions/westminster-confession-of-faith/hodge/): Hodge's classic chapter-by-chapter commentary.
 - Calvin's [*Institutes*](https://www.ccel.org/ccel/calvin/institutes) on CCEL.
 
 ### Lutheran
 - [BookofConcord.org](https://bookofconcord.org/): the Lutheran Confessions online, with historical introductions.
+- [Book of Concord (Concordia Publishing House)](https://bookofconcord.cph.org/): the text of *Concordia: The Lutheran Confessions*, a revision of the Triglotta translation.
 - [LCMS: Doctrine](https://www.lcms.org/about/beliefs/doctrine): the Lutheran Church–Missouri Synod's doctrinal statements and theological documents. Other Lutheran bodies publish their own.
 
 ### Anglican
@@ -88,11 +96,34 @@ Each list matches a [tradition pack](../traditions/). Descriptions are of what a
 - [UMC: Articles of Religion](https://www.umc.org/en/content/articles-of-religion): the Methodist Articles of Religion.
 
 ### Baptist
-- [Baptist Faith and Message 2000](https://bfm.sbc.net/): the Southern Baptist confession with comparisons to earlier versions.
+- [Baptist Faith and Message 2000](https://bfm.sbc.net/): the Southern Baptist confession, with a [comparison chart](https://bfm.sbc.net/comparison-chart/) of the 1925, 1963, and 2000 versions side by side.
 - [The 1689 Confession](https://www.the1689confession.com/): the Second London Baptist Confession, with study aids.
+- [Reformed Baptist Seminary: 1689 Confession](https://www.rbs.org/2lbc): the full text by chapter and paragraph, with proof texts.
+- [Founders Ministries: 1689 Confession](https://founders.org/library/1689-confession/): another full-text edition.
+- [The Whosoever Study Bible](https://wsb.bible/): a free KJV study Bible with verse-by-verse commentary from older public-domain commentators, cross-references, and lexicon links; its doctrinal notes take a free-will (non-Calvinist) position, so label it as such.
 
 ### Pentecostal
 - [Assemblies of God position papers](https://ag.org/Beliefs/Position-Papers): official AG statements on doctrine and practice (e.g. baptism in the Holy Spirit, divine healing).
+
+## Confessions & catechisms quick reference
+
+| Tradition | Document | Free online source |
+|---|---|---|
+| Eastern Orthodox | Confession of Dositheus (Synod of Jerusalem, 1672) | [CRI/Voice](https://www.crivoice.org/creeddositheus.html); [Acts and Decrees (Internet Archive)](https://archive.org/details/actsanddecreess00lucagoog) |
+| Roman Catholic | Catechism of the Catholic Church | [Vatican](https://www.vatican.va/archive/ENG0015/_INDEX.HTM) |
+| Reformed / Presbyterian | Westminster Confession of Faith | [The Westminster Standard](https://thewestminsterstandard.org/the-westminster-confession/); [Ligonier](https://www.ligonier.org/learn/articles/westminster-confession-faith); [A Puritan's Mind](https://www.apuritansmind.com/westminster-standards/) |
+| Reformed / Presbyterian | Commentary on the WCF (A. A. Hodge) | [Confessional Collective](https://www.confessionalcollective.com/confessions/westminster-confession-of-faith/hodge/) |
+| Reformed / Presbyterian | Westminster Larger Catechism | [The Westminster Standard](https://thewestminsterstandard.org/) (from the home page) |
+| Reformed | Belgic Confession | [CRC](https://www.crcna.org/welcome/beliefs/confessions/belgic-confession); [WSC](https://www.wscal.edu/belgic-confession) |
+| Reformed | Heidelberg Catechism | [CRC](https://www.crcna.org/welcome/beliefs/confessions/heidelberg-catechism) |
+| Reformed | Canons of Dort | [CRC](https://www.crcna.org/welcome/beliefs/confessions/canons-dort); [The Westminster Standard](https://thewestminsterstandard.org/canons-of-dort/) |
+| Reformed (historic, multiple) | Schaff, *Creeds of Christendom* vol. 3 | [CCEL](https://www.ccel.org/ccel/schaff/creeds3) |
+| Lutheran | Book of Concord | [BookofConcord.org](https://bookofconcord.org/); [CPH](https://bookofconcord.cph.org/) |
+| Anglican | Book of Common Prayer (1979, includes the Articles of Religion) | [BCP Online](https://www.bcponline.org/) |
+| Wesleyan / Methodist | Articles of Religion | [UMC](https://www.umc.org/en/content/articles-of-religion) |
+| Baptist | Second London Baptist Confession (1689) | [the1689confession.com](https://www.the1689confession.com/); [RBS](https://www.rbs.org/2lbc); [Founders](https://founders.org/library/1689-confession/) |
+| Baptist | Baptist Faith and Message (1925/1963/2000) | [SBC](https://bfm.sbc.net/); [comparison chart](https://bfm.sbc.net/comparison-chart/) |
+| Pentecostal | AG Statement of Fundamental Truths and position papers | [AG position papers](https://ag.org/Beliefs/Position-Papers) |
 
 ## 3. Using them with an AI assistant
 
