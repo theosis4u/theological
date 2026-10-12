@@ -12,7 +12,7 @@
 >
 > 3. **Answer its questions**, one at a time.
 >
-> **It will ask you:** which tradition or worldview to favor (any faith or none, or compare several), your preferred translations, which study resources you own (Logos or free sites), what you use it for, and which existing material to import (old AI chats, posts, email, notes).
+> **It will ask you:** which tradition or worldview to favor (any faith or none, or compare several), your main texts and translations (a Bible, the Quran, the Pali Canon, or none), which study resources you own (free sites are the default; Logos and other paid tools only if you have them), what you use it for, and which existing material to import (old AI chats, posts, email, notes).
 > **It can't do for you:** sign in to your accounts, install anything on your computer, pay for anything, or approve its own actions. It should ask before creating, sending, or publishing anything. If it can't open web links, upload the repo ZIP instead (see section 1 below).
 
 ## Contents
@@ -85,7 +85,7 @@ You can start with just an AI assistant. Each extra connection gives it more to 
 | **GitHub** | Required for the repo | A home for your study files, with history and backups | Free. Make your study repo **private** by default; a separate public repo is optional, for sharing chosen items. |
 | **Google or Microsoft account** (Gmail/Outlook, Drive/OneDrive, Docs/Word) | Optional | Past theological notes, email threads, and documents; a place for backups | Connect through your assistant's app connectors if it has them. Strip other people's addresses and personal details; summarize rather than copy whole threads. |
 | **X or other social accounts** | Optional | Your past threads and debates to import; monitoring of discussions you follow | Your own posts are yours to import; quote others briefly and link rather than republish. Decide what stays private. |
-| **Bible software or free Bible sites** (Logos, Accordance, Olive Tree; or [Biblia](https://biblia.com/), [netbible.org](https://netbible.org/), [Bible Gateway](https://www.biblegateway.com/), [STEP Bible](https://www.stepbible.org/)) | Optional but highly recommended | Exact verse text, translator notes, study Bibles, commentaries, and citations to quote and link | Respect copyright: quote briefly and cite. See [Free resources](guides/free-resources.md) if you have no Bible software. |
+| **Bible software or free scripture sites** (Logos, Accordance, Olive Tree; or [Biblia](https://biblia.com/), [netbible.org](https://netbible.org/), [Bible Gateway](https://www.biblegateway.com/), [STEP Bible](https://www.stepbible.org/)) | Optional but highly recommended | Exact verse text (or, for other scriptures, free sites such as Quran.com, Sefaria, SuttaCentral, or SikhiToTheMax/BaniDB; see your tradition pack), translator notes, study Bibles, commentaries, and citations to quote and link | Respect copyright: quote briefly and cite. See [Free resources](guides/free-resources.md) if you have no Bible software. |
 | **E-book libraries** (Kindle, Kobo, Google Play Books, Apple Books, Libby; DRM-free EPUB/PDF files) | Optional | Your highlights and notes from books you've read; passages to look up | Prefer official highlight exports; you do the sign-ins; quote briefly and keep exports private. See [E-book libraries](guides/starting-points.md#7-e-book-libraries-optional). |
 | **Study partners' shared spaces** (a shared Logos account or notes, a shared drive folder, a shared repo) | Optional | Notes and handouts you prepare together | Get your partners' consent before importing or sharing their words. |
 
@@ -115,17 +115,20 @@ Use whichever method your assistant supports:
 
 **If your chatbot can't read repos or ZIPs**, upload or paste just these files:
 
-1. [README.md](README.md)
-2. [guides/ai-theology-method-template.md](guides/ai-theology-method-template.md)
-3. [traditions/README.md](traditions/README.md) (plus your tradition's pack)
-4. [guides/starting-points.md](guides/starting-points.md)
+1. [START-HERE.md](START-HERE.md) (this file)
+2. [README.md](README.md)
+3. [guides/ai-theology-method-template.md](guides/ai-theology-method-template.md)
+4. [traditions/README.md](traditions/README.md) (plus your tradition's pack)
+5. [starter-kit/PROFILE.md](starter-kit/PROFILE.md) and [starter-kit/METHOD.md](starter-kit/METHOD.md)
+
+The free Copilot app and some chatbots take documents but not ZIPs: upload these files one by one, or open each on GitHub, click **Raw**, and paste the text.
 
 ## 2. Onboarding prompt
 
 Paste this after giving the assistant the repo or files:
 
 ```text
-I'm setting up a Bible study workflow using the repository (or files) I just gave you. Please do the following, in order.
+I'm setting up a study workflow (for the Bible, my own tradition's texts, or comparing worldviews) using the repository (or files) I just gave you. Please do the following, in order.
 
 A. READ AND SUMMARIZE
 Read the repo: README, START-HERE, guides/, traditions/, prompts/, examples/, starter-kit/, tools/.
@@ -136,13 +139,13 @@ Ask these one at a time, wait for my answer, and offer choices where useful:
 1. Which tradition or worldview should lead? Offer the families in traditions/ (listed alphabetically: Buddhist, Christian, esoteric, Hindu, Islam, Jain, Judaism, Pagan, secular, Sikh, and other: Taoist, Confucian, Shinto, Baha'i, Zoroastrian). For Christians, offer the packs in traditions/christian/ (Adventist, Anabaptist, Anglican, Baptist, Eastern Orthodox, Lutheran, Moravian, nondenominational, Pentecostal/Charismatic, Quaker, Reformed/Presbyterian, Restorationist, Roman Catholic, Wesleyan/Methodist, and the nontrinitarian offshoots: Latter-day Saint, Jehovah's Witness, Oneness Pentecostal, Unitarian, Christian Science). Ask for the specific branch (e.g. Theravada or Zen, Sunni madhhab or Twelver Shia, Orthodox or Reform, Mennonite or Amish), since branches differ; "other", and "ecumenical / compare traditions".
    - If I say "evangelical" or "nondenominational", ask a follow-up, since these are a movement and a church type, not one tradition: which church or denomination I attend, how it baptizes (infants or believers only), Calvinist or Arminian, whether it expects spiritual gifts such as tongues and prophecy today, and how it is governed. Then pick the matching pack (see traditions/christian/evangelical.md); for an independent church, ask for its statement of faith and use it as my primary source.
 2. Stance: explain the default (I hold my tradition as my committed position; you advocate from it while representing others accurately and fairly), warn me plainly that this leans your conclusions toward my side, and let me accept it or choose neutral comparative (academic) or exploring (questioning) mode. Record my choice in PROFILE.md.
-3. My default Bible translation, and 1-3 comparison translations.
+3. My main texts and translations: for a Bible, a default translation and 1-3 comparisons; for another scripture, its edition and translation(s) (e.g. a Quran translation, a Sefaria or SuttaCentral translation); for a secular view, the key authors or works I rely on.
 4. Paid resources I own, if any: Logos (desktop, web, or both; which library or package), Accordance, Olive Tree, Kindle or other e-book libraries, journal access (JSTOR, ATLA, a university or seminary library), or none. Use free sources by default; add a paid one only if I own it. Which study Bibles, commentaries, catechisms, or confessions do I have?
 5. What I use this for: group study, teaching, personal study, debate or social media, writing.
 6. Tone and length preferences, and anything I dislike in AI answers.
 
-FREE-RESOURCE MODE
-If I say I don't have Logos, use guides/free-resources.md instead of a Logos library: ask which tradition list there to prioritize, use its free tiers for Scripture, primary sources, and scholarship, quote with links, and ask me to verify each quote. Also offer to help me build a free Logos library (see "Building a free Logos library" in that guide): ask whether to use a dedicated account on your own inbox (only if you actually have one) or my personal email, never sign up or claim anything without my approval, and never ask for or store my password. For shareable links, link Bible references to Biblia.com (format https://biblia.com/bible/<translation>/<Book><chapter>.<verse>, e.g. https://biblia.com/bible/kjv1900/Eph2.8; free to read with no sign-in) and quotes to free sources (CCEL, New Advent, confession sites) rather than ref.ly links, which may paywall non-owners.
+FREE-RESOURCE MODE (the default)
+If I don't own paid tools, use free sources: my tradition pack's "Free online sources" (for any faith or worldview), plus guides/free-resources.md for Bible study (ask which tradition list there to prioritize), use its free tiers for Scripture, primary sources, and scholarship, quote with links, and ask me to verify each quote. If I study the Bible, also offer to help me build a free Logos library (see "Building a free Logos library" in that guide): ask whether to use a dedicated account on your own inbox (only if you actually have one) or my personal email, never sign up or claim anything without my approval, and never ask for or store my password. For shareable links, link Bible references to Biblia.com (format https://biblia.com/bible/<translation>/<Book><chapter>.<verse>, e.g. https://biblia.com/bible/kjv1900/Eph2.8; free to read with no sign-in) and quotes to free sources (CCEL, New Advent, confession sites) rather than ref.ly links, which may paywall non-owners.
 
 C. SOURCES TO CONNECT OR IMPORT
 Ask which existing material I want to bring in: AI chat history (Grok, ChatGPT, Claude, Copilot), my X posts, email through connected apps, Logos notes, documents, lecture transcripts.
@@ -152,7 +155,7 @@ D. PLAN
 Propose a folder layout for my PRIVATE study repo (based on starter-kit/) and an import plan that starts with an inventory (titles, dates, sources, counts) before converting anything. Wait for my approval.
 
 E. DRAFT MY FILES
-Produce a filled-in PROFILE.md and METHOD.md from starter-kit/PROFILE.md and guides/ai-theology-method-template.md, using my answers and my tradition pack's "your tradition first" text. Mark anything you assumed as [check]. Show them for review; don't treat them as final.
+Produce a filled-in PROFILE.md and METHOD.md (if you can't create files, give me each file's full text in a code block to copy and save myself) from starter-kit/PROFILE.md and guides/ai-theology-method-template.md, using my answers and my tradition pack's "your tradition first" text. Mark anything you assumed as [check]. Show them for review; don't treat them as final.
 
 RULES FOR YOU
 - One question at a time.
@@ -170,9 +173,9 @@ RULES FOR YOU
 >
 > **Assistant:** Here's what this repo offers. It's a toolkit for studying Scripture with Logos Bible Software, a private Markdown repository, and an AI assistant. The **guides** explain the workflow: keeping studies as Markdown files you control, turning them into Logos notes, and quoting sources with links back to the exact spot in a book. The **method template** is a set of standing instructions for an assistant: answer lengths by request type, ranked sources, fairness to other traditions, and never inventing citations. **Tradition packs** fill in that template for eight traditions. The **prompts** and **examples** show finished studies. The **starter kit** is a skeleton for your own private repo, and **tools** are small Python scripts for converting notes and importing chats. I opened every folder.
 >
-> First question: which tradition should lead in your studies? Options: Eastern Orthodox, Roman Catholic, Reformed/Presbyterian, Lutheran, Anglican, Wesleyan/Methodist, Baptist, Pentecostal, other, or ecumenical (compare traditions side by side).
+> First question: which tradition or worldview should lead in your studies? Families: Buddhist, Christian, esoteric, Hindu, Islam, Jain, Judaism, Pagan, secular, Sikh, or other; or compare several side by side. Which branch, if you have one?
 >
-> **User:** Lutheran, but I often compare with Catholic and Reformed views.
+> **User:** Christian, Lutheran, but I often compare with Catholic and Reformed views.
 >
 > **Assistant:** Got it: Lutheran first, with Catholic and Reformed as regular comparisons. Next: what's your default Bible translation, and which one to three translations do you want to compare against?
 >
@@ -187,7 +190,8 @@ RULES FOR YOU
 ## 4. What to do next
 
 - Create your private repo from the [starter kit](starter-kit/) and commit the reviewed `PROFILE.md` and `METHOD.md`.
-- Work through the [setup checklist](guides/setup-checklist.md), especially the Logos citation settings.
+- Work through the [setup checklist](guides/setup-checklist.md) (skip the Logos sections if you don't use Logos).
+- No git? Create the private repo on github.com and use **Add file > Upload files** to add the starter-kit files and your reviewed `PROFILE.md` and `METHOD.md`.
 - Read the [main workflow guide](guides/logos-github-workflow.md), or the [Copilot guide](guides/copilot-workflow.md) if Copilot is all you have.
 - Import older material with [starting points](guides/starting-points.md).
 - Try a [prompt](prompts/) and compare with the [examples](examples/).

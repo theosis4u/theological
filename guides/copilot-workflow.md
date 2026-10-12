@@ -23,6 +23,9 @@ This guide adapts the [Logos + GitHub workflow](logos-github-workflow.md) for so
 
 Recommended first step: add this repo's files to a Copilot Notebook (or attach them) and run the onboarding prompt in [START-HERE.md](../START-HERE.md).
 
+
+**No Logos?** Everything here still works with free sources: wherever this guide says to copy from Logos, copy a short passage from a free site instead (for Bible study, [Biblia](https://biblia.com/), [netbible.org](https://netbible.org/), or the lists in [Free resources](free-resources.md); for other traditions, your [pack](../traditions/README.md)'s free online sources) and paste it with its link. Skip the Logos-note formatting steps.
+
 ## 1. What Copilot can and can't do here
 
 **Likely available, depending on your plan and tenant:**

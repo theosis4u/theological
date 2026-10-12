@@ -28,6 +28,9 @@ A checklist for setting up the [Logos + GitHub workflow](logos-github-workflow.m
 - [ ] Decide what, if anything, goes in a separate **public** repo.
 
 ### Logos copy and citation settings
+
+*Skip the Logos sections if you don't use Logos; use your [tradition pack](../traditions/README.md)'s free online sources and the [free resources](free-resources.md) guide instead.*
+
 - [ ] In Logos, open the copy settings (from **Share > Copy** in a resource, or Program Settings) and turn on **Copy citations**.
 - [ ] Turn on **Hyperlink copied citations**, so each citation carries a `https://ref.ly/...` link.
 - [ ] Choose a **citation style** (for example APA, Chicago, or SBL) and use it consistently.
