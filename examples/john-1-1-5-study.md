@@ -8,6 +8,21 @@ status: example
 
 # John 1:1-5: The Word in the Beginning
 
+## Contents
+
+Start with [about this example](#about-this-example), or jump to a section:
+
+1. [The text](#1-the-text)
+2. [Translation differences](#2-translation-differences)
+3. [Context](#3-context)
+4. [Reading from the sources](#4-reading-from-the-sources)
+5. [Other readings](#5-other-readings)
+6. [Questions for discussion](#6-questions-for-discussion)
+
+---
+
+## About this example
+
 This is a worked example of a passage study in the format described in the [method template](../guides/ai-theology-method-template.md). Bible text is quoted from two public-domain translations, the King James Version (KJV) and the World English Bible (WEB). Places where you would paste a quotation copied from your own Logos library are marked with placeholders; nothing in those blocks is a real quotation.
 
 ## 1. The text

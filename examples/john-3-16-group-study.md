@@ -8,6 +8,20 @@ status: example
 
 # John 3:16-21: Group Study Handout
 
+## Contents
+
+Start with [about this example](#about-this-example), or jump to a section:
+
+1. [Scenario](#1-scenario)
+2. [Input: the prompt](#2-input-the-prompt)
+3. [Workflow in Logos](#3-workflow-in-logos)
+4. [Sample output: the handout](#4-sample-output-the-handout)
+5. [What the AI got right, and what you must verify](#5-what-the-ai-got-right-and-what-you-must-verify)
+
+---
+
+## About this example
+
 A worked example of the **class or Logos note** request type from the [prompt library](../prompts/class-or-logos-note.md). It shows the whole path: the leader's questions, the prompt, the Logos steps, and the finished handout. Bible text is quoted from the public-domain KJV and WEB, checked against [bible-api.com](https://bible-api.com/). Quotations from licensed library books are **placeholders**, never real quotations.
 
 ## 1. Scenario

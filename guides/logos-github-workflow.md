@@ -6,6 +6,24 @@ topic: workflow
 
 # Integrating Logos Bible Software with a GitHub Markdown Repo and an AI Assistant
 
+## Contents
+
+Start with [about this guide](#about-this-guide), or jump to a section:
+
+1. [Architecture](#1-architecture)
+2. [Importing old AI chats into Markdown](#2-importing-old-ai-chats-into-markdown)
+3. [Writing Logos notes from Markdown](#3-writing-logos-notes-from-markdown)
+4. [Exporting Logos notes back to Markdown](#4-exporting-logos-notes-back-to-markdown)
+5. [Citations: inline links instead of anchors](#5-citations-inline-links-instead-of-anchors)
+6. [Local desktop data](#6-local-desktop-data)
+7. [The Logos Study Assistant](#7-the-logos-study-assistant)
+8. [Comparing translations](#8-comparing-translations)
+9. [Tips and gotchas](#9-tips-and-gotchas)
+
+---
+
+## About this guide
+
 This guide describes a working setup that connects Logos Bible Software (both the desktop install and the web app at `app.logos.com`) with a Git repository of Markdown files and an AI assistant. The goal is simple: your study work lives in plain text you control, your study partners read it comfortably inside Logos, and every quotation carries a link back to the exact spot in the source.
 
 For a companion template of standing instructions for the AI assistant (request types, source tiers, verification and citation rules), see [A Working Method and Template for AI-Assisted Theological Study](ai-theology-method-template.md).

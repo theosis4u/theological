@@ -6,6 +6,22 @@ topic: workflow
 
 # Starting Points: Seeding a Study Repo from Existing Material
 
+## Contents
+
+Start with [about this guide](#about-this-guide), or jump to a section:
+
+1. [AI chat history](#1-ai-chat-history)
+2. [X (Twitter) posts and threads](#2-x-twitter-posts-and-threads)
+3. [Email threads](#3-email-threads)
+4. [Logos notes, highlights, and sermon or class notes](#4-logos-notes-highlights-and-sermon-or-class-notes)
+5. [Documents: Word, Google Docs, OneNote](#5-documents-word-google-docs-onenote)
+6. [YouTube and lecture transcripts](#6-youtube-and-lecture-transcripts)
+7. [The common pipeline](#7-the-common-pipeline)
+
+---
+
+## About this guide
+
 You probably already have years of theological material scattered across AI chats, social media, email, Logos, documents, and lecture notes. This guide covers optional ways to collect it, clean it, sort it by topic, and commit it to your **private** study repo (see the [starter kit](../starter-kit/)). Do as many or as few sections as you like; the [common pipeline](#7-the-common-pipeline) at the end applies to all of them.
 
 > **About export paths:** export features change. The steps below summarize each provider's public help pages as of late 2026, with links where available. Check the current page before you start; work and school accounts often have different rules or none.
