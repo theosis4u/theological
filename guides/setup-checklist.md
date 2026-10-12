@@ -15,7 +15,7 @@ topic: workflow
 
 ---
 
-**Shortcut:** you can hand this whole repo to an AI assistant and let it do most of this for you; see [START-HERE](../START-HERE.md).
+**Shortcut:** you can hand this whole repo to an AI assistant and let it do most of this for you; see [START-HERE](../START-HERE.md). For which accounts and tools to connect, see [What to connect for the best results](../START-HERE.md#what-to-connect-for-the-best-results).
 
 A checklist for setting up the [Logos + GitHub workflow](logos-github-workflow.md), plus answers to the problems people run into most.
 

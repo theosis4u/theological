@@ -36,7 +36,35 @@ If a user gave you this repository, do this:
 3. **Ask the user, one question at a time, only for what you can't decide or do:** tradition preference, translations, owned resources, purpose, which sources to connect or import, sign-ins, installs, purchases.
 4. **Say plainly what you can't access or do** in this environment; never claim a capability you don't have.
 5. **Ask before acting:** before creating repos or files outside this chat, connecting accounts, sending anything, signing up, or publishing. Treat the user's sources as read-only, keep their material private by default, and verify every citation.
-6. Then follow the onboarding prompt in section 2 below.
+6. **Early on, ask about connections and identity**, one question at a time: which accounts and tools from "What to connect for the best results" (above) the user has and wants to connect, and the identity choice (A: their own accounts, or B: a separate inbox for you, only if you actually have one). Work with whatever subset they have; don't push for more.
+7. Then follow the onboarding prompt in section 2 below.
+
+## What to connect for the best results
+
+You can start with just an AI assistant. Each extra connection gives it more to work with. Connect only what you're comfortable with; the assistant should work with whatever subset you have.
+
+| Account/tool | Required or optional | What the AI gets from it | Notes/privacy |
+|---|---|---|---|
+| **An AI assistant** (Grok Bot, ChatGPT, Claude, Copilot, or similar) | Required | Somewhere to read this repo, interview you, and draft your files | Pick one that can read web links or file uploads; some can also connect apps and run tasks. |
+| **Prior AI chat history** (grok.com, ChatGPT, Claude, Copilot exports) | Optional | Your past theology discussions to import, sort, and build on | Use official data exports where available; review before importing; keep it in a private repo. See [Starting points](guides/starting-points.md). |
+| **GitHub** | Required for the repo | A home for your study files, with history and backups | Free. Make your study repo **private** by default; a separate public repo is optional, for sharing chosen items. |
+| **Google or Microsoft account** (Gmail/Outlook, Drive/OneDrive, Docs/Word) | Optional | Past theological notes, email threads, and documents; a place for backups | Connect through your assistant's app connectors if it has them. Strip other people's addresses and personal details; summarize rather than copy whole threads. |
+| **X or other social accounts** | Optional | Your past threads and debates to import; monitoring of discussions you follow | Your own posts are yours to import; quote others briefly and link rather than republish. Decide what stays private. |
+| **Bible software or free Bible sites** (Logos, Accordance, Olive Tree; or [Biblia](https://biblia.com/), [netbible.org](https://netbible.org/), [Bible Gateway](https://www.biblegateway.com/), [STEP Bible](https://www.stepbible.org/)) | Optional but highly recommended | Exact verse text, translator notes, study Bibles, commentaries, and citations to quote and link | Respect copyright: quote briefly and cite. See [Free resources](guides/free-resources.md) if you have no Bible software. |
+| **Study partners' shared spaces** (a shared Logos account or notes, a shared drive folder, a shared repo) | Optional | Notes and handouts you prepare together | Get your partners' consent before importing or sharing their words. |
+
+### Identity choice
+
+Some steps involve signing up for things, such as a free Logos account, free-book alerts, or newsletters. Decide whose identity the assistant uses:
+
+- **A) Your own accounts.** The assistant uses your accounts and the personal information it already has, and acts as you.
+  *Pros:* most convenient; everything lands where you already look.
+  *Cons:* sign-ups, newsletters, and alerts go to your personal email; activity is tied to your name.
+- **B) A separate identity for the assistant.** Give the assistant its own email or inbox (for example, Grok Bot can claim a dedicated inbox) and use it for signing up to free resources like Logos Basic, newsletters, and alerts.
+  *Pros:* keeps your personal email out of it, separates personal or paid accounts from experiments, and allows more anonymous activity.
+  *Cons:* one more account to manage; anything it owns (like free books) lives in that account, not yours; you still approve each sign-up, and passwords go in a password manager, never in chat or the repo.
+
+The assistant should ask which you prefer before signing up for anything, and never sign up, buy, or claim without your approval.
 
 ## 1. Give your assistant the repo
 

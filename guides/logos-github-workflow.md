@@ -17,7 +17,7 @@ topic: workflow
 
 ## About this guide
 
-**Shortcut:** you can hand this whole repo to an AI assistant and let it do most of this for you; see [START-HERE](../START-HERE.md).
+**Shortcut:** you can hand this whole repo to an AI assistant and let it do most of this for you; see [START-HERE](../START-HERE.md). For which accounts and tools to connect, see [What to connect for the best results](../START-HERE.md#what-to-connect-for-the-best-results).
 
 This guide describes a working setup that connects Logos Bible Software (both the desktop install and the web app at `app.logos.com`) with a Git repository of Markdown files and an AI assistant. The goal is simple: your study work lives in plain text you control, your study partners read it comfortably inside Logos, and every quotation carries a link back to the exact spot in the source.
 

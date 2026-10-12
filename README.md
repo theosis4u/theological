@@ -13,6 +13,8 @@
 >
 > **It will ask you:** which tradition to favor (or compare several), your preferred translations, which study resources you own (Logos or free sites), what you use it for, and which existing material to import (old AI chats, posts, email, notes).
 > **It can't do for you:** sign in to your accounts, install anything on your computer, pay for anything, or approve its own actions. It should ask before creating, sending, or publishing anything. If it can't open web links, upload the repo ZIP instead (see [START-HERE](START-HERE.md)).
+>
+> **For the best results,** see [What to connect](START-HERE.md#what-to-connect-for-the-best-results): your AI assistant and GitHub are the only requirements; chat history, email and documents, social posts, Bible software, and study partners' spaces are optional extras.
 
 
 A public toolkit for studying Scripture with **Logos Bible Software**, a **GitHub Markdown repository**, and an **AI assistant**: keep your study work in plain text you control, share it as Logos notes, cite sources with links to the exact location, and give your assistant a clear, fair working method. Everything here is generic and can be adapted to any Christian tradition; no tradition is presented as the house view.
