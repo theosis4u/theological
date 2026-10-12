@@ -44,9 +44,9 @@ A public toolkit for studying Scripture with **Logos Bible Software**, a **GitHu
 
 ```bash
 git clone https://github.com/theosis4u/theological.git
-mkdir my-bible-study && cp -r theological/starter-kit/. my-bible-study/
-mkdir my-bible-study/tools && cp theological/tools/*.py my-bible-study/tools/
-cd my-bible-study && git init && git add . && git commit -m "Start study repo"
+mkdir my-study-repo && cp -r theological/starter-kit/. my-study-repo/
+mkdir my-study-repo/tools && cp theological/tools/*.py my-study-repo/tools/
+cd my-study-repo && git init && git add . && git commit -m "Start study repo"
 # then create a PRIVATE repo on GitHub and push to it
 ```
 

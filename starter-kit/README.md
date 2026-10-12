@@ -1,10 +1,10 @@
 # Study Repo Starter Kit
 
-A ready-made skeleton for a **private** Bible-study repository that works with Logos and an AI assistant. It follows the [workflow guide](../guides/logos-github-workflow.md) and the [method template](../guides/ai-theology-method-template.md).
+A ready-made skeleton for a **private** Bible study repository that works with Logos and an AI assistant. It follows the [workflow guide](../guides/logos-github-workflow.md) and the [method template](../guides/ai-theology-method-template.md).
 
 ## How to use it
 
-1. Create a new **private** repository on GitHub (for example `my-bible-study`).
+1. Create a new **private** repository on GitHub (for example `my-study-repo`).
 2. Copy the contents of this `starter-kit/` folder into it (see the root README for copy commands).
 3. Copy the `tools/` folder from this repo alongside it if you want the scripts.
 4. Fill in `PROFILE.md` (who you are as a student and what you want) and `METHOD.md` (your working method, starting from the template and a [tradition pack](../traditions/)).
