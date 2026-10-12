@@ -11,3 +11,15 @@ relative_links:
 exclude:
   - Gemfile
   - Gemfile.lock
+header_pages:
+  - START-HERE.md
+  - guides/logos-github-workflow.md
+  - guides/free-resources.md
+  - examples/README.md
+  - traditions/README.md
+  - prompts/README.md
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
