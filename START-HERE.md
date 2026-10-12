@@ -68,7 +68,7 @@ In every stance the AI states whose framework it is working from (no hidden defa
 
 ## Improve the shared repo
 
-You are encouraged to improve this shared repo rather than maintain your own fork. Keep **personal settings** (tradition, stance, accounts, notes) in your private study repo from the [starter kit](starter-kit/). Send **generic improvements** (pack fixes, sources, prompts, guides) upstream as pull requests; see [CONTRIBUTING](CONTRIBUTING.md#contributing-back-instead-of-forking).
+You are encouraged to improve this shared repo rather than maintain your own fork. Keep **personal settings** (tradition, stance, accounts, notes) in your private study repo from the [starter kit](starter-kit/). Send **generic improvements** (pack fixes, sources, prompts, guides) upstream as pull requests; see [CONTRIBUTING](CONTRIBUTING.md#contributing-back-instead-of-forking). This is a one-person project with limited time and AI budget, so every improvement sent back helps everyone, while forks drift out of date.
 
 ## What to connect for the best results
 

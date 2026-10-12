@@ -50,6 +50,10 @@ Contributions are welcome, especially new tradition packs and corrections to exi
 
 You are encouraged to improve this shared repo rather than maintain a separate fork.
 
+### Why contribute instead of fork
+
+This is a one-person project, maintained with limited time and a limited weekly AI-assistant budget. Every pack fix, source, prompt, or guide improvement sent back as a pull request benefits everyone who uses it, while forks split the effort and drift out of date. Contributing directly is a win-win: thank you!
+
 ### What goes where
 
 - **Your private study repo** (from the [starter kit](starter-kit/)): personal settings such as your tradition, stance, accounts, notes, and anything with personal data.

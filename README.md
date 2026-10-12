@@ -99,6 +99,8 @@ The [website version of this repo](https://theosis4u.github.io/theological/) use
 
 Please improve this shared repo rather than maintaining your own fork. Keep personal settings (tradition, stance, accounts, notes) in your private study repo from the [starter kit](starter-kit/), and send generic improvements (pack fixes, sources, prompts, guides) upstream as pull requests. Changes should be optional and additive: add a pack or section rather than rewriting others' views. See [CONTRIBUTING](CONTRIBUTING.md#contributing-back-instead-of-forking).
 
+**Why contribute instead of fork?** This is a one-person project, maintained with limited time and a limited weekly AI-assistant budget. Every pack fix, source, prompt, or guide improvement sent back as a pull request benefits everyone who uses it, while forks split the effort and drift out of date. Contributing directly is a win-win: thank you!
+
 ## Project history
 
 What was built, why, and the lessons learned along the way: [Project history](docs/project-history.md).
