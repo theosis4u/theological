@@ -73,6 +73,25 @@ Most of the orders below are **initiatory**: teaching is given by degrees, and m
 | Builders of the Adytum (BOTA) | Golden Dawn (Alpha et Omega, through Paul Foster Case) | 1920s | Tarot and Qabalah mystery school |
 | Society of the Inner Light | Golden Dawn (Alpha et Omega; Dion Fortune) | 1920s | Fortune's Christian-esoteric and Qabalistic teaching |
 
+### Lineage chart
+
+```mermaid
+flowchart TB
+  RC["Rosicrucian manifestos (1614-16)"] --> SRIA["SRIA (1865-66)"]
+  LEVI["Eliphas Levi (1854-56)"] --> GD["Golden Dawn (1888)"]
+  SRIA --> GD
+  GD --> AO["Alpha et Omega (Mathers)"]
+  GD --> SM["Stella Matutina (c. 1903)"]
+  GD --> AA["A.'.A.'. (1907)"]
+  AA --- OTO["O.T.O. (Thelemic under Crowley)"]
+  OTO --> TYP["Typhonian line (Grant)"]
+  AO --> BOTA["BOTA (Paul Foster Case)"]
+  AO --> IL["Society of the Inner Light (Dion Fortune)"]
+  SM --> REG["Regardie, The Golden Dawn (1937-40)"]
+```
+
+Simplified; lines show main influence or descent, and several of these lineage claims are disputed.
+
 ## Esoteric Freemasonry
 
 ### Overview

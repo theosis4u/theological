@@ -98,6 +98,19 @@ This page explains what was built in this repo, in roughly the order it was buil
 - **Free first, and contribute back.** Packs now list free online sources first and paid or subscription resources as optional, and the assistant asks what the user owns before using paid tools. The README, START-HERE, and CONTRIBUTING now encourage improving the shared repo through small pull requests instead of maintaining forks. Why: no one should need to buy anything to start, and improvements should reach everyone rather than drift apart in separate copies.
 - **Pop-ups beyond the Bible.** Tested free APIs for the Quran, Sefaria, SuttaCentral, the Bhagavad Gita, and BaniDB, and added opt-in Quran pop-ups and the Sefaria Linker. Why: the Pages site can run scripts that github.com strips, so every tradition can get the same convenience as the NET pop-ups.
 
+### 3.4 At a glance
+
+```mermaid
+flowchart TB
+  W["Workflow: Logos + Markdown + AI"] --> M["Method, prompts, starter kit"]
+  M --> T["Tradition packs: every family a peer folder"]
+  T --> F["Fair engagement: stance, no hidden default"]
+  W --> S["Website: NET pop-ups, then other scriptures"]
+  M --> C["Contribute back: pull requests, not forks"]
+```
+
+Each step answered a need: a working setup first, then a fair method, then coverage for every tradition, then honest comparison, a shareable website, and a way for improvements to reach everyone.
+
 ## 4. Open items
 
 - NET notes in pop-ups: waiting on the permission request; until then, link out.

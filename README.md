@@ -77,6 +77,32 @@ This project was started by an Eastern Orthodox Christian, but it is built to be
 3. Fill in `PROFILE.md` and `METHOD.md` using the [method template](guides/ai-theology-method-template.md) and your [tradition pack](traditions/).
 4. Try a [prompt](prompts/) and compare the result with the worked examples: [passage study](examples/john-1-1-5-study.md) and [group study handout](examples/john-3-16-group-study.md).
 
+## How it fits together
+
+```mermaid
+flowchart LR
+  subgraph S["Your sources"]
+    A["AI chats"]
+    X["X posts"]
+    E["Email and Drive"]
+    B["E-books"]
+    L["Logos or free scripture sites"]
+  end
+  K["This repo: START-HERE, tradition packs, method, prompts"]
+  AI["Your AI assistant"]
+  P["Private study repo (your profile, method, studies)"]
+  U["Public repo (anonymized, shared)"]
+  W["Website on GitHub Pages, with verse pop-ups"]
+  S --> AI
+  K --> AI
+  AI --> P
+  P -- "selected, anonymized" --> U
+  U --> W
+  P -. "generic improvements as pull requests" .-> K
+```
+
+Your sources and this repo's guidance feed your AI assistant; your studies live in your private repo; only what you choose, anonymized, is published; and improvements flow back upstream. (The diagram renders on github.com and on the website.)
+
 ## Using the starter kit
 
 **Copy the folder** (simplest):
