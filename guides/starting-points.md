@@ -203,9 +203,9 @@ Write analysis notes, not a transcript:
 |---|---|---|---|---|---|---|---|
 | 1 | ai-chat | "Grace and works in James 2" | 2025-03-02 | export: conversations.json #41 | 18 turns | soteriology | yes |
 | 2 | ai-chat | "Trip packing list" | 2025-03-05 | export #42 | 6 turns | n/a | no |
-| 3 | x-thread | "Thread on Psalm 82" | 2025-06-10 | https://x.com/i/web/status/<id> | 7 posts | scripture-and-canon | yes |
+| 3 | x-thread | "Thread on Psalm 82" | 2025-06-10 | https://x.com/i/web/status/[id] | 7 posts | scripture-and-canon | yes |
 | 4 | email-thread | "Notes after Romans 3 call" | 2025-09-14 | mbox: label "Study" | 5 msgs | soteriology | yes (summarize) |
-| 5 | logos-note | "Week 2 notes" | 2026-01-20 | notebook "<class>" | 1,900 words | class-notes | yes |
+| 5 | logos-note | "Week 2 notes" | 2026-01-20 | notebook "[class]" | 1,900 words | class-notes | yes |
 
 ### Topic-classification prompt
 

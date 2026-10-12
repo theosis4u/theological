@@ -14,4 +14,4 @@ Body text here. Quote long sources as indented blocks:
 
 > Quoted text copied from the resource.
 >
-> — [Author, *Resource Title*, p. N](<ref.ly link from your Logos copy>)
+> — Author, *Resource Title*, p. N ([ref.ly link from your Logos copy])

@@ -13,6 +13,7 @@ Follow METHOD.md.
 5. Give other major readings fairly, from their own sources.
 6. End with 3–5 open questions for discussion.
 Link each Bible reference to Biblia.com (https://biblia.com/bible/<translation>/<Book><ch>.<v>) so readers without Logos can open it; for library quotes keep the ref.ly link and add a free source link where one exists.
+Write every Bible reference in full (book, chapter, and verse, e.g. "John 1:5", not "v. 5") so verse pop-ups and Logos auto-linking work.
 Mark any quote not checked against the source as "unverified".
 ```
 
@@ -23,7 +24,7 @@ Request type: passage study (600–1,200 words).
 Passage: John 1:1-5
 Follow METHOD.md.
 1. Quote the passage inline in the KJV and WEB (both public domain).
-2. Compare the NRSVue, NASB, and NIV on verses 3-5; list only differences that matter (e.g. "comprehended" vs. "overcome" in v. 5).
+2. Compare the NRSVue, NASB, and NIV on John 1:3-5; list only differences that matter (e.g. "comprehended" vs. "overcome" in John 1:5).
 3. Give the literary context (prologue, links to Genesis 1).
 4. Give my tradition's reading, citing my study Bible notes and early writers by work and section.
 5. Give other major readings fairly.

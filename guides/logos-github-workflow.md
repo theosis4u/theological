@@ -174,6 +174,8 @@ To do the same on your own public repo (for example, one made from the starter k
 2. Change `bibleVersion` in `_includes/reftagger.html` to the translation you want, if Reftagger supports it (for example `"KJV"`, `"ESV"`, `"LEB"`).
 3. In the repo's **Settings > Pages**, publish from the `main` branch, root folder. The site appears at `https://<user>.github.io/<repo>/` after a minute or two.
 
+**Write full references.** Reftagger tags only full references (book, chapter, and verse). Always write book, chapter, and verse ("John 3:16", "John 3:14–15"), not "v. 16" or "vv. 14–15", even when the chapter is obvious. Verse pop-ups on the website and Logos's automatic Bible-reference links only recognize full references.
+
 Pop-ups show only on the published site, not on github.com. GitHub Pages for a **private** repo requires a paid GitHub plan, and even then the published site is public unless your organization's plan supports private Pages. Keep personal study notes out of any repo you publish.
 
 ## 6. Local desktop data

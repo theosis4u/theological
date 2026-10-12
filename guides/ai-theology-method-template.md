@@ -88,6 +88,7 @@ If the user has no Logos library, use the free tiers in [Free resources](free-re
 - In Markdown, write the quote as a `>` blockquote followed by the citation, linked to the `ref.ly` URL.
 - Cite other traditions' documents by section number, and the early church writers by work and section.
 - Prefer inline citations to header-only links, so each source travels with the text it supports.
+- **Full Bible references.** Always write book, chapter, and verse ("John 3:16", "John 3:14–15"), not "v. 16" or "vv. 14–15", even when the chapter is obvious. Verse pop-ups on the website and Logos's automatic Bible-reference links only recognize full references.
 - **Free, shareable links.** In anything shared with people who may not have Logos, link Bible references to Biblia.com (free, no sign-in), e.g. `https://biblia.com/bible/kjv1900/Eph2.8` or a range like `https://biblia.com/bible/esv/John3.16-21`. Keep `ref.ly` links for library quotes, but add a free source link where one exists (CCEL, New Advent, the confession sites in [Free resources](free-resources.md)). `ref.ly` links open the Logos web app, which may show only a preview or a purchase/sign-in prompt to people who don't own the book.
 
 ## 9. Saving work

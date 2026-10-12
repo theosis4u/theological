@@ -37,11 +37,11 @@ This is a worked example of a passage study in the format described in the [meth
 
 | Verse | KJV | WEB | Why it matters |
 |---|---|---|---|
-| 1:3 | "All things were made by him" | "All things were made through him" | "Through" presents the Word as the agent through whom the Father creates; "by" can read as the sole source. |
-| 1:4 | "In him was life; and the life was the light of men." | "In him was life, and the life was the light of men." | No difference in meaning. |
-| 1:5 | "the darkness comprehended it not" | "the darkness hasn’t overcome it" | The Greek verb (*katalambanō*, "to seize, lay hold of") can mean to grasp with the mind or to seize so as to overpower. |
+| John 1:3 | "All things were made by him" | "All things were made through him" | "Through" presents the Word as the agent through whom the Father creates; "by" can read as the sole source. |
+| John 1:4 | "In him was life; and the life was the light of men." | "In him was life, and the life was the light of men." | No difference in meaning. |
+| John 1:5 | "the darkness comprehended it not" | "the darkness hasn’t overcome it" | The Greek verb (*katalambanō*, "to seize, lay hold of") can mean to grasp with the mind or to seize so as to overpower. |
 
-The difference in verse 5 is the one worth discussing. Check how your other comparison translations render it, and read your default translation's notes on the verse.
+The difference in John 1:5 is the one worth discussing. Check how your other comparison translations render it, and read your default translation's notes on the verse.
 
 ## 3. Context
 
@@ -51,15 +51,15 @@ The opening words "In the beginning" deliberately echo Genesis 1:1, and the them
 
 Here a study would quote the study Bible or commentary notes from your own tradition. Copy the passage in Logos with citations turned on, and paste it as an indented block:
 
-> <Paste the note on John 1:1 from your tradition's study Bible here, copied from Logos with citations on.>
+> *[Placeholder: paste the note on John 1:1 from your tradition's study Bible here, copied from Logos with citations on.]*
 >
-> — [<Author>, *<Resource Title>*, p. <N>](<ref.ly link from your Logos copy>)
+> — *[Author]*, *[Resource Title]*, p. *[N]* ([ref.ly link from your Logos copy])
 
 An early church writer on the same verse would be cited by work and section:
 
-> <Paste the quotation here, copied from your library edition.>
+> *[Placeholder: paste the quotation here, copied from your library edition.]*
 >
-> — [<Writer>, *<Work>* <book.section>](<ref.ly link from your Logos copy>)
+> — *[Writer]*, *[Work]* *[book.section]* ([ref.ly link from your Logos copy])
 
 Then explain in your own words what the source says and how it bears on the text. Keep your explanation outside the indented block.
 
@@ -71,5 +71,5 @@ Summarize how one or two other traditions read the passage, quoting their own so
 
 1. What does the echo of Genesis 1 suggest about who the Word is?
 2. How can the Word be both "with God" and "God" in the same verse?
-3. Which sense of verse 5 fits the rest of John better: the darkness failing to understand the light, or failing to overpower it? Could John mean both?
-4. How does verse 3's "made by/through him" shape the way we think about creation?
+3. Which sense of John 1:5 fits the rest of John better: the darkness failing to understand the light, or failing to overpower it? Could John mean both?
+4. How does John 1:3's "made by/through him" shape the way we think about creation?

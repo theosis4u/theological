@@ -25,25 +25,25 @@ A worked example of the **class or Logos note** request type from the [prompt li
 
 A church small group is studying John 3. The leader hands out these discussion questions for John 3:16–21, and a member wants to prepare answers with a study partner before the meeting:
 
-1. Verses 14–15 refer to Moses lifting up the serpent. What is the background, and why does Jesus use it?
+1. John 3:14–15 refer to Moses lifting up the serpent. What is the background, and why does Jesus use it?
 2. What does "so" mean in "God so loved the world"? How much, or in what way?
 3. Who is "the world" here?
 4. "Only begotten Son" or "one and only Son": which is right, and does it matter?
 5. What kind of "believing" is in view?
 6. What do "perish" and "eternal life" mean in John?
-7. How does verse 16 connect to verses 17–21 on judgment, light, and darkness?
+7. How does John 3:16 connect to John 3:17–21 on judgment, light, and darkness?
 8. Application: what does this passage ask of us this week?
 
 ## 2. Input: the prompt
 
 ```text
 Request type: class / Logos note (1,500-2,000 words; fits one Logos note).
-Session: church small group, John 3:16-21 (with vv. 14-15 for background)
+Session: church small group, John 3:16-21 (with John 3:14-15 for background)
 Questions to answer: <paste the 8 questions>
 Follow METHOD.md.
 - Lead with <your tradition>'s reading, then summarize other major traditions fairly from their own sources.
 - Reprint each question in bold, then answer in short paragraphs with sources named inline.
-- Quote verses inline from <default translation>. Include a translation-difference table for 3:16.
+- Quote verses inline from <default translation>. Include a translation-difference table for John 3:16.
 - State Greek points cautiously and gloss each term once.
 - Leave placeholders for library quotes; I will paste them from Logos with Share > Copy.
 - No tables in the final Logos note (the converter turns them into lists).
@@ -73,25 +73,25 @@ Follow METHOD.md.
 
 **[John 3:19–21](https://biblia.com/bible/kjv1900/John3.19-21)** (KJV): "And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil. For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved. But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God."
 
-### Translation differences in 3:16
+### Translation differences in John 3:16
 
 | Phrase | KJV | WEB | Other modern versions (general) |
 |---|---|---|---|
 | Description of the Son | "his only begotten Son" | "his one and only Son" | Many recent versions use "one and only" or "only" (e.g. the NIV and ESV), some with a footnote giving "only begotten" |
-| Result | "everlasting life" | "eternal life" | Most use "eternal life"; same Greek phrase as in v. 15 |
-| Verbs in vv. 17–18 | "condemn," "condemned" | "judge," "judged" | Versions divide between "condemn" and "judge" for the same Greek verb |
+| Result | "everlasting life" | "eternal life" | Most use "eternal life"; same Greek phrase as in John 3:15 |
+| Verbs in John 3:17–18 | "condemn," "condemned" | "judge," "judged" | Versions divide between "condemn" and "judge" for the same Greek verb |
 
 The NET Bible and others explain their choice of wording in translator notes; read those notes in your own library.
 
-### 1. The serpent background (vv. 14–15)
+### 1. The serpent background (John 3:14–15)
 
-In Numbers 21, Israel complains in the wilderness, venomous serpents bite the people, and God tells Moses to make a bronze serpent on a pole: "every one that is bitten, when he looketh upon it, shall live" (Num 21:8, KJV). Jesus compares his own "lifting up" to that pole. In John, "lifted up" points to the cross (compare John 12:32–33) and, many readers note, to his exaltation as well. The comparison stresses that healing came by looking to what God provided, which prepares for the language of believing in verse 15.
+In Numbers 21, Israel complains in the wilderness, venomous serpents bite the people, and God tells Moses to make a bronze serpent on a pole: "every one that is bitten, when he looketh upon it, shall live" (Num 21:8, KJV). Jesus compares his own "lifting up" to that pole. In John, "lifted up" points to the cross (compare John 12:32–33) and, many readers note, to his exaltation as well. The comparison stresses that healing came by looking to what God provided, which prepares for the language of believing in John 3:15.
 
-> <quote copied from your study Bible on John 3:14 via Share > Copy>
+> *[Placeholder: quote copied from your study Bible on John 3:14 with Share > Copy]*
 >
-> — <APA citation> (<ref.ly link>)
+> — *[APA citation]* ([ref.ly link])
 
-### 2. What does "so" mean? (v. 16)
+### 2. What does "so" mean? (John 3:16)
 
 The Greek word is *houtōs*, usually meaning "in this way" or "thus." Many scholars therefore read the verse as describing the **manner** of God's love: "this is how God loved the world: he gave his Son." The traditional English reading stresses **degree**: "God loved the world so much." The two are not exclusive, since the manner (giving the Son) shows the depth. Some modern versions translate in a way that brings out the manner; check yours.
 
@@ -101,43 +101,43 @@ John Chrysostom, preaching on this verse, heard both the greatness of the love a
 >
 > — John Chrysostom, *Homilies on the Gospel of John*, Homily 27, in *Nicene and Post-Nicene Fathers*, Series 1, vol. 14 ([CCEL](https://www.ccel.org/ccel/schaff/npnf114.iv.xxix.html))
 
-### 3. Who is "the world"? (v. 16)
+### 3. Who is "the world"? (John 3:16)
 
-*Kosmos* in John often means humanity in its estrangement from God (John 1:10; 3:19), not merely the physical universe. The surprise of verse 16 is that God loves this world. How far "the world" extends is read differently:
+*Kosmos* in John often means humanity in its estrangement from God (John 1:10; John 3:19), not merely the physical universe. The surprise of John 3:16 is that God loves this world. How far "the world" extends is read differently:
 
 - **Patristic, Orthodox, and Catholic readers** generally take it as all humanity, for whom Christ came. Chrysostom stresses the gap between God and those he loves: "He hath so loved you as to give His Son for slaves, and ungrateful slaves" (same homily).
 - **Arminian and Wesleyan readers** emphasize that the love and offer extend to every person, with "whosoever" open to all.
 - **Reformed readers** commonly agree that "world" stresses the wideness and undeservedness of God's love (all kinds of people, Jew and Gentile) while relating the saving purpose to the elect; others in the tradition read it more broadly. See your confessional sources.
 
-> <quote copied from a commentary from your tradition via Share > Copy>
+> *[Placeholder: quote copied from a commentary from your tradition with Share > Copy]*
 >
-> — <APA citation> (<ref.ly link>)
+> — *[APA citation]* ([ref.ly link])
 
-### 4. "Only begotten" or "one and only"? (v. 16)
+### 4. "Only begotten" or "one and only"? (John 3:16)
 
 The Greek is *monogenēs*. Older English, following the Latin *unigenitus*, rendered it "only begotten." Many modern scholars argue that the word stresses uniqueness ("one of a kind," "only") rather than the act of begetting, which is why many recent versions say "one and only." Others defend "only begotten" because John uses the word of the Son's unique relation to the Father (John 1:14, 18), and because the Nicene Creed confesses the Son as "only-begotten, begotten of the Father." The debate is about the word's emphasis, not about whether the Son is eternally from the Father, which the creedal traditions affirm either way.
 
-> <quote copied from a lexicon or study Bible note on monogenēs via Share > Copy>
+> *[Placeholder: quote copied from a lexicon or study Bible note on monogenēs with Share > Copy]*
 >
-> — <APA citation> (<ref.ly link>)
+> — *[APA citation]* ([ref.ly link])
 
-### 5. What kind of believing? (vv. 15–16, 18)
+### 5. What kind of believing? (John 3:15–16, 18)
 
 "Whosoever believeth" translates a present participle (*pisteuōn*, "the one believing"). Many commentators note that the present tense here can suggest continuing trust rather than a single moment, though grammar alone shouldn't be pressed too hard. In John, believing is personal trust and allegiance to Jesus, and it appears as a verb, never as the noun "faith." Traditions relate it differently to baptism, repentance, and perseverance; name your tradition's emphasis and note others fairly.
 
-### 6. "Perish" and "eternal life" (v. 16)
+### 6. "Perish" and "eternal life" (John 3:16)
 
 "Perish" (*apollymi*, "to be destroyed, lost") is the opposite of the life God gives. "Eternal life" in John is not only endless life after death; it is a present possession (John 5:24) and is defined as knowing God and Jesus Christ (John 17:3). Many readers in the Eastern tradition connect this with participation in God's life; others stress the gift of new birth (John 3:3–8). Both draw on the same chapter.
 
-### 7. How v. 16 connects to vv. 17–21
+### 7. How John 3:16 connects to John 3:17–21
 
-Verse 17 states the purpose of the sending: "not ... to condemn the world; but that the world through him might be saved." Yet verse 18 says the one who does not believe "is condemned already." John holds these together: the Son comes to save, and judgment takes place in people's response to the light (v. 19). Verses 19–21 describe that response morally. People who do evil avoid the light; the one who "doeth truth cometh to the light." The passage presents judgment less as an arbitrary sentence than as the revealing of what people love.
+John 3:17 states the purpose of the sending: "not ... to condemn the world; but that the world through him might be saved." Yet John 3:18 says the one who does not believe "is condemned already." John holds these together: the Son comes to save, and judgment takes place in people's response to the light (John 3:19). John 3:19–21 describe that response morally. People who do evil avoid the light; the one who "doeth truth cometh to the light." The passage presents judgment less as an arbitrary sentence than as the revealing of what people love.
 
 ### 8. Application
 
-- Where are we tempted to avoid "the light" in an area of life (v. 20)?
-- How does verse 17 shape how we speak to people outside the church?
-- What would it look like to keep "looking to" Christ this week, as Israel looked to the serpent (vv. 14–15)?
+- Where are we tempted to avoid "the light" in an area of life (John 3:20)?
+- How does John 3:17 shape how we speak to people outside the church?
+- What would it look like to keep "looking to" Christ this week, as Israel looked to the serpent (John 3:14–15)?
 
 ## 5. What the AI got right, and what you must verify
 
