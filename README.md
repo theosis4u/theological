@@ -66,7 +66,11 @@ cd my-study-repo && git init && git add . && git commit -m "Start study repo"
 
 ## Verse pop-ups
 
-The [website version of this repo](https://theosis4u.github.io/theological/) uses GitHub Pages with Faithlife's free [Reftagger](https://faithlife.com/products/reftagger) script. Bible references in the text (for example John 3:16 or Eph 2:8-10) turn into links, and hovering over one shows the verse in the **NET** (set by `bibleVersion` in `_includes/reftagger.html`). Pop-ups work only on the website, not when you view the files on github.com. See [Verse pop-ups](guides/logos-github-workflow.md#54-verse-pop-ups-on-a-public-site) for how to do the same on your own repo.
+The [website version of this repo](https://theosis4u.github.io/theological/) uses GitHub Pages with Faithlife's free [Reftagger](https://faithlife.com/products/reftagger) script. Bible references in the text (for example John 3:16 or Eph 2:8-10) turn into links, and hovering over one shows the verse in the **NET** (Reftagger's `NET`, which is Biblia's `gs-netbible`). Pop-ups show verse text only; the *Compare + NET notes* links on example pages open Bible Gateway with the NET translators' notes and a parallel view. Pop-ups work only on the website, not when you view the files on github.com. See [Verse pop-ups](guides/logos-github-workflow.md#54-verse-pop-ups-on-a-public-site) for how to do the same on your own repo.
+
+## Project history
+
+What was built, why, and the lessons learned along the way: [Project history](docs/project-history.md).
 
 ## License
 

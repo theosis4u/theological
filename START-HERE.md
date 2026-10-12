@@ -1,4 +1,13 @@
 # Start Here
+{: .no_toc}
+
+## Contents
+{: .no_toc}
+
+* Contents
+{:toc}
+
+---
 
 The recommended first step: hand this repository to your AI assistant and let it interview you, then build your own **private** study setup from the templates here. It takes about 15–30 minutes.
 

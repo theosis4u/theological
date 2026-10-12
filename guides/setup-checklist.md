@@ -5,6 +5,15 @@ topic: workflow
 ---
 
 # Setup Checklist and FAQ
+{: .no_toc}
+
+## Contents
+{: .no_toc}
+
+* Contents
+{:toc}
+
+---
 
 A checklist for setting up the [Logos + GitHub workflow](logos-github-workflow.md), plus answers to the problems people run into most.
 

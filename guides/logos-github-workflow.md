@@ -23,6 +23,8 @@ For a companion template of standing instructions for the AI assistant (request 
 
 No Logos? See [Free resources](free-resources.md). New to this repo? Begin with [START-HERE.md](../START-HERE.md). If you only have Microsoft Copilot (no shell or browser automation), see [Using the workflow with Microsoft Copilot and Logos](copilot-workflow.md). To seed a repo from existing chats, posts, emails, notes, and documents, see [Starting points](starting-points.md). See also the [setup checklist and FAQ](setup-checklist.md) and the [AI coverage testing kit](ai-coverage-test.md).
 
+For what was built and why, see the [project history](../docs/project-history.md).
+
 All names, paths, and IDs below are placeholders. Replace `<you>`, `<random>`, and similar markers with your own values.
 
 ## 1. Architecture
@@ -167,17 +169,35 @@ Inline `ref.ly` citations sit next to the quote, survive a copy of the note body
 
 ### 5.4 Verse pop-ups on a public site
 
-This repo is published with GitHub Pages and Faithlife's free [Reftagger](https://faithlife.com/products/reftagger) script. Reftagger scans each page for Bible references and turns them into links that show the verse in a hover pop-up. NET is the default here.
+This repo is published with GitHub Pages and Faithlife's free [Reftagger](https://faithlife.com/products/reftagger) script. Reftagger scans each page for Bible references and turns them into links that show the verse in a hover pop-up.
+
+How it is configured here (`_includes/reftagger.html`; setting names checked against the live `RefTagger.js`):
+
+| Setting | Value | Why |
+|---|---|---|
+| `bibleVersion` | `"NET"` | Reftagger maps `NET` to Biblia's `gs-netbible`. Its wording matched the NET 2nd edition on netbible.org in every verse checked. `netbible2ed` is **not** served to Reftagger (the pop-up shows an error), so it can't be used. |
+| `convertHyperlinks` + `hyperlinkTestList: ["biblia.com"]` | on | Reftagger skips existing links by default; this adds pop-ups to the Biblia.com links in the text, and leaves other links (e.g. `ref.ly`) alone. |
+| `noSearchTagNames` | `["code", "pre"]` | The default skips h1–h3. Overriding it lets references in headings get pop-ups, while code stays untouched. |
+| `socialSharing` | `[]` | No share buttons. |
+
+Limits to know:
+
+- **Pop-ups show verse text only**, never the NET translators' notes. For notes and a parallel view, add a *Compare + NET notes* link to Bible Gateway at each main passage (section 5.3).
+- **Only full references are tagged** (book, chapter, and verse). "v. 16" or "vv. 14–15" are ignored.
+- **Pop-ups appear only on the published site**, not when you view files on github.com.
 
 To do the same on your own public repo (for example, one made from the starter kit):
 
-1. Copy `_config.yml`, `_includes/head.html`, and `_includes/reftagger.html` from this repo. They use GitHub Pages' built-in Jekyll with the `minima` theme, and `README.md` becomes the home page.
-2. Change `bibleVersion` in `_includes/reftagger.html` to the translation you want, if Reftagger supports it (for example `"KJV"`, `"ESV"`, `"LEB"`).
+1. Copy `_config.yml`, `_includes/head.html`, and `_includes/reftagger.html` from this repo. They use GitHub Pages' built-in Jekyll with the `minima` theme; `README.md` becomes the home page and `.md` links are rewritten by `jekyll-relative-links`. `header_pages` in `_config.yml` sets the short top navigation.
+2. Change `bibleVersion` to the translation you want, if Reftagger supports it (for example `"KJV"`, `"ESV"`, `"LEB"`). Test one pop-up in a browser after publishing.
 3. In the repo's **Settings > Pages**, publish from the `main` branch, root folder. The site appears at `https://<user>.github.io/<repo>/` after a minute or two.
+4. On long pages, use the kramdown auto table of contents: put `{: .no_toc}` under the page title and the "Contents" heading, then `* Contents` followed by `{:toc}`. It builds a nested list of every heading. (On github.com it shows as plain text; the website renders it.)
 
-**Write full references.** Reftagger tags only full references (book, chapter, and verse). Always write book, chapter, and verse ("John 3:16", "John 3:14–15"), not "v. 16" or "vv. 14–15", even when the chapter is obvious. Verse pop-ups on the website and Logos's automatic Bible-reference links only recognize full references.
+**Write full references.** Always write book, chapter, and verse ("John 3:16", "John 3:14–15"), not "v. 16" or "vv. 14–15", even when the chapter is obvious. Verse pop-ups and Logos's automatic Bible-reference links only recognize full references.
 
-Pop-ups show only on the published site, not on github.com. GitHub Pages for a **private** repo requires a paid GitHub plan, and even then the published site is public unless your organization's plan supports private Pages. Keep personal study notes out of any repo you publish.
+**Placeholders.** Write placeholders as `*[Placeholder: …]*` or `[ref.ly link]`, never with angle brackets, which the site treats as HTML and hides.
+
+GitHub Pages for a **private** repo requires a paid GitHub plan, and even then the published site is public unless your organization's plan supports private Pages. Keep personal study notes out of any repo you publish.
 
 ## 6. Local desktop data
 
@@ -205,6 +225,7 @@ Logos includes an AI Study Assistant that can answer questions from your library
 
 - **Scope it to "Your books"** so answers draw on resources you own, and check which resources it actually cites.
 - **Treat answers as leads, not quotations.** Open each cited resource, read the passage in context, and quote from the resource itself (using section 5.1), not from the assistant's summary.
+- **Name the resources you want.** In testing, tradition-level questions ("what does tradition X teach…") sometimes drew on few or none of the owned resources for some traditions, while naming a specific resource or scoping to a single book worked better. Ask about specific books by title, then verify.
 - **Test coverage yourself.** Coverage across resources and traditions may be uneven; some resources you own may not be retrieved. Ask matched questions (the same question framed for different traditions or sources you know are in your library) and compare which resources it cites; the [coverage testing kit](ai-coverage-test.md) gives a full procedure. If something you own never appears, note the resource, the question, and the answer, and report it to Faithlife.
 - You can ask it to format answers so they paste cleanly into a note, then edit and verify before saving.
 

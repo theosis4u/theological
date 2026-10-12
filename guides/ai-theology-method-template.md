@@ -5,6 +5,15 @@ topic: workflow
 ---
 
 # A Working Method and Template for AI-Assisted Theological Study
+{: .no_toc}
+
+## Contents
+{: .no_toc}
+
+* Contents
+{:toc}
+
+---
 
 This is a fill-in template for a standing instruction file that you give an AI assistant before theological research, Bible study, or debate analysis. Copy it into your own private repo (for example as `METHOD.md`), fill in the `<placeholders>`, and point the assistant at it at the start of each session. It pairs with the [Logos + GitHub workflow guide](logos-github-workflow.md).
 

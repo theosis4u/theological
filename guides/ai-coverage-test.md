@@ -5,6 +5,15 @@ topic: workflow
 ---
 
 # Testing an AI Study Assistant's Coverage of Your Library
+{: .no_toc}
+
+## Contents
+{: .no_toc}
+
+* Contents
+{:toc}
+
+---
 
 In-app AI assistants, including the Logos Study Assistant, answer by retrieving passages from resources and summarizing them. Retrieval is never perfect, and coverage can differ by tradition, publisher, or resource type. A resource you own may be cited constantly, rarely, or never. This kit gives you a simple, repeatable way to find out how it behaves with *your* library before you rely on it, and to report problems with useful detail.
 

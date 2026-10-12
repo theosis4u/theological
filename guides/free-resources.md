@@ -60,6 +60,21 @@ Use these in place of the Logos library in the [method template](ai-theology-met
 | [Free book of the month](https://www.logos.com/free-book-of-the-month) | A rotating free title; it requires a Faithlife account. |
 | [Logos web app](https://app.logos.com/) and [Faithlife](https://www.faithlife.com/) | Web access after signing in; Faithlife also offers other apps. Free features vary by account. |
 
+### The NET Bible: text, notes, and APIs
+
+The NET is unusual: its text is free to quote for non-commercial use, and its 60,000 translators' notes are free to *read* online. Findings from testing on 2026-10-11 (tested by request; none of these is an endorsement):
+
+| Source | Edition | Notes? | Access | Example |
+|---|---|---|---|---|
+| [netbible.org](https://netbible.org/) | 2nd edition (its default text is labelled NET2) | Yes, all notes, in the reader | Free to read. The page loads text and notes from internal endpoints that are undocumented and don't allow other websites to call them. | `https://netbible.org/bible/John+3` |
+| [labs.bible.org API](https://labs.bible.org/api_web_service) | Matched NET2 wording in every verse checked | No (`formatting=full` gives note *markers* only) | Free, no key; allows cross-site calls and JSONP (`&callback=`) | `https://labs.bible.org/api/?passage=John%203:16&type=json` |
+| Bible Gateway | 2nd-edition-era text (copyright line 1996–2017); one minor spelling difference found in 226 verses | Yes, as footnotes | Free to read; no public API | `https://www.biblegateway.com/passage/?search=John%203:16&version=NET;NRSVUE;NKJV;KJV` |
+| Biblia.com / Reftagger (`gs-netbible`) | Matched NET2 wording in the verses checked | No | Free to read; `netbible2ed` needs sign-in or purchase | `https://biblia.com/bible/gs-netbible/John3.16` |
+| [bolls.life](https://bolls.life/) (third-party) | Matches NET2 in the verses checked | Yes, in a `comment` field | Free, no key, allows cross-site calls | `https://bolls.life/get-verse/NET/43/3/16/` |
+| Logos | *The NET Bible: Full Notes Edition* (2nd ed.) | Yes | Paid resource | — |
+
+**Licensing.** NET Bible text may be quoted without written permission for non-commercial use with "(NET)" and the copyright notice; commercial use has a 500-verse limit (see [Bible.org's copyright page](https://bible.org/netbiblecopyright)). That free permission covers the text **without the notes**, and Bible.org's material may not be reposted on other websites. So link to the notes (netbible.org, Bible Gateway) rather than copying them into a public site or a pop-up. For this repo, a permission request about showing NET notes has been sent to the NET publisher; until permission is granted, the site shows verse text only and links out for notes.
+
 ## Building a free Logos library
 
 You can build a useful Logos library at no cost by claiming free books regularly. Checked 2026-10-11; offers and URLs change.

@@ -1,4 +1,13 @@
 # Tools
+{: .no_toc}
+
+## Contents
+{: .no_toc}
+
+* Contents
+{:toc}
+
+---
 
 Small, dependency-light Python 3 scripts for a Markdown + Logos study workflow. All are generic; replace paths with your own. See the [workflow guide](../guides/logos-github-workflow.md) for context.
 
