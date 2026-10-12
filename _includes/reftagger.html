@@ -1,0 +1,19 @@
+<!-- Faithlife Reftagger: Bible references become hover pop-ups (NET). https://faithlife.com/products/reftagger -->
+<script>
+  var refTagger = {
+    settings: {
+      bibleVersion: "NET",
+      roundCorners: true,
+      socialSharing: [],
+      noSearchTagNames: ["h1", "h2", "h3", "code", "pre"]
+    }
+  };
+  (function(d, t) {
+    var n = d.querySelector("[nonce]");
+    refTagger.settings.nonce = n && (n.nonce || n.getAttribute("nonce"));
+    var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+    g.src = "https://api.reftagger.com/v2/RefTagger.js";
+    g.async = true;
+    s.parentNode.insertBefore(g, s);
+  }(document, "script"));
+</script>

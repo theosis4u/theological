@@ -1,0 +1,13 @@
+title: Theological
+description: A reusable workflow for Bible study with Logos, a Markdown repo, and an AI assistant.
+theme: minima
+plugins:
+  - jekyll-relative-links
+  - jekyll-readme-index
+  - jekyll-seo-tag
+relative_links:
+  enabled: true
+  collections: false
+exclude:
+  - Gemfile
+  - Gemfile.lock

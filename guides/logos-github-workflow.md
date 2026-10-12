@@ -153,6 +153,18 @@ Inline `ref.ly` citations sit next to the quote, survive a copy of the note body
 - Keep the `ref.ly` link on library quotes, and add a free source link where one exists (CCEL, New Advent, the confession sites in [Free resources](free-resources.md)).
 - `tools/md_to_logos_html.py --biblia kjv1900` turns plain references like `John 3:16` into Biblia links during conversion.
 
+### 5.4 Verse pop-ups on a public site
+
+This repo is published with GitHub Pages and Faithlife's free [Reftagger](https://faithlife.com/products/reftagger) script. Reftagger scans each page for Bible references and turns them into links that show the verse in a hover pop-up. NET is the default here.
+
+To do the same on your own public repo (for example, one made from the starter kit):
+
+1. Copy `_config.yml`, `_includes/head.html`, and `_includes/reftagger.html` from this repo. They use GitHub Pages' built-in Jekyll with the `minima` theme, and `README.md` becomes the home page.
+2. Change `bibleVersion` in `_includes/reftagger.html` to the translation you want, if Reftagger supports it (for example `"KJV"`, `"ESV"`, `"LEB"`).
+3. In the repo's **Settings > Pages**, publish from the `main` branch, root folder. The site appears at `https://<user>.github.io/<repo>/` after a minute or two.
+
+Pop-ups show only on the published site, not on github.com. GitHub Pages for a **private** repo requires a paid GitHub plan, and even then the published site is public unless your organization's plan supports private Pages. Keep personal study notes out of any repo you publish.
+
 ## 6. Local desktop data
 
 The desktop app keeps user data in a folder like:

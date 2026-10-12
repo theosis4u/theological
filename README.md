@@ -64,6 +64,10 @@ cd my-study-repo && git init && git add . && git commit -m "Start study repo"
 
 **Or use GitHub's template feature:** a repository owner can mark a repo as a template (Settings > General > "Template repository"), after which others click **Use this template** to create their own copy. This repo is not set up that way; if you want a one-click template, copy `starter-kit/` into its own repo and mark *that* repo as a template. Either way, make your study repo **private**.
 
+## Verse pop-ups
+
+The [website version of this repo](https://theosis4u.github.io/theological/) uses GitHub Pages with Faithlife's free [Reftagger](https://faithlife.com/products/reftagger) script. Bible references in the text (for example John 3:16 or Eph 2:8-10) turn into links, and hovering over one shows the verse in the **NET** (set by `bibleVersion` in `_includes/reftagger.html`). Pop-ups work only on the website, not when you view the files on github.com. See [Verse pop-ups](guides/logos-github-workflow.md#54-verse-pop-ups-on-a-public-site) for how to do the same on your own repo.
+
 ## License
 
 Code in `tools/` is under the MIT License; documentation and written content are under CC BY 4.0. Public-domain Bible text (KJV, WEB) is quoted where noted. See [LICENSE](LICENSE).
