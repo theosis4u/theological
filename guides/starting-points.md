@@ -17,7 +17,7 @@ topic: workflow
 
 ## About this guide
 
-You probably already have years of theological material scattered across AI chats, social media, email, Logos, documents, and lecture notes. This guide covers optional ways to collect it, clean it, sort it by topic, and commit it to your **private** study repo (see the [starter kit](../starter-kit/)). Do as many or as few sections as you like; the [common pipeline](#7-the-common-pipeline) at the end applies to all of them.
+You probably already have years of theological material scattered across AI chats, social media, email, Logos, documents, and lecture notes. This guide covers optional ways to collect it, clean it, sort it by topic, and commit it to your **private** study repo (see the [starter kit](../starter-kit/)). Do as many or as few sections as you like; the [common pipeline](#8-the-common-pipeline) at the end applies to all of them.
 
 > **About export paths:** export features change. The steps below summarize each provider's public help pages as of late 2026, with links where available. Check the current page before you start; work and school accounts often have different rules or none.
 
@@ -172,7 +172,34 @@ Write analysis notes, not a transcript:
 
 ---
 
-## 7. The common pipeline
+## 7. E-book libraries (optional)
+
+Your highlights and notes in e-book readers are often the best record of what you've studied. **Prefer highlight exports**: they are official, fast, and contain only what you chose. Checked against each provider's help pages and user reports on 2026-10-12; features change, so confirm on the linked pages.
+
+| Library | Best route | What you get | Limits (as reported) |
+|---|---|---|---|
+| **Kindle** | [Kindle Notebook](https://read.amazon.com/notebook) (`read.amazon.com/notebook`), signed in | Highlights and notes per book, with locations; users report an export option (text, HTML, or CSV) on the book view | No public API. DRM prevents exporting the books themselves. Publishers set a clipping limit (commonly reported as about 10% of a book), so some highlights may be hidden or cut off. A physical Kindle's `My Clippings.txt` holds that device's highlights. |
+| **Kindle Cloud Reader** | `read.amazon.com`, signed in | Reading a specific passage for a lookup | Users report some titles aren't available in Cloud Reader; copying is limited by the same clipping limit. |
+| **Kobo** | kobo.com: **My Books > Actions > Export Annotations** ([Kobo help](https://help.kobo.com/hc/en-us/articles/29991333812631-Export-annotations-from-your-books)) | Highlights and notes as PDF, HTML, TXT, or Markdown | Only books bought from Kobo or Kobo Plus; may depend on publisher approval; markups aren't exported; files are kept for 30 days. Alternative: copy `.kobo/KoboReader.sqlite` from the eReader and read the `Bookmark` table (community tools such as `export-kobo`; unofficial; work on a copy). |
+| **Google Play Books** | In a book, **More > Save annotations to Google Drive** ([Google help](https://support.google.com/googleplay/answer/3165868)) | One Google Doc per book in a Drive folder named "Play Books Notes" by default, which an assistant with a Google Drive connector can read | Highlight text is missing if the publisher disabled copying or the publisher's limit is exceeded. Editing the synced doc can be overwritten; make a copy first. |
+| **Apple Books** | In a book, open **Notes**, then Control-click a note > **Share** (Mail, Messages, Notes) ([Apple help](https://support.apple.com/guide/books/share-book-quotes-notes-and-more-ibks3b8c08a0/mac)) | Notes and highlights you share, a few at a time | No web reader and no bulk export in the app; quote sharing is limited (Apple notes up to 200 words, US only). Community Mac tools read the local Books database (unofficial). |
+| **Libby / OverDrive** | Title's **Reading Journey > Actions > Export Reading Data** ([Libby help](https://help.libbyapp.com/6151.htm)) | Highlights with notes, chapter, color, and dates, as a web table or spreadsheet (a JSON "Data" option is also reported); works after the loan ends | One title at a time. |
+| **DRM-free EPUB or PDF files you own** | Upload the file or put it in your repo or drive | The whole text, which your assistant can read directly | Respect the license: keep purchased books private. |
+
+**Guidance**
+
+- **Signed-in readers are for lookups, not whole books.** An AI assistant with a browser can read a signed-in Kindle or Play Books page, but slowly, page by page. Use it to find or check a specific passage, not to copy a book.
+- **You do the sign-ins.** The assistant should never ask for your password; you sign in to the reader yourself (or in the assistant's browser if it offers that), and approve what it opens.
+- **Quote briefly, cite, and never republish whole chapters** publicly. Keep highlight exports in your **private** repo.
+- **Respect each service's terms of service**, and don't try to bypass DRM or clipping limits.
+
+**Prompt for your assistant**
+
+```text
+Here are my highlight exports from [Kindle / Kobo / Play Books / Apple Books / Libby]. Convert each book's highlights into one Markdown file with front matter (title, author, source: "<service> highlights export", source_type: ebook-highlights, date, topic). Keep each highlight as a short quote with its location, and my notes beneath it. Suggest a topic folder for each file. Don't add text that isn't in the export, and flag any highlight that looks cut off.
+```
+
+## 8. The common pipeline
 
 1. **Inventory first.** Before converting anything, list what you have: title, date, source, URL or file, size. Don't change any source.
 2. **Propose a folder layout** from the inventory and review it before sorting. Start with the starter kit's folders and add topic folders as needed.

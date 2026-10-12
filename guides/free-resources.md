@@ -214,6 +214,8 @@ Each list matches a [tradition pack](../traditions/). Descriptions are of what a
 
 ## 3. Using them with an AI assistant
 
+If you already own e-books (Kindle, Kobo, Google Play Books, Apple Books, or library loans through Libby), your highlights can feed your study too; see [E-book libraries](starting-points.md#7-e-book-libraries-optional).
+
 1. **Give it the URLs.** Paste the relevant sites (or this page) and say: "Use these sources for this study."
 2. **Ask it to quote and link.** "Quote exactly, give the section or paragraph number, and link the page you quoted."
 3. **Require verification.** Assistants can misquote or attribute a line to the wrong page. Open each link and check the quote before you keep it. If the assistant can't browse, paste the passage yourself and ask it to work only from what you pasted.
