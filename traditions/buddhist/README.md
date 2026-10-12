@@ -72,6 +72,8 @@ Buddhists take refuge in the Three Jewels: the Buddha (the awakened teacher, Sid
 - **Primary:** your branch's canon and its recognized teachers.
 - **Comparison:** the other branches' canons (e.g. Pali parallels to Mahayana sutras), academic Buddhist studies, and other religions' views on self, suffering, and liberation.
 
+- **Survey anthology:** Sarvepalli Radhakrishnan and Charles A. Moore (eds.), *A Sourcebook in Indian Philosophy* (Princeton University Press, 1957; paperback ISBN 9780691019581; an ebook edition is listed as ISBN 9781400865062). [Borrow free at the Internet Archive](https://archive.org/details/sourcebookinindi00radh) (a 1989 printing, through controlled digital lending: a free account and one-hour borrows) or see the [Princeton page](https://press.princeton.edu/books/paperback/9780691019581/a-sourcebook-in-indian-philosophy). It is a mid-20th-century anthology, and Radhakrishnan writes from a modern Advaita (Neo-Vedanta) perspective, so balance its introductions with each tradition's own sources. Its Buddhism chapter gives selections from several schools in older translations.
+
 ## Points of dialogue
 
 - Non-self (anatta) vs. the soul in theistic religions; rebirth vs. resurrection or a single life.

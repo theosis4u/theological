@@ -27,7 +27,7 @@ Listed alphabetically.
 | Family | Branches covered | Pack |
 |---|---|---|
 | Buddhist | Theravada; Mahayana (Zen, Pure Land, Tiantai/Nichiren); Vajrayana (Nyingma, Kagyu, Sakya, Gelug) | [buddhist/](buddhist/README.md) |
-| Christian | Anglican, Baptist, Eastern Orthodox, Lutheran, Pentecostal, Reformed/Presbyterian, Roman Catholic, Wesleyan/Methodist | [christian/](christian/README.md) |
+| Christian | Adventist, Anabaptist, Anglican, Baptist, Eastern Orthodox, Lutheran, Moravian, nondenominational, Pentecostal/Charismatic, Quaker, Quietism and mystical renewal, Reformed/Presbyterian, Restorationist, Roman Catholic, Wesleyan/Methodist; nontrinitarian offshoots (Latter-day Saints, Jehovah's Witnesses, Oneness Pentecostal, Unitarian, Christian Science; status disputed); an explainer on "evangelical" | [christian/](christian/README.md) |
 | Esoteric and occult | Hermeticism, Theosophy, Anthroposophy, Thelema, Rosicrucianism, modern Gnosticism, esoteric Kabbalah | [esoteric/](esoteric/README.md) |
 | Hindu | Vaishnava, Shaiva, Shakta, Smarta; Advaita, Vishishtadvaita, Dvaita Vedanta | [hindu/](hindu/README.md) |
 | Islam | Sunni (four madhhabs, Salafi), Shia (Twelver, Ismaili, Zaydi), Ibadi, Sufism; Ahmadiyya (disputed) | [islam/](islam/README.md) |
@@ -36,7 +36,7 @@ Listed alphabetically.
 | Pagan and Neopagan | Wicca, Heathenry, Hellenism, Druidry; reconstructionist vs. eclectic | [pagan/](pagan/README.md) |
 | Secular | Atheist, agnostic, humanist, naturalist, skeptic | [secular/](secular/README.md) |
 | Sikh | Mainstream Khalsa; Namdhari and Nirankari (disputed) | [sikh/](sikh/README.md) |
-| Other traditions | Taoist, Confucian, Shinto, Baha'i, Zoroastrian, Latter-day Saint (disputed by other Christians) | [other/](other/README.md) |
+| Other traditions | Taoist, Confucian, Shinto, Baha'i, Zoroastrian | [other/](other/README.md) |
 
 ## How to use a pack
 

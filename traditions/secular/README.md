@@ -64,6 +64,8 @@ Secular worldviews do not ground their outlook in religious revelation. The labe
 - **Primary:** peer-reviewed philosophy (SEP, IEP), historical-critical scholarship, and science, citing named scholars rather than "scholars say."
 - **Comparison:** the other families in the [traditions index](../README.md), quoted from their own primary texts and best defenders.
 
+- **Survey anthology:** Sarvepalli Radhakrishnan and Charles A. Moore (eds.), *A Sourcebook in Indian Philosophy* (Princeton University Press, 1957; paperback ISBN 9780691019581; an ebook edition is listed as ISBN 9781400865062). [Borrow free at the Internet Archive](https://archive.org/details/sourcebookinindi00radh) (a 1989 printing, through controlled digital lending: a free account and one-hour borrows) or see the [Princeton page](https://press.princeton.edu/books/paperback/9780691019581/a-sourcebook-in-indian-philosophy). It is a mid-20th-century anthology, and Radhakrishnan writes from a modern Advaita (Neo-Vedanta) perspective, so balance its introductions with each tradition's own sources. Its Carvaka chapter (with the *Tattvopaplavasimha*) is one of the most accessible collections of ancient Indian materialist and skeptical texts; Carvaka survives mainly in its opponents' summaries, so read those critically.
+
 ## Points of dialogue
 
 - Arguments for and against God's existence (cosmological, design, moral, evil, hiddenness).

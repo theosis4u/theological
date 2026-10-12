@@ -72,6 +72,8 @@ Many Hindus call their tradition Sanatana Dharma, the "eternal order." It is a f
 - **Primary:** your sampradaya's scriptures and acharyas.
 - **Comparison:** the other Vedanta schools' commentaries on the same verse (the Gita Supersite shows several side by side), academic Indology, and other religions' views.
 
+- **Survey anthology:** Sarvepalli Radhakrishnan and Charles A. Moore (eds.), *A Sourcebook in Indian Philosophy* (Princeton University Press, 1957; paperback ISBN 9780691019581; an ebook edition is listed as ISBN 9781400865062). [Borrow free at the Internet Archive](https://archive.org/details/sourcebookinindi00radh) (a 1989 printing, through controlled digital lending: a free account and one-hour borrows) or see the [Princeton page](https://press.princeton.edu/books/paperback/9780691019581/a-sourcebook-in-indian-philosophy). It is a mid-20th-century anthology, and Radhakrishnan writes from a modern Advaita (Neo-Vedanta) perspective, so balance its introductions with each tradition's own sources. Contents include the Vedas, Upanisads, Bhagavad-gita, the six orthodox systems, and Vedanta (Shankara, Ramanuja, and Madhva).
+
 ## Points of dialogue
 
 - Avatar and incarnation; grace and devotion in bhakti and in Christianity or Pure Land Buddhism.

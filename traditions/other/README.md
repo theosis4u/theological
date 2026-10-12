@@ -3,7 +3,7 @@ title: "Other Traditions"
 permalink: /traditions/other/
 ---
 
-# Other Traditions: Taoist, Confucian, Shinto, Baha'i, Zoroastrian, Latter-day Saint
+# Other Traditions: Taoist, Confucian, Shinto, Baha'i, Zoroastrian
 {: .no_toc}
 
 > **Review note:** this pack was drafted as a respectful outsider summary. Adherents of each branch should review and correct it; describe your own branch as its thoughtful members would.
@@ -27,7 +27,6 @@ Brief entries for traditions not covered by a full pack. Each can be expanded in
 | Shinto | Reverence for the kami (sacred powers) through shrine ritual and purity | Shrine Shinto; folk Shinto; Shinto sects | *Kojiki*, *Nihon Shoki* (not scripture in the same sense) |
 | Baha'i Faith | One God, the unity of religions and humanity, progressive revelation | One community (the Universal House of Justice) | Writings of Baha'u'llah, the Bab, and 'Abdu'l-Baha |
 | Zoroastrianism | Ahura Mazda, the struggle of good and evil, good thoughts, words, and deeds | Iranian Zoroastrians; Parsis of India | The Avesta, especially the Gathas |
-| Latter-day Saints | Restoration of Christ's church through Joseph Smith; continuing revelation | The Church of Jesus Christ of Latter-day Saints; Community of Christ and smaller groups | Bible, Book of Mormon, Doctrine and Covenants, Pearl of Great Price |
 
 ## Taoism and Confucianism
 
@@ -50,8 +49,6 @@ Brief entries for traditions not covered by a full pack. Each can be expanded in
 - **Free sources:** [sacred-texts.com: Zoroastrianism](https://sacred-texts.com/zor/index.htm) (older translations of the Avesta). Avesta.org did not load when checked.
 - **Slot text:** *Lead with the Zoroastrian reading, citing the Gathas by Yasna and stanza, and noting differences between Iranian and Parsi communities where relevant.*
 
-## Latter-day Saints (status disputed)
+## Latter-day Saints
 
-Latter-day Saints regard themselves as Christians. Most Catholic, Orthodox, and Protestant churches do not consider Latter-day Saint teaching (for example on the nature of God and the Trinity) to be within historic Christian orthodoxy, and do not recognize its baptism.
-- **Free sources:** [Scriptures (The Church of Jesus Christ of Latter-day Saints)](https://www.churchofjesuschrist.org/study/scriptures).
-- **Slot text:** *Lead with the Latter-day Saint reading, citing the Book of Mormon and Doctrine and Covenants by book, chapter, and verse and church leaders' teachings, and note where other Christian traditions disagree, from their own sources.*
+Moved to [Nontrinitarian and restorationist offshoots](../christian/nontrinitarian-offshoots.md#latter-day-saints), in the Christian family folder, where its disputed status is explained.

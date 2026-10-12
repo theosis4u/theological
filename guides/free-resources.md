@@ -43,6 +43,10 @@ Use these in place of the Logos library in the [method template](ai-theology-met
 | [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/) | Classical Greek and Latin texts and lexica (including LSJ), useful for word usage outside the Bible |
 | [Sefaria](https://www.sefaria.org/) | Jewish texts (Tanakh, Second Temple works, rabbinic literature) for Old Testament and Jewish background |
 
+### Indian philosophy survey
+
+- **Survey anthology:** Sarvepalli Radhakrishnan and Charles A. Moore (eds.), *A Sourcebook in Indian Philosophy* (Princeton University Press, 1957; paperback ISBN 9780691019581; an ebook edition is listed as ISBN 9781400865062). [Borrow free at the Internet Archive](https://archive.org/details/sourcebookinindi00radh) (a 1989 printing, through controlled digital lending: a free account and one-hour borrows) or see the [Princeton page](https://press.princeton.edu/books/paperback/9780691019581/a-sourcebook-in-indian-philosophy). It is a mid-20th-century anthology, and Radhakrishnan writes from a modern Advaita (Neo-Vedanta) perspective, so balance its introductions with each tradition's own sources. Useful for the [Hindu](../traditions/hindu/README.md), [Buddhist](../traditions/buddhist/README.md), and [Jain](../traditions/jain/README.md) packs, and for Carvaka materialism in the [secular](../traditions/secular/README.md) pack.
+
 ### Academic and open-access scholarship
 
 | Site | Good for |
