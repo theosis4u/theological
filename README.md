@@ -23,7 +23,7 @@ A public toolkit for studying Scripture with **Logos Bible Software**, a **GitHu
 
 This project was started by an Eastern Orthodox Christian, but it is built to be flexible for anyone: Christians of any tradition, people of other faiths, and people of no faith, including atheists and skeptics.
 
-- **Plug in your own tradition or worldview** and preferences, then set your primary sources yourself or ask the AI to find them.
+- **Plug in your own tradition or worldview** (Christian [tradition packs](traditions/README.md), or [world religions and worldviews](traditions/world-religions/README.md) from Buddhist to secular, branch by branch) and preferences, then set your primary sources yourself or ask the AI to find them.
 - **Build comparisons and counter-arguments** from the other traditions' references in this project, quoted from their own sources.
 - **The goal** is to dig deeper into your own belief or tradition while engaging challenges from others honestly, with a **check for logical fallacies on every argument, your own side's included**. Steelman, don't strawman.
 

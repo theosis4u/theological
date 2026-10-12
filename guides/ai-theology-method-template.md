@@ -17,7 +17,7 @@ topic: workflow
 
 This is a fill-in template for a standing instruction file that you give an AI assistant before theological research, Bible study, or debate analysis. Copy it into your own private repo (for example as `METHOD.md`), fill in the `<placeholders>`, and point the assistant at it at the start of each session. It pairs with the [Logos + GitHub workflow guide](logos-github-workflow.md).
 
-It works for any tradition or worldview, Christian or not, including secular and skeptical ones (see [other faiths and secular](../traditions/other-faiths-and-secular.md)); where it says "Scripture" or "Bible," substitute your own authoritative texts. The aim is to go deeper into your own view while engaging others honestly, with a fallacy review on every argument.
+It works for any tradition or worldview, Christian or not, including secular and skeptical ones (see [world religions and worldviews](../traditions/world-religions/README.md)); where it says "Scripture" or "Bible," substitute your own authoritative texts. The aim is to go deeper into your own view while engaging others honestly, with a fallacy review on every argument.
 
 Placeholders used below:
 

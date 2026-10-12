@@ -16,6 +16,9 @@ These packs describe each tradition as its own members would, without polemic. N
 | Wesleyan / Methodist | [wesleyan-methodist.md](wesleyan-methodist.md) |
 | Baptist | [baptist.md](baptist.md) |
 | Pentecostal | [pentecostal.md](pentecostal.md) |
-| Other faiths and secular worldviews (Jewish, Muslim, other religions, atheist/agnostic/skeptic), and how to build your own pack | [other-faiths-and-secular.md](other-faiths-and-secular.md) |
+
+## World religions and worldviews
+
+For other faiths and for secular worldviews, see [World religions and worldviews](world-religions/README.md): Buddhism, Hinduism, Islam, Judaism, Sikhism, Jainism, Pagan and Neopagan, secular (atheist, agnostic, humanist, naturalist, skeptic), esoteric and occult, and other traditions (Taoist, Confucian, Shinto, Baha'i, Zoroastrian, Latter-day Saint). Each family gives every major branch its own subsection and slot text, because branches differ.
 
 To add a tradition, see [CONTRIBUTING.md](../CONTRIBUTING.md).
