@@ -28,7 +28,7 @@ Listed alphabetically.
 |---|---|---|
 | Buddhist | Theravada; Mahayana (Zen, Pure Land, Tiantai/Nichiren); Vajrayana (Nyingma, Kagyu, Sakya, Gelug) | [buddhist/](buddhist/README.md) |
 | Christian | Adventist, Anabaptist, Anglican, Baptist, Eastern Orthodox, Lutheran, Moravian, nondenominational, Pentecostal/Charismatic, Quaker, Quietism and mystical renewal, Reformed/Presbyterian, Restorationist, Roman Catholic, Wesleyan/Methodist; nontrinitarian offshoots (Latter-day Saints, Jehovah's Witnesses, Oneness Pentecostal, Unitarian, Christian Science; status disputed); an explainer on "evangelical" | [christian/](christian/README.md) |
-| Esoteric and occult | Hermeticism, Theosophy, Anthroposophy, Thelema, Rosicrucianism, modern Gnosticism, esoteric Kabbalah | [esoteric/](esoteric/README.md) |
+| Esoteric and occult | Hermeticism, Theosophy, Anthroposophy, esoteric Freemasonry, Golden Dawn, Thelema (A∴A∴, O.T.O.), Martinism, Rosicrucianism, BOTA, Society of the Inner Light, modern Gnosticism, Hermetic Qabalah | [esoteric/](esoteric/README.md) |
 | Hindu | Vaishnava, Shaiva, Shakta, Smarta; Advaita, Vishishtadvaita, Dvaita Vedanta | [hindu/](hindu/README.md) |
 | Islam | Sunni (four madhhabs, Salafi), Shia (Twelver, Ismaili, Zaydi), Ibadi, Sufism; Ahmadiyya (disputed) | [islam/](islam/README.md) |
 | Jain | Digambara, Svetambara | [jain/](jain/README.md) |
