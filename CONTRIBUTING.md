@@ -17,14 +17,14 @@ Contributions are welcome, especially new tradition packs and corrections to exi
 
 ## Adding a tradition pack
 
-1. Copy an existing file in [`traditions/`](traditions/) to `traditions/<tradition-name>.md` (lowercase, hyphens).
+1. Copy an existing pack under [`traditions/`](traditions/README.md) into its family folder (e.g. `traditions/christian/<tradition-name>.md`) or a new family folder `traditions/<family>/README.md` (lowercase, hyphens).
 2. Keep the same sections, in order:
    - **Authoritative standards** (confessions, catechisms, councils, or statements, and how they are cited)
    - **Key Fathers / theologians** (historic and modern)
    - **Study Bibles and Logos resources** (titles only)
    - **Translation preferences**
    - **Slot text: "your tradition first"** (one indented paragraph for section 4 of the method template)
-3. Add a row to the table in [`traditions/README.md`](traditions/README.md).
+3. Add a row to the table in [`traditions/README.md`](traditions/README.md) (and the family index, e.g. `traditions/christian/README.md`).
 
 ## Style rules
 

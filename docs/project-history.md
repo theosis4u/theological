@@ -92,6 +92,8 @@ This page explains what was built in this repo, in roughly the order it was buil
 - **Verify every link by fetching it**, and drop what you can't confirm. Some sites block automated fetches, so try a second method before dropping.
 - **Free books add up.** Logos, Verbum, and Faithlife Ebooks give away books monthly; a reminder or an assistant routine to check (never to claim without approval) builds a library over time. See [Building a free Logos library](../guides/free-resources.md#building-a-free-logos-library).
 
+- **Avoid structural bias.** The Christian packs once sat at the root of `traditions/` while every other faith sat under a "world religions" subfolder, which made Christianity look like the default. Every family is now a peer folder under [traditions/](../traditions/README.md) (Buddhist, Christian, Hindu, Islam, Judaism, secular, and the rest), listed alphabetically, and the old URLs redirect to the new ones.
+
 ## 4. Open items
 
 - NET notes in pop-ups: waiting on the permission request; until then, link out.

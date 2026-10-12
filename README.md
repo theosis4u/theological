@@ -23,7 +23,7 @@ A public toolkit for studying Scripture with **Logos Bible Software**, a **GitHu
 
 This project was started by an Eastern Orthodox Christian, but it is built to be flexible for anyone: Christians of any tradition, people of other faiths, and people of no faith, including atheists and skeptics.
 
-- **Plug in your own tradition or worldview** (Christian [tradition packs](traditions/README.md), or [world religions and worldviews](traditions/world-religions/README.md) from Buddhist to secular, branch by branch) and preferences, then set your primary sources yourself or ask the AI to find them.
+- **Plug in your own tradition or worldview** ([traditions and worldviews](traditions/README.md): Buddhist, Christian, Hindu, Muslim, Jewish, secular and more, branch by branch) and preferences, then set your primary sources yourself or ask the AI to find them.
 - **Build comparisons and counter-arguments** from the other traditions' references in this project, quoted from their own sources.
 - **The goal** is to dig deeper into your own belief or tradition while engaging challenges from others honestly, with a **check for logical fallacies on every argument, your own side's included**. Steelman, don't strawman.
 
@@ -44,7 +44,7 @@ This project was started by an Eastern Orthodox Christian, but it is built to be
 | [guides/setup-checklist.md](guides/setup-checklist.md) | Setup checklist and FAQ / pitfalls |
 | [guides/ai-coverage-test.md](guides/ai-coverage-test.md) | Matched-prompt kit for testing an AI assistant's coverage of your library, with a bug-report template |
 | [starter-kit/](starter-kit/) | Skeleton for your own **private** study repo |
-| [traditions/](traditions/) | Starter packs for eight traditions, with text for the method's "your tradition first" slot |
+| [traditions/](traditions/) | Starter packs for each faith family and worldview, as peer folders, with text for the method's "your tradition first" slot |
 | [prompts/](prompts/) | One prompt per request type, each with an example |
 | [examples/](examples/) | Worked examples: a passage study (John 1:1–5) and a small-group handout (John 3:16–21), each with generated Logos-note HTML |
 | [tools/](tools/) | Python scripts: Markdown→Logos HTML, chat PDF importer, index builder, note save server, notes DB reader |
