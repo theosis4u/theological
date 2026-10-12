@@ -10,6 +10,8 @@ This guide describes a working setup that connects Logos Bible Software (both th
 
 For a companion template of standing instructions for the AI assistant (request types, source tiers, verification and citation rules), see [A Working Method and Template for AI-Assisted Theological Study](ai-theology-method-template.md).
 
+See also the [setup checklist and FAQ](setup-checklist.md) and the [AI coverage testing kit](ai-coverage-test.md).
+
 All names, paths, and IDs below are placeholders. Replace `<you>`, `<random>`, and similar markers with your own values.
 
 ## 1. Architecture
@@ -169,7 +171,7 @@ Logos includes an AI Study Assistant that can answer questions from your library
 
 - **Scope it to "Your books"** so answers draw on resources you own, and check which resources it actually cites.
 - **Treat answers as leads, not quotations.** Open each cited resource, read the passage in context, and quote from the resource itself (using section 5.1), not from the assistant's summary.
-- **Test coverage yourself.** Coverage across resources and traditions may be uneven; some resources you own may not be retrieved. Ask matched questions (the same question framed for different traditions or sources you know are in your library) and compare which resources it cites. If something you own never appears, note the resource, the question, and the answer, and report it to Faithlife.
+- **Test coverage yourself.** Coverage across resources and traditions may be uneven; some resources you own may not be retrieved. Ask matched questions (the same question framed for different traditions or sources you know are in your library) and compare which resources it cites; the [coverage testing kit](ai-coverage-test.md) gives a full procedure. If something you own never appears, note the resource, the question, and the answer, and report it to Faithlife.
 - You can ask it to format answers so they paste cleanly into a note, then edit and verify before saving.
 
 ## 8. Comparing translations
