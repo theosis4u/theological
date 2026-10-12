@@ -1,5 +1,19 @@
 # theological
-Theological Writings Produced With Grok
+
+> **You don't have to do this by hand.** Give this repo to an AI assistant (Grok Bot, ChatGPT, Claude, Copilot, or similar). It reads everything, does what it can itself, and asks you only for the choices and actions it can't make for you.
+>
+> 1. **Open your AI assistant.**
+> 2. **Paste this prompt:**
+>
+> ```text
+> Please read https://github.com/theosis4u/theological, starting with START-HERE.md, and follow its "Instructions for the AI assistant." Do everything you can yourself, ask me one question at a time only for choices or actions you can't do, and ask before you change, send, or sign up for anything.
+> ```
+>
+> 3. **Answer its questions**, one at a time.
+>
+> **It will ask you:** which tradition to favor (or compare several), your preferred translations, which study resources you own (Logos or free sites), what you use it for, and which existing material to import (old AI chats, posts, email, notes).
+> **It can't do for you:** sign in to your accounts, install anything on your computer, pay for anything, or approve its own actions. It should ask before creating, sending, or publishing anything. If it can't open web links, upload the repo ZIP instead (see [START-HERE](START-HERE.md)).
+
 
 A public toolkit for studying Scripture with **Logos Bible Software**, a **GitHub Markdown repository**, and an **AI assistant**: keep your study work in plain text you control, share it as Logos notes, cite sources with links to the exact location, and give your assistant a clear, fair working method. Everything here is generic and can be adapted to any Christian tradition; no tradition is presented as the house view.
 

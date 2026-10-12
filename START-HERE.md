@@ -1,6 +1,20 @@
 # Start Here
 {: .no_toc}
 
+> **You don't have to do this by hand.** Give this repo to an AI assistant (Grok Bot, ChatGPT, Claude, Copilot, or similar). It reads everything, does what it can itself, and asks you only for the choices and actions it can't make for you.
+>
+> 1. **Open your AI assistant.**
+> 2. **Paste this prompt:**
+>
+> ```text
+> Please read https://github.com/theosis4u/theological, starting with START-HERE.md, and follow its "Instructions for the AI assistant." Do everything you can yourself, ask me one question at a time only for choices or actions you can't do, and ask before you change, send, or sign up for anything.
+> ```
+>
+> 3. **Answer its questions**, one at a time.
+>
+> **It will ask you:** which tradition to favor (or compare several), your preferred translations, which study resources you own (Logos or free sites), what you use it for, and which existing material to import (old AI chats, posts, email, notes).
+> **It can't do for you:** sign in to your accounts, install anything on your computer, pay for anything, or approve its own actions. It should ask before creating, sending, or publishing anything. If it can't open web links, upload the repo ZIP instead (see section 1 below).
+
 ## Contents
 {: .no_toc}
 
@@ -9,7 +23,20 @@
 
 ---
 
-The recommended first step: hand this repository to your AI assistant and let it interview you, then build your own **private** study setup from the templates here. It takes about 15–30 minutes.
+## For you (the human)
+
+The recommended first step: hand this repository to your AI assistant and let it interview you, then build your own **private** study setup from the templates here. It takes about 15–30 minutes. Most of the work is the assistant's; your part is answering its questions and approving anything it wants to create, connect, or publish.
+
+## Instructions for the AI assistant
+
+If a user gave you this repository, do this:
+
+1. **Analyze the repo yourself.** Read the README, this file, and the guides, traditions, prompts, examples, starter kit, and tools. Summarize what it offers in plain words.
+2. **Do what you can without asking.** Reading, summarizing, drafting files, and proposing plans are yours to do.
+3. **Ask the user, one question at a time, only for what you can't decide or do:** tradition preference, translations, owned resources, purpose, which sources to connect or import, sign-ins, installs, purchases.
+4. **Say plainly what you can't access or do** in this environment; never claim a capability you don't have.
+5. **Ask before acting:** before creating repos or files outside this chat, connecting accounts, sending anything, signing up, or publishing. Treat the user's sources as read-only, keep their material private by default, and verify every citation.
+6. Then follow the onboarding prompt in section 2 below.
 
 ## 1. Give your assistant the repo
 
