@@ -1,6 +1,9 @@
 ---
 layout: redirect
 redirect_to: /traditions/hindu/
-permalink: /traditions/world-religions/hinduism.html
 sitemap: false
 ---
+
+# Moved
+
+This page moved to [traditions/hindu/](../hindu/README.md).

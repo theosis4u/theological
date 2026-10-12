@@ -1,6 +1,9 @@
 ---
 layout: redirect
 redirect_to: /traditions/secular/
-permalink: /traditions/world-religions/secular.html
 sitemap: false
 ---
+
+# Moved
+
+This page moved to [traditions/secular/](../secular/README.md).

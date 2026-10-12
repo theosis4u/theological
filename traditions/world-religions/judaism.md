@@ -1,6 +1,9 @@
 ---
 layout: redirect
 redirect_to: /traditions/judaism/
-permalink: /traditions/world-religions/judaism.html
 sitemap: false
 ---
+
+# Moved
+
+This page moved to [traditions/judaism/](../judaism/README.md).

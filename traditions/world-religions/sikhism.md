@@ -1,6 +1,9 @@
 ---
 layout: redirect
 redirect_to: /traditions/sikh/
-permalink: /traditions/world-religions/sikhism.html
 sitemap: false
 ---
+
+# Moved
+
+This page moved to [traditions/sikh/](../sikh/README.md).
