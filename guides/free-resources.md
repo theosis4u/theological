@@ -71,7 +71,24 @@ Logos's help page ["How do I get this month's free Logos book?"](https://support
 | Subscriber free book | [logos.com/free-book/subscriber](https://www.logos.com/free-book/subscriber) | For Logos subscription holders only |
 | Free ebook and audiobook | [logos.com/free-ebook-and-audiobook](https://www.logos.com/free-ebook-and-audiobook) | The older links logos.com/free-ebook and /free-audiobook currently redirect to the monthly sale page |
 
-Lexham Press titles (Faithlife's own imprint) often appear among these freebies, but I found no separate Lexham free-book page that loads, so none is linked. Claiming each month adds up to a sizable library over a few years. Set a **monthly reminder** (for example the 1st and 16th), or ask an assistant with calendar access to remind you; it should never claim or sign up without your approval.
+Lexham Press titles have often appeared among these freebies. There is no separate Lexham free-book page; see "Faithlife's family of sites" below for why. Claiming each month adds up to a sizable library over a few years. Set a **monthly reminder** (for example the 1st and 16th), or ask an assistant with calendar access to remind you; it should never claim or sign up without your approval.
+
+### Faithlife's family of sites
+
+Logos is one of several sites run by the same company, Faithlife, LLC. According to [Faithlife's history page](https://faithlife.com/history) and [fast facts](https://faithlife.com/fast-facts), it began in 1992 as Logos Research Systems and rebranded as Faithlife in 2014. Recent press releases refer to the company as Logos. Each site below loaded on 2026-10-11.
+
+| Site | What it is | Useful for free study? |
+|---|---|---|
+| [Logos](https://www.logos.com/) and [app.logos.com](https://app.logos.com/) | The Bible software, store, and web app | **Yes:** free version, free-book pages, $0 store search, previews |
+| [Verbum](https://verbum.com/) | The Catholic edition of Logos | **Yes, for Catholic resources:** its own monthly free book |
+| [Biblia.com](https://biblia.com/) | A free online Bible reader. On the check date it opened to John 1 in the ESV with cross-reference letters and footnotes. | **Yes:** reading and comparing Bible texts in the browser without the Logos app |
+| [Faithlife.com](https://faithlife.com/) | Community groups and accounts | **Somewhat:** home of the Free Faithlife Books group |
+| [Faithlife Ebooks](https://ebooks.faithlife.com/) | Ebook store and reader, formerly Vyrso (launched 2011, per the fast facts) | **Yes:** its own [$0 search](https://ebooks.faithlife.com/search?query=price%3A0.00) |
+| [Proclaim](https://proclaim.logos.com/) | Church presentation software for slides and worship | **No:** not a study tool |
+
+**Lexham Press**, formerly Faithlife's in-house imprint (publisher of the LEB, the Lexham Bible Dictionary, and the Faithlife Study Bible), was acquired by Baker Publishing Group on September 23, 2025, according to the [Logos newsroom](https://www.logos.com/newsroom/baker-acquires-lexham-press) and [Baker's announcement](https://bakerpublishinggroup.com/pages/baker-publishing-group-acquires-lexham-press-strengthening-partnership-in-christian-publishing). The announcements say Logos keeps the rights to Lexham content within Logos, so the digital titles stay in Logos libraries. Old Lexham free-book addresses now redirect to a Baker bookstore search, which is why this guide has no Lexham free-book page.
+
+**Wordsearch Bible** was acquired from LifeWay in 2020, and its users were moved onto Logos with Logos-compatible editions of the titles they owned ([Baptist Press](https://www.baptistpress.com/resource-library/news/lifeway-sells-wordsearch-to-logos-bible-software-creator-faithlife/); also listed in Faithlife's fast facts). If you used Wordsearch, check your Logos library for those titles.
 
 ### 3. Free previews of books you don't own
 
