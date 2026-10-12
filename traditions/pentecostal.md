@@ -15,6 +15,9 @@
 - Fee, *God's Empowering Presence* _(verify in Logos)_.
 - Horton (ed.), *Systematic Theology: A Pentecostal Perspective* _(verify in Logos)_.
 
+## Free resources
+See [Free resources: by tradition](../guides/free-resources.md#pentecostal) for free online sources for this tradition, and the cross-tradition core in section 1 of that page.
+
 ## Translation preferences
 KJV and NKJV historically; NIV, NLT, ESV, and NASB are common today.
 

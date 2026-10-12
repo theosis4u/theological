@@ -19,6 +19,9 @@
 - Aquinas's *Summa Theologiae* and *Catena Aurea*.
 - *The Navarre Bible* _(verify in Logos)_.
 
+## Free resources
+See [Free resources: by tradition](../guides/free-resources.md#roman-catholic) for free online sources for this tradition, and the cross-tradition core in section 1 of that page.
+
 ## Translation preferences
 NABRE (used in the U.S. lectionary in revised form), RSV-2CE, NRSV Catholic Edition / NRSVue, Douay-Rheims for traditional wording, and the Jerusalem / New Jerusalem Bible. Include the deuterocanonical books.
 

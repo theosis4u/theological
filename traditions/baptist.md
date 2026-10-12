@@ -16,6 +16,9 @@
 - Erickson, *Christian Theology* _(verify in Logos)_.
 - *New American Commentary* series _(verify in Logos)_.
 
+## Free resources
+See [Free resources: by tradition](../guides/free-resources.md#baptist) for free online sources for this tradition, and the cross-tradition core in section 1 of that page.
+
 ## Translation preferences
 KJV, NKJV, ESV, NASB, CSB, and NIV, depending on church and stream.
 

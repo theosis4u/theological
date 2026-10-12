@@ -16,6 +16,9 @@
 - Schaff's *Nicene and Post-Nicene Fathers* and *Ante-Nicene Fathers* series.
 - Orthodox-specific collections and liturgical texts _(verify in Logos)_.
 
+## Free resources
+See [Free resources: by tradition](../guides/free-resources.md#eastern-orthodox) for free online sources for this tradition, and the cross-tradition core in section 1 of that page.
+
 ## Translation preferences
 LXX for the Old Testament where it differs from the Hebrew; NKJV is common in English (it underlies the Orthodox Study Bible's New Testament); the Eastern Orthodox Bible and other parish translations are also used. Note LXX vs. Masoretic differences explicitly.
 

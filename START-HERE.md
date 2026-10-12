@@ -35,9 +35,12 @@ B. INTERVIEW ME, ONE QUESTION AT A TIME
 Ask these one at a time, wait for my answer, and offer choices where useful:
 1. Which tradition should lead? Offer the packs in traditions/ (Eastern Orthodox, Roman Catholic, Reformed/Presbyterian, Lutheran, Anglican, Wesleyan/Methodist, Baptist, Pentecostal), plus "other" and "ecumenical / compare traditions".
 2. My default Bible translation, and 1-3 comparison translations.
-3. Study resources I own: do I use Logos (desktop, web, both)? Which study Bibles, commentaries, catechisms or confessions?
+3. Study resources I own: do I use Logos (desktop, web, both), or should we use free resources? Which study Bibles, commentaries, catechisms or confessions?
 4. What I use this for: group study, teaching, personal study, debate or social media, writing.
 5. Tone and length preferences, and anything I dislike in AI answers.
+
+FREE-RESOURCE MODE
+If I say I don't have Logos, use guides/free-resources.md instead of a Logos library: ask which tradition list there to prioritize, use its free tiers for Scripture, primary sources, and scholarship, quote with links, and ask me to verify each quote.
 
 C. SOURCES TO CONNECT OR IMPORT
 Ask which existing material I want to bring in: AI chat history (Grok, ChatGPT, Claude, Copilot), my X posts, email through connected apps, Logos notes, documents, lecture transcripts.

@@ -14,6 +14,9 @@
 - *Luther's Works* (American Edition).
 - *Concordia Commentary* series _(verify in Logos)_.
 
+## Free resources
+See [Free resources: by tradition](../guides/free-resources.md#lutheran) for free online sources for this tradition, and the cross-tradition core in section 1 of that page.
+
 ## Translation preferences
 ESV is common (it underlies The Lutheran Study Bible); NIV, NRSV, and KJV in various church bodies.
 

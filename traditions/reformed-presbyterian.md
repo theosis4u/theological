@@ -17,6 +17,9 @@
 - Bavinck, *Reformed Dogmatics* _(verify in Logos)_.
 - Historical creeds and confessions collections (e.g. Schaff, *The Creeds of Christendom*).
 
+## Free resources
+See [Free resources: by tradition](../guides/free-resources.md#reformed--presbyterian) for free online sources for this tradition, and the cross-tradition core in section 1 of that page.
+
 ## Translation preferences
 ESV and NASB are common; NKJV and KJV in some churches; CSB in others. Attention to the original languages is expected.
 

@@ -16,6 +16,7 @@ A public toolkit for studying Scripture with **Logos Bible Software**, a **GitHu
 | [guides/ai-theology-method-template.md](guides/ai-theology-method-template.md) | Fill-in working method for your AI assistant (request types, source tiers, verification, fairness, honesty, citation rules) |
 | [guides/copilot-workflow.md](guides/copilot-workflow.md) | The same workflow using only Microsoft Copilot (and optionally GitHub Copilot) plus Logos, by copy and paste |
 | [guides/starting-points.md](guides/starting-points.md) | Optional ways to seed a study repo from existing material (AI chats, X, email, Logos, documents, transcripts), then sort and commit it |
+| [guides/free-resources.md](guides/free-resources.md) | Free scholarly alternatives to Logos, cross-tradition and by tradition, and how to use them with an AI assistant |
 | [guides/setup-checklist.md](guides/setup-checklist.md) | Setup checklist and FAQ / pitfalls |
 | [guides/ai-coverage-test.md](guides/ai-coverage-test.md) | Matched-prompt kit for testing an AI assistant's coverage of your library, with a bug-report template |
 | [starter-kit/](starter-kit/) | Skeleton for your own **private** study repo |
@@ -32,6 +33,7 @@ A public toolkit for studying Scripture with **Logos Bible Software**, a **GitHu
 - [A working method and template for AI-assisted theological study](guides/ai-theology-method-template.md)
 - [Using the workflow with Microsoft Copilot and Logos](guides/copilot-workflow.md)
 - [Starting points: seeding a study repo from existing material](guides/starting-points.md)
+- [Free resources for exegesis and theology (no Logos needed)](guides/free-resources.md)
 - [Setup checklist and FAQ](guides/setup-checklist.md)
 - [Testing an AI study assistant's coverage of your library](guides/ai-coverage-test.md)
 

@@ -16,6 +16,9 @@
 - Hooker, *Of the Laws of Ecclesiastical Polity* _(verify in Logos)_.
 - Study Bibles vary by stream (e.g. ESV Study Bible, NRSV-based study Bibles).
 
+## Free resources
+See [Free resources: by tradition](../guides/free-resources.md#anglican) for free online sources for this tradition, and the cross-tradition core in section 1 of that page.
+
 ## Translation preferences
 KJV historically; today ESV, NRSV / NRSVue, and NIV, depending on province and stream. Psalter quotations often follow the prayer book.
 

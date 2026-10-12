@@ -15,6 +15,9 @@
 - Adam Clarke's *Commentary* (public domain).
 - *Wesley Study Bible* _(verify in Logos)_.
 
+## Free resources
+See [Free resources: by tradition](../guides/free-resources.md#wesleyan--methodist) for free online sources for this tradition, and the cross-tradition core in section 1 of that page.
+
 ## Translation preferences
 NRSV / NRSVue and CEB in mainline settings; NIV, NKJV, and KJV in holiness and evangelical Wesleyan bodies.
 
