@@ -4,6 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  {%- if page.audience_colors -%}<link rel="stylesheet" href="{{ "/assets/css/audience-colors.css" | relative_url }}">{%- endif -%}
   {%- unless page.reftagger == false -%}{%- include reftagger.html -%}{%- endunless -%}
   {%- if page.quran_popups -%}{%- include quran-popups.html -%}{%- endif -%}
   {%- if page.sefaria_linker -%}{%- include sefaria-linker.html -%}{%- endif -%}

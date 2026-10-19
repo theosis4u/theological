@@ -1,0 +1,18 @@
+/* Audience color key for the Ephesians examples (pages with audience_colors: true). */
+.aud-paul    { color: #6B2D9B; font-weight: bold; }
+.aud-jew     { color: #9A6E00; font-weight: bold; } /* yellow (gold), darkened for contrast on white */
+.aud-gentile { color: #1A5FA8; font-weight: bold; }
+.aud-both    { color: #2E7D32; font-weight: bold; }
+.aud-hinge   { color: #C62828; font-weight: bold; }
+.aud-ambig   { color: #6B6B6B; font-weight: bold; }
+.aud-pink    { color: #B23A72; font-weight: bold; }
+.aud-note    { color: #6B6B6B; font-style: italic; font-weight: bold; }
+.aud-badge   { display: inline-block; padding: 0 .45em; border-radius: 4px; font-size: .85em; font-weight: bold; border: 1px solid; }
+.aud-badge.aud-jew     { background: #FFF3C4; border-color: #D4A017; }
+.aud-badge.aud-gentile { background: #DCE9F8; border-color: #1A5FA8; }
+.aud-badge.aud-both    { background: #E2F2E3; border-color: #2E7D32; }
+.aud-badge.aud-pink    { background: #FBE0EC; border-color: #D0588C; }
+.aud-badge.aud-hinge   { background: #FDE3E3; border-color: #C62828; }
+.aud-badge.aud-paul    { background: #EEE2F6; border-color: #6B2D9B; }
+.aud-badge.aud-ambig   { background: #EEEEEE; border-color: #757575; }
+table.aud-legend td:first-child { white-space: nowrap; }
